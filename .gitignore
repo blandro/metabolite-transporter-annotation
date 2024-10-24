@@ -1,0 +1,5 @@
+chebi_data/chebi.owl
+chebi_data/*.gz
+chebi_data/*.tsv
+SMILES_INCHI/chebiDf.tsv
+tcdb_data_combined.csv

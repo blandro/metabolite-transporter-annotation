@@ -1,0 +1,23 @@
+Take 2.A.1.3.6 as an example.
+Some of its GO terms are defined, others are not.
+And they differ in specificity.
+The transporter can use H+, Na+ or K+.
+
+
+Complete DeepTMHMM
+Filter out transporters that have substrates with children in Chebi
+Extract MW, charge, polarity, InChI, SMILES
+Dive into ontology of the transporters
+
+Find the final children with no other children
+SMILES and InChI are probably smart to dive into
+Maybe use as they are, or extract some data from them to my pipeline
+UNDERSTAND THEM
+
+Go from leaf children to TCDB number, either through Chebi, UniProt or GOterms.
+
+SMILES:
+Examples of stereochemistry that cannot be encoded into a SMILES include:
+* Gross conformational left or right handedness such as helices
+* Mechanical interferences, such as rotatable bonds that are constrained by mechanical interferences
+* Gross conformational stereochemistry such as the shape of a protein after folding
