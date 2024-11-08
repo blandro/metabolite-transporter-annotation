@@ -1,0 +1,236 @@
+Substrate	Neighbors
+(2E)-glutaconyl-CoA	EC:7.2.4.5
+H(+)	EC:7.2.4.4, EC:7.2.4.2, EC:7.2.4.1, EC:7.2.1.1, EC:7.2.1.2, EC:7.2.4.5
+Na(+)(in)	EC:7.2.4.4, EC:7.2.2.3, EC:7.2.2.4, EC:7.2.3.1, EC:7.2.1.2, EC:7.2.2.13, EC:7.2.4.5, EC:7.2.4.3
+(2E)-butenoyl-CoA	
+CO2	
+Na(+)(out)	
+ATP	EC:7.4.2.11, EC:7.5.2.10, EC:7.6.2.8, EC:7.2.2.3, EC:7.2.2.5, EC:7.2.2.1, EC:7.2.2.14, EC:7.2.2.4, EC:7.2.2.12, EC:7.2.2.2, EC:7.4.2.6, EC:7.2.2.13, EC:7.3.2.7, EC:7.4.2.10, EC:7.4.2.12, EC:7.6.2.3, EC:7.2.2.18, EC:7.4.2.9, EC:7.3.2.4, EC:7.6.2.5, EC:7.5.2.13, EC:7.2.2.10, EC:7.6.2.2, EC:7.4.2.13, EC:7.2.2.6, EC:7.5.2.7, EC:7.3.2.3, EC:7.5.2.12, EC:7.3.2.5, EC:7.2.2.19, EC:7.6.2.4, EC:7.6.2.15, EC:7.2.2.7, EC:7.6.2.10, EC:7.6.2.9, EC:7.4.2.14, EC:7.5.2.9, EC:7.6.2.16, EC:7.5.2.8, EC:7.2.2.15, EC:7.6.2.6, EC:7.1.2.2, EC:7.2.2.17, EC:7.5.2.11, EC:7.2.2.9, EC:7.4.2.7, EC:7.1.2.1, EC:7.5.2.1, EC:7.4.2.1, EC:7.5.2.3, EC:7.3.2.2, EC:7.2.2.21, EC:7.2.2.22, EC:7.3.2.6, EC:7.2.2.11, EC:7.6.2.11, EC:7.3.2.1, EC:7.6.2.7, EC:7.2.2.8
+H2O	EC:7.4.2.11, EC:7.5.2.10, EC:7.6.2.8, EC:7.2.2.3, EC:7.2.2.5, EC:7.2.2.1, EC:7.2.2.14, EC:7.2.2.4, EC:7.2.2.12, EC:7.2.3.1, EC:7.2.2.2, EC:7.4.2.6, EC:7.2.2.13, EC:7.3.2.7, EC:7.4.2.10, EC:7.4.2.12, EC:7.6.2.3, EC:7.2.2.18, EC:7.4.2.9, EC:7.3.2.4, EC:7.6.2.5, EC:7.5.2.13, EC:7.2.2.10, EC:7.6.2.2, EC:7.4.2.13, EC:7.2.2.6, EC:7.5.2.7, EC:7.3.2.3, EC:7.5.2.12, EC:7.3.2.5, EC:7.2.2.19, EC:7.6.2.4, EC:7.6.2.15, EC:7.2.2.7, EC:7.6.2.10, EC:7.6.2.9, EC:7.4.2.14, EC:7.5.2.9, EC:7.6.2.16, EC:7.5.2.8, EC:7.2.2.15, EC:7.6.2.6, EC:7.1.2.2, EC:7.2.2.17, EC:7.5.2.11, EC:7.2.2.9, EC:7.4.2.7, EC:7.1.2.1, EC:7.5.2.1, EC:7.4.2.1, EC:7.5.2.3, EC:7.3.2.2, EC:7.2.2.21, EC:7.2.2.22, EC:7.3.2.6, EC:7.2.2.11, EC:7.6.2.11, EC:7.1.3.1, EC:7.3.2.1, EC:7.6.2.7, EC:7.2.2.8
+phosphate(out)	EC:7.3.2.1
+ADP	
+2 phosphate(in)	
+Cu(+)(in)	EC:7.2.2.8
+Cu(+)(out)	
+phosphate	
+a ubiquinone	EC:7.2.1.1, EC:7.1.1.2
+5 H(+)(in)	EC:7.1.1.2
+NADH	EC:7.2.1.1, EC:7.1.1.2
+a ubiquinol	
+4 H(+)(out)	
+NAD(+)	EC:7.2.1.2, EC:7.1.1.1, EC:7.1.1.11
+D-methionine(out)	EC:7.4.2.11
+D-methionine(in)	
+L-methionine(out)	EC:7.4.2.11
+L-methionine(in)	
+glutathione(out)	EC:7.4.2.10
+glutathione(in)	
+ATP(in)	EC:7.2.2.20
+H2O(in)	EC:7.2.2.20
+Zn(2+)(out)	EC:7.2.2.20
+ADP(in)	
+H(+)(in)	EC:7.2.2.19, EC:7.1.2.1, EC:7.1.1.1, EC:7.1.3.1
+phosphate(in)	
+Zn(2+)(in)	EC:7.2.2.12
+D-allose(out)	EC:7.5.2.8
+D-allose(in)	
+thiamine(out)	EC:7.6.2.15
+thiamine(in)	
+thiosulfate(out)	EC:7.3.2.3
+thiosulfate(in)	
+L-arginine(out)	EC:7.4.2.1
+L-arginine(in)	
+L-ornithine(out)	EC:7.4.2.1
+L-ornithine(in)	
+L-lysine(out)	EC:7.4.2.1
+L-lysine(in)	
+D-xylose(out)	EC:7.5.2.10, EC:7.5.2.13
+D-xylose(in)	
+D-ribose(out)	EC:7.5.2.7
+D-ribose(in)	
+putrescine(out)	EC:7.6.2.16
+putrescine(in)	
+spermidine(out)	EC:7.6.2.11
+spermidine(in)	
+L-arabinose(out)	EC:7.5.2.12, EC:7.5.2.13
+L-arabinose(in)	
+2 a ubiquinol	EC:7.1.1.3, EC:7.1.1.7
+n H(+)(in)	EC:7.1.1.4, EC:7.1.1.5, EC:7.1.1.3
+O2	EC:7.1.1.4, EC:7.1.1.5, EC:7.1.1.3, EC:7.1.1.9
+2 a ubiquinone	
+n H(+)(out)	
+2 H2O	
+2 a menaquinol	EC:7.1.1.5
+2 a menaquinone	
+2 H2O(in)	
+Fe(3+)(out)	EC:7.2.2.7, EC:7.2.1.3
+L-ascorbate(in)	EC:7.2.1.3
+Fe(2+)(out)	
+monodehydro-L-ascorbate radical(in)	
+daunorubicin(in)	EC:7.6.2.2
+daunorubicin(out)	
+(2R)-2-O-(alpha-D-mannosyl)-glycerate(out)	EC:2.7.1.195
+N(pros)-phospho-L-histidyl-[protein]	EC:2.7.1.193, EC:2.7.1.208, EC:2.7.1.201, EC:2.7.1.197, EC:2.7.1.196, EC:2.7.1.206, EC:2.7.1.207, EC:2.7.1.199, EC:2.7.1.191, EC:2.7.1.202, EC:2.7.1.200, EC:2.7.1.204, EC:2.7.1.195, EC:2.7.1.203, EC:2.7.1.194, EC:2.7.1.198, EC:2.7.1.205, EC:2.7.1.192
+(2R)-2-O-(6-phospho-alpha-D-mannosyl)-glycerate(in)	
+L-histidyl-[protein]	
+D-mannitol(out)	EC:2.7.1.197
+D-mannitol 1-phosphate(in)	
+D-glucose(out)	EC:2.7.1.199
+D-glucose 6-phosphate(in)	
+alpha,alpha-trehalose(out)	EC:2.7.1.201
+alpha,alpha-trehalose 6-phosphate(in)	
+N-acetyl-beta-D-muramate(out)	EC:2.7.1.192
+N-acetyl-beta-D-muramate 6-phosphate(in)	
+N,N'-diacetylchitobiose(out)	EC:2.7.1.196
+diacetylchitobiose-6'-phosphate(in)	
+tungstate(in)	EC:7.3.2.6
+tungstate(out)	
+2 caldariellaquinol	EC:7.1.1.4
+2 caldariellaquinone	
+4 H(+)(in)	EC:7.1.1.7, EC:7.1.2.2
+O2(in)	EC:7.1.1.7
+lactose(out)	EC:2.7.1.207
+lactose 6-phosphate(in)	
+L-ascorbate(out)	EC:2.7.1.194
+L-ascorbate 6-phosphate(in)	
+D-sorbitol(out)	EC:2.7.1.198
+D-sorbitol 6-phosphate(in)	
+N(6)-carboxybiotinyl-L-lysyl-[protein]	EC:7.2.4.1
+n Na(+)(in)	EC:7.2.1.1, EC:7.2.4.1
+N(6)-biotinyl-L-lysyl-[protein]	
+n Na(+)(out)	
+2 reduced [2Fe-2S]-[ferredoxin]	EC:7.1.1.10, EC:7.2.1.2, EC:7.1.1.11
+2 oxidized [2Fe-2S]-[ferredoxin]	
+NADPH	EC:7.1.1.1
+H(+)(out)	EC:7.2.4.3
+NADP(+)	
+D-mannose(out)	EC:2.7.1.191
+D-mannose 6-phosphate(in)	
+N(pros)-phospho-L-histidyl-[protein](out)	EC:2.7.1.211
+sucrose	EC:2.7.1.211
+sucrose 6(G)-phosphate(in)	
+N-acetyl-D-glucosamine(out)	EC:2.7.1.193
+N-acetyl-D-glucosamine 6-phosphate(in)	
+galactitol(out)	EC:2.7.1.200
+galactitol 1-phosphate(in)	
+D-fructose(out)	EC:2.7.1.202
+D-fructose 1-phosphate(in)	
+2-amino-2-deoxy-D-gluconate(out)	EC:2.7.1.203
+2-amino-2-deoxy-D-gluconate 6-phosphate(in)	
+D-galactose(out)	EC:7.5.2.11, EC:2.7.1.204
+D-galactose 6-phosphate(in)	
+D-cellobiose(out)	EC:2.7.1.205
+6-phospho-beta-D-glucosyl-(1->4)-D-glucose(in)	
+keto-L-sorbose(out)	EC:2.7.1.206
+L-sorbose 1-phosphate(in)	
+D-maltose(out)	EC:7.5.2.1, EC:2.7.1.208
+alpha-maltose 6'-phosphate(in)	
+5-methyl-5,6,7,8-tetrahydromethanopterin	EC:7.2.1.4
+coenzyme M	EC:7.2.1.4
+2 Na(+)(in)	EC:7.2.1.4, EC:7.2.4.2
+5,6,7,8-tetrahydromethanopterin	
+methyl-coenzyme M	
+2 Na(+)(out)	
+5 H(+)(out)	
+oxaloacetate	EC:7.2.4.2
+pyruvate	
+diphosphate	EC:7.1.3.1, EC:7.2.3.1
+2 phosphate	
+4 Na(+)(in)	EC:7.2.2.1
+4 Na(+)(out)	
+Fe(III)-enterobactin(out)	EC:7.2.2.17
+Fe(III)-enterobactin(in)	
+malonate	EC:7.2.4.4
+acetate	
+iron(III) dicitrate(out)	EC:7.2.2.18
+iron(III) dicitrate(in)	
+D-galactose(in)	
+D-galactofuranose(out)	EC:7.5.2.9
+D-galactofuranose(in)	
+L-cystine(out)	EC:7.4.2.12
+L-cystine(in)	
+D-cystine(out)	EC:7.4.2.12
+D-cystine(in)	
+L-tyrosine(out)	EC:7.4.2.13
+L-tyrosine(in)	
+a peptide antigen(in)	EC:7.4.2.14
+a peptide antigen(out)	
+Mn(2+)(in)	EC:7.2.2.22
+Mn(2+)(out)	EC:7.2.2.5
+a plastoquinone	EC:7.1.1.10
+6 H(+)(in)	EC:7.1.1.10
+a plastoquinol	EC:7.1.1.6
+3 H(+)(in)	EC:7.1.1.11
+2 H(+)(out)	EC:7.1.1.12
+a menaquinone	EC:7.1.1.12
+succinate	EC:7.1.1.12
+a menaquinol	
+fumarate	
+2 H(+)(in)	EC:7.1.1.6
+ergothioneine(out)	EC:7.6.2.9
+ergothioneine(in)	
+a [peptide](out)	EC:7.4.2.6
+a [peptide](in)	
+sulfate(out)	EC:7.3.2.3
+sulfate(in)	
+Mg(2+)(out)	EC:7.2.2.14
+Mg(2+)(in)	
+Cu(2+)(in)	EC:7.2.2.9
+Cu(2+)(out)	
+an [alpha-factor](in)	EC:7.4.2.7
+an [alpha-factor](out)	
+a quaternary ammonium(out)	EC:7.6.2.9
+a quaternary ammonium(in)	
+arsenite(in)	EC:7.3.2.7
+arsenite(out)	
+4 Fe(II)-[cytochrome c]	EC:7.1.1.9
+8 H(+)(in)	EC:7.1.1.9
+4 Fe(III)-[cytochrome c]	
+a quinol	EC:7.1.1.8
+2 Fe(III)-[cytochrome c](out)	EC:7.1.1.8
+a quinone	
+2 Fe(II)-[cytochrome c](out)	
+Cd(2+)(in)	EC:7.2.2.21, EC:7.2.2.2
+Cd(2+)(out)	
+Fe(3+)(in)	
+nitrate(out)	EC:7.3.2.4
+nitrate(in)	
+a [oligopeptide](in)	EC:7.4.2.6
+a [oligopeptide](out)	
+taurine(out)	EC:7.6.2.7
+taurine(in)	
+a polar amino acid(out)	EC:7.4.2.1
+a polar amino acid(in)	
+Ag(+)(in)	EC:7.2.2.15
+Ag(+)(out)	
+an acyl-CoA(out)	EC:7.6.2.4
+an acyl-CoA(in)	
+Ni(2+)(out)	EC:7.2.2.11
+Ni(2+)(in)	
+K(+)(out)	EC:7.2.2.19, EC:7.2.2.13, EC:7.2.2.6
+K(+)(in)	
+an R-cob(III)alamin(out)	EC:7.6.2.8
+an R-cob(III)alamin(in)	
+phosphonate(out)	EC:7.3.2.2
+phosphonate(in)	
+Ca(2+)(in)	EC:7.2.2.10
+Ca(2+)(out)	
+[(1->2)-beta-D-glucosyl](n)(in)	EC:7.5.2.3
+[(1->2)-beta-D-glucosyl](n)(out)	
+an S-substituted glutathione(in)	EC:7.6.2.3
+an S-substituted glutathione(out)	
+heme b(in)	EC:7.6.2.5
+heme b(out)	
+guanine(out)	EC:7.6.2.6
+guanine(in)	
+(S)-methylmalonyl-CoA	EC:7.2.4.3
+propanoyl-CoA	
+sn-glycerol 3-phosphate(out)	EC:7.6.2.10
+sn-glycerol 3-phosphate(in)	
+molybdate(out)	EC:7.3.2.5
+molybdate(in)	
+D-maltose(in)	
+2 oxidized [plastocyanin]	EC:7.1.1.6
+2 reduced [plastocyanin]	
+a dipeptide(out)	EC:7.4.2.9
+a dipeptide(in)	

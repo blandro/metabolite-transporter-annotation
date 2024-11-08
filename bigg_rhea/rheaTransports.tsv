@@ -1,0 +1,2614 @@
+tridt"isTransport"tcidtectaccessiontname
+0t10192t"true"t5441t('7.3.2.3',)tCHEBI:16189t"sulfate"
+2t10260t"true"t5136t('7.2.2.14',)tCHEBI:18420tMg(2+)
+4t10376t"true"t4720t('7.2.2.9',)tCHEBI:29036tCu(2+)
+6t10848t"true"t11611t('7.4.2.7',)tGENERIC:11611t"an [alpha-factor]"
+8t11036t"true"t8646t('7.6.2.9',)tCHEBI:35267t"a quaternary ammonium"
+10t11348t"true"t9324t('7.3.2.7',)tCHEBI:29242t"arsenite"
+12t11436t"true"t3249t('7.1.1.9',)tCHEBI:15378tH(+)
+14t11484t"true"t14399t('7.1.1.8',)tGENERIC:14399t"Fe(III)-[cytochrome c]"
+15t11484t"true"t10350t('7.1.1.8',)tGENERIC:10350t"Fe(II)-[cytochrome c]"
+16t11484t"true"t3249t('7.1.1.8',)tCHEBI:15378tH(+)
+17t12132t"true"t3309t('7.2.2.2', '7.2.2.21')tCHEBI:48775tCd(2+)
+19t12332t"true"t4615t('7.2.2.7',)tCHEBI:29034tFe(3+)
+21t13181t"true"t5436t('7.3.2.4',)tCHEBI:17632t"nitrate"
+23t13973t"true"t3249t('7.1.3.1',)tCHEBI:15378tH(+)
+25t14429t"true"t10531t('7.4.2.6',)tGENERIC:10531t"a [oligopeptide]"
+27t14613t"true"t4338t('7.6.2.7',)tCHEBI:507393t"taurine"
+29t14633t"true"t2426t('7.2.2.3', '7.2.2.4')tCHEBI:29101tNa(+)
+31t14673t"true"t10194t('7.4.2.1',)tCHEBI:62031ta polar amino acid
+33t14733t"true"t4602t('7.2.2.15',)tCHEBI:49468tAg(+)
+35t15181t"true"t4170t('7.6.2.4',)tCHEBI:58342tan acyl-CoA
+37t15557t"true"t1427t('7.2.2.11',)tCHEBI:49786tNi(2+)
+39t15597t"true"t11342t('nan',)tGENERIC:11342ta Fe(III)-siderophore
+41t16461t"true"t6691t('nan',)tCHEBI:17775t"urate"
+43t16777t"true"t3890t('7.2.2.6',)tCHEBI:29103tK(+)
+45t17365t"true"t4151t('7.2.2.5',)tCHEBI:29035tMn(2+)
+47t17629t"true"t1443t('nan',)tCHEBI:16551t"alpha,alpha-trehalose"
+49t17873t"true"t14732t('7.6.2.8',)tCHEBI:140785tan R-cob(III)alamin
+51t18065t"true"t7662t('7.3.2.2',)tCHEBI:16215t"phosphonate"
+53t18105t"true"t3017t('7.2.2.10',)tCHEBI:29108tCa(2+)
+55t18353t"true"t3890t('7.2.2.13',)tCHEBI:29103tK(+)
+56t18353t"true"t2426t('7.2.2.13',)tCHEBI:29101tNa(+)
+59t18453t"true"tPU_27517t('7.5.2.3',)tPOLYMER:11881t"[(1->2)-beta-D-glucosyl](PU)"
+61t19121t"true"t12203t('7.6.2.3',)tCHEBI:90779t"an S-substituted glutathione"
+63t19261t"true"t6629t('7.6.2.5',)tCHEBI:60344theme b
+65t20621t"true"t1073t('7.2.2.12',)tCHEBI:29105tZn(2+)
+67t20832t"true"t2523t('7.6.2.6',)tCHEBI:16235tguanine
+69t20852t"true"t3249t('7.1.2.1',)tCHEBI:15378tH(+)
+71t21396t"true"t3249t('7.2.4.3',)tCHEBI:15378tH(+)
+72t21396t"true"t2426t('7.2.4.3',)tCHEBI:29101tNa(+)
+74t21668t"true"t4431t('7.6.2.10',)tCHEBI:57597t"sn-glycerol 3-phosphate"
+76t22020t"true"t5442t('7.3.2.5',)tCHEBI:36264t"molybdate"
+78t22044t"true"t3249t('7.2.2.19',)tCHEBI:15378tH(+)
+79t22044t"true"t3890t('7.2.2.19',)tCHEBI:29103tK(+)
+82t22132t"true"t1425t('7.5.2.1',)tCHEBI:17306t"D-maltose"
+84t22148t"true"t3249t('7.1.1.6',)tCHEBI:15378tH(+)
+86t23120t"true"t12223t('7.4.2.9',)tCHEBI:90799t"a dipeptide"
+88t23972t"true"t2426t('7.2.4.5',)tCHEBI:29101tNa(+)
+90t24440t"true"t5518t('7.3.2.1',)tCHEBI:43474t"phosphate"
+92t25792t"true"t5769t('7.2.2.8',)tCHEBI:49552tCu(+)
+94t27814t"true"t6051t('nan',)tCHEBI:30089t"acetate"
+95t27814t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+98t27926t"true"t2283t('nan',)tCHEBI:57865tUMP
+100t27950t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+102t28446t"true"t6313t('nan',)tCHEBI:28354t1-deoxy-D-xylulose
+104t28450t"true"t6449t('nan',)tCHEBI:61403tN(6)-(D-psicosyl)-L-lysine
+106t28454t"true"t6448t('nan',)tCHEBI:61393t"N(6)-(D-fructosyl)-L-lysine"
+108t28458t"true"t2770t('nan',)tCHEBI:57586t"biotin"
+110t28462t"true"t4982t('nan',)tCHEBI:17310tpyridoxal
+112t28466t"true"t4017t('nan',)tCHEBI:57761tpyridoxamine
+114t28470t"true"t3533t('nan',)tCHEBI:16709tpyridoxine
+116t28474t"true"t5420t('nan',)tCHEBI:30612t"D-glucarate"
+117t28474t"true"t3249t('nan',)tCHEBI:15378tH(+)
+120t28478t"true"t5424t('nan',)tCHEBI:16537t"galactarate"
+121t28478t"true"t3249t('nan',)tCHEBI:15378tH(+)
+124t28486t"true"t1795t('nan',)tCHEBI:29033tFe(2+)
+126t28490t"true"t3249t('nan',)tCHEBI:15378tH(+)
+127t28490t"true"t3890t('nan',)tCHEBI:29103tK(+)
+130t28574t"true"t3249t('nan',)tCHEBI:15378tH(+)
+131t28574t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+134t28578t"true"t5254t('nan',)tCHEBI:48828tCo(2+)
+136t28695t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+138t28699t"true"t4151t('nan',)tCHEBI:29035tMn(2+)
+140t28703t"true"t4720t('nan',)tCHEBI:29036tCu(2+)
+142t28707t"true"t3309t('nan',)tCHEBI:48775tCd(2+)
+144t28711t"true"t3249t('nan',)tCHEBI:15378tH(+)
+145t28711t"true"t6536t('nan',)tCHEBI:60903t"N-(4-aminobenzoyl)-L-glutamate"
+148t28715t"true"t1917t('nan',)tCHEBI:15588t"(R)-malate"
+149t28715t"true"t3249t('nan',)tCHEBI:15378tH(+)
+152t28719t"true"t4174t('nan',)tCHEBI:16708tadenine
+153t28719t"true"t3249t('nan',)tCHEBI:15378tH(+)
+156t28723t"true"t2545t('nan',)tCHEBI:15678t"(S)-allantoin"
+157t28723t"true"t3249t('nan',)tCHEBI:15378tH(+)
+160t28727t"true"t4720t('nan',)tCHEBI:29036tCu(2+)
+161t28727t"true"t3249t('nan',)tCHEBI:15378tH(+)
+164t28731t"true"t3249t('nan',)tCHEBI:15378tH(+)
+165t28731t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+168t28735t"true"t3249t('nan',)tCHEBI:15378tH(+)
+169t28735t"true"t2557t('nan',)tCHEBI:57834tspermidine
+172t28739t"true"t3309t('nan',)tCHEBI:48775tCd(2+)
+173t28739t"true"t3249t('nan',)tCHEBI:15378tH(+)
+176t28743t"true"t5436t('nan',)tCHEBI:17632t"nitrate"
+177t28743t"true"t6016t('nan',)tCHEBI:16301t"nitrite"
+180t28747t"true"t1012t('nan',)tCHEBI:28938tNH4(+)
+182t28811t"true"t5509t('nan',)tCHEBI:57441t"2,3-dioxo-L-gulonate"
+183t28811t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+186t28815t"true"t3662t('nan',)tCHEBI:17879t"4-hydroxybenzoate"
+187t28815t"true"t3249t('nan',)tCHEBI:15378tH(+)
+190t28819t"true"t3903t('nan',)tCHEBI:58143t"5-dehydro-D-gluconate"
+191t28819t"true"t3249t('nan',)tCHEBI:15378tH(+)
+194t28823t"true"t3249t('nan',)tCHEBI:15378tH(+)
+195t28823t"true"t6094t('nan',)tCHEBI:53071t"L-galactonate"
+198t28827t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+199t28827t"true"t4665t('nan',)tCHEBI:326268t"putrescine"
+202t28831t"true"t2952t('nan',)tCHEBI:18391t"D-gluconate"
+203t28831t"true"t3249t('nan',)tCHEBI:15378tH(+)
+206t28835t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+207t28835t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+210t28839t"true"t3249t('nan',)tCHEBI:15378tH(+)
+211t28839t"true"t1073t('nan',)tCHEBI:29105tZn(2+)
+214t28843t"true"t3723t('nan',)tCHEBI:15354tcholine
+215t28843t"true"t3249t('nan',)tCHEBI:15378tH(+)
+218t28847t"true"t6552t('nan',)tCHEBI:49713tLi(+)
+219t28847t"true"t6520t('nan',)tCHEBI:28053tmelibiose
+222t28851t"true"t6520t('nan',)tCHEBI:28053tmelibiose
+223t28851t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+226t28855t"true"t3249t('nan',)tCHEBI:15378tH(+)
+227t28855t"true"t6520t('nan',)tCHEBI:28053tmelibiose
+230t28859t"true"t4602t('nan',)tCHEBI:49468tAg(+)
+231t28859t"true"t3249t('nan',)tCHEBI:15378tH(+)
+234t28863t"true"t3249t('nan',)tCHEBI:15378tH(+)
+235t28863t"true"t3030t('nan',)tCHEBI:17716t"lactose"
+238t28867t"true"t3249t('nan',)tCHEBI:15378tH(+)
+239t28867t"true"t3030t('nan',)tCHEBI:17716t"lactose"
+242t28871t"true"t6172t('nan',)tCHEBI:59863t"D-fructuronate"
+243t28871t"true"t3249t('nan',)tCHEBI:15378tH(+)
+246t28875t"true"t3249t('nan',)tCHEBI:15378tH(+)
+247t28875t"true"t1046t('nan',)tCHEBI:58315t"L-tyrosine"
+250t28879t"true"t3249t('nan',)tCHEBI:15378tH(+)
+251t28879t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+254t28883t"true"t3249t('nan',)tCHEBI:15378tH(+)
+255t28883t"true"t3255t('nan',)tCHEBI:57926t"L-threonine"
+258t28887t"true"t3249t('nan',)tCHEBI:15378tH(+)
+259t28887t"true"t4901t('nan',)tCHEBI:33384tL-serine
+262t28891t"true"t3249t('nan',)tCHEBI:15378tH(+)
+263t28891t"true"t4665t('nan',)tCHEBI:326268t"putrescine"
+266t28895t"true"t4631t('nan',)tCHEBI:58384tcadaverine
+267t28895t"true"t3235t('nan',)tCHEBI:32551tL-lysine
+270t28899t"true"t4570t('nan',)tCHEBI:57305tglycine
+271t28899t"true"t3249t('nan',)tCHEBI:15378tH(+)
+274t28903t"true"t4985t('nan',)tCHEBI:57416tD-alanine
+275t28903t"true"t3249t('nan',)tCHEBI:15378tH(+)
+278t28907t"true"t5320t('nan',)tCHEBI:57277t"3-(3-hydroxyphenyl)propanoate"
+279t28907t"true"t3249t('nan',)tCHEBI:15378tH(+)
+282t28911t"true"t3249t('nan',)tCHEBI:15378tH(+)
+283t28911t"true"t3235t('nan',)tCHEBI:32551tL-lysine
+286t28915t"true"t6180t('nan',)tCHEBI:59888t"4-aminobutanoate"
+287t28915t"true"t3249t('nan',)tCHEBI:15378tH(+)
+290t28919t"true"t6180t('nan',)tCHEBI:59888t"4-aminobutanoate"
+291t28919t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+294t28923t"true"t3249t('nan',)tCHEBI:15378tH(+)
+295t28923t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+298t28939t"true"t3249t('nan',)tCHEBI:15378tH(+)
+299t28939t"true"t3267t('nan',)tCHEBI:18107t"xanthosine"
+302t28943t"true"t5292t('nan',)tCHEBI:17750t"glycine betaine"
+304t28947t"true"t3249t('nan',)tCHEBI:15378tH(+)
+305t28947t"true"t5487t('nan',)tCHEBI:17535tL-arabinose
+308t28951t"true"t3249t('nan',)tCHEBI:15378tH(+)
+309t28951t"true"t5487t('nan',)tCHEBI:17535tL-arabinose
+312t28955t"true"t15191t('nan',)tCHEBI:142686t"aldehydo-D-glucuronate"
+313t28955t"true"t3249t('nan',)tCHEBI:15378tH(+)
+316t28959t"true"t6132t('nan',)tCHEBI:53455tD-xylose
+317t28959t"true"t3249t('nan',)tCHEBI:15378tH(+)
+320t28963t"true"t3249t('nan',)tCHEBI:15378tH(+)
+321t28963t"true"t2793t('nan',)tCHEBI:60039tL-proline
+324t28967t"true"t2793t('nan',)tCHEBI:60039tL-proline
+325t28967t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+328t28971t"true"t3249t('nan',)tCHEBI:15378tH(+)
+329t28971t"true"t3258t('nan',)tCHEBI:36208t"shikimate"
+332t28975t"true"t3249t('nan',)tCHEBI:15378tH(+)
+333t28975t"true"t1960t('nan',)tCHEBI:58048tL-asparagine
+336t28979t"true"t3249t('nan',)tCHEBI:15378tH(+)
+337t28979t"true"t6016t('nan',)tCHEBI:16301t"nitrite"
+340t28983t"true"t6016t('nan',)tCHEBI:16301t"nitrite"
+342t28987t"true"t3249t('nan',)tCHEBI:15378tH(+)
+343t28987t"true"t1980t('nan',)tCHEBI:35418t"N-acetylneuraminate"
+346t28991t"true"t1980t('nan',)tCHEBI:35418t"N-acetylneuraminate"
+348t28995t"true"t3249t('nan',)tCHEBI:15378tH(+)
+349t28995t"true"t3255t('nan',)tCHEBI:57926t"L-threonine"
+352t28999t"true"t3249t('nan',)tCHEBI:15378tH(+)
+353t28999t"true"t3660t('nan',)tCHEBI:58093t"homoserine lactone"
+356t29003t"true"t3249t('nan',)tCHEBI:15378tH(+)
+357t29003t"true"t3016t('nan',)tCHEBI:57476tL-homoserine
+360t29007t"true"t3249t('nan',)tCHEBI:15378tH(+)
+361t29007t"true"t4151t('nan',)tCHEBI:29035tMn(2+)
+364t29011t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+365t29011t"true"t3249t('nan',)tCHEBI:15378tH(+)
+368t29015t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+369t29015t"true"t4431t('nan',)tCHEBI:57597t"sn-glycerol 3-phosphate"
+372t29019t"true"t5513t('nan',)tCHEBI:4139t"D-galactose"
+373t29019t"true"t3249t('nan',)tCHEBI:15378tH(+)
+376t29023t"true"t3249t('nan',)tCHEBI:15378tH(+)
+377t29023t"true"t5593t('nan',)tCHEBI:2181tL-fucose
+380t29027t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+381t29027t"true"t3249t('nan',)tCHEBI:15378tH(+)
+384t29031t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+385t29031t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+388t29035t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+390t29039t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+392t29047t"true"t3249t('nan',)tCHEBI:15378tH(+)
+394t29051t"true"t3249t('nan',)tCHEBI:15378tH(+)
+396t29055t"true"t3249t('nan',)tCHEBI:15378tH(+)
+398t29059t"true"t3249t('nan',)tCHEBI:15378tH(+)
+400t29075t"true"t3001t('nan',)tCHEBI:15740t"formate"
+401t29075t"true"t3249t('nan',)tCHEBI:15378tH(+)
+402t29075t"true"t4391t('nan',)tCHEBI:16526tCO2
+404t29091t"true"t3249t('7.1.1.2',)tCHEBI:15378tH(+)
+406t29095t"true"t3249t('nan',)tCHEBI:15378tH(+)
+408t29099t"true"t3249t('nan',)tCHEBI:15378tH(+)
+410t29103t"true"t3249t('nan',)tCHEBI:15378tH(+)
+412t29123t"true"t5436t('nan',)tCHEBI:17632t"nitrate"
+413t29123t"true"t6533t('nan',)tCHEBI:61682tubiquinol-8
+414t29123t"true"t1283t('nan',)tCHEBI:15377tH2O
+415t29123t"true"t6016t('nan',)tCHEBI:16301t"nitrite"
+416t29123t"true"t6534t('nan',)tCHEBI:61683tubiquinone-8
+417t29135t"true"t3249t('nan',)tCHEBI:15378tH(+)
+419t29139t"true"t3249t('nan',)tCHEBI:15378tH(+)
+421t29143t"true"t3249t('nan',)tCHEBI:15378tH(+)
+423t29147t"true"t3249t('nan',)tCHEBI:15378tH(+)
+425t29151t"true"t6016t('nan',)tCHEBI:16301t"nitrite"
+426t29151t"true"t3249t('nan',)tCHEBI:15378tH(+)
+427t29151t"true"tP_17976t('nan',)tPOLYMER:9566ta ubiquinol(P)
+428t29151t"true"t1012t('nan',)tCHEBI:28938tNH4(+)
+429t29151t"true"t1283t('nan',)tCHEBI:15377tH2O
+430t29151t"true"tP_16389t('nan',)tPOLYMER:9565ta ubiquinone(P)
+431t29155t"true"t6016t('nan',)tCHEBI:16301t"nitrite"
+432t29155t"true"t3249t('nan',)tCHEBI:15378tH(+)
+433t29155t"true"t6533t('nan',)tCHEBI:61682tubiquinol-8
+434t29155t"true"t1012t('nan',)tCHEBI:28938tNH4(+)
+435t29155t"true"t1283t('nan',)tCHEBI:15377tH2O
+436t29155t"true"t6534t('nan',)tCHEBI:61683tubiquinone-8
+437t29159t"true"t6016t('nan',)tCHEBI:16301t"nitrite"
+438t29159t"true"t3249t('nan',)tCHEBI:15378tH(+)
+439t29159t"true"tP_18151t('nan',)tPOLYMER:9539ta menaquinol(P)
+440t29159t"true"t1012t('nan',)tCHEBI:28938tNH4(+)
+441t29159t"true"t1283t('nan',)tCHEBI:15377tH2O
+442t29159t"true"tP_16374t('nan',)tPOLYMER:9537ta menaquinone(P)
+443t29163t"true"t6016t('nan',)tCHEBI:16301t"nitrite"
+444t29163t"true"t3249t('nan',)tCHEBI:15378tH(+)
+445t29163t"true"t6557t('nan',)tCHEBI:61684tmenaquinol-8
+446t29163t"true"t1012t('nan',)tCHEBI:28938tNH4(+)
+447t29163t"true"t1283t('nan',)tCHEBI:15377tH2O
+448t29163t"true"t6556t('nan',)tCHEBI:44027tmenaquinone-8
+449t29207t"true"tP_18151t('nan',)tPOLYMER:9539ta menaquinol(P)
+450t29207t"true"t6469t('nan',)tCHEBI:28262t"dimethyl sulfoxide"
+451t29207t"true"tP_16374t('nan',)tPOLYMER:9537ta menaquinone(P)
+452t29207t"true"t2804t('nan',)tCHEBI:17437t"dimethyl sulfide"
+453t29207t"true"t1283t('nan',)tCHEBI:15377tH2O
+454t29211t"true"t3249t('nan',)tCHEBI:15378tH(+)
+455t29211t"true"t1231t('nan',)tCHEBI:17596tinosine
+458t29227t"true"t3249t('nan',)tCHEBI:15378tH(+)
+459t29227t"true"t3166t('nan',)tCHEBI:16881tindole
+462t29231t"true"t1057t('nan',)tCHEBI:29195t"cyanate"
+464t29239t"true"t3249t('nan',)tCHEBI:15378tH(+)
+465t29239t"true"t4063t('nan',)tCHEBI:17568turacil
+468t29247t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+469t29247t"true"t3249t('nan',)tCHEBI:15378tH(+)
+472t29251t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+473t29251t"true"t3249t('nan',)tCHEBI:15378tH(+)
+476t29255t"true"t3017t('nan',)tCHEBI:29108tCa(2+)
+477t29255t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+480t29259t"true"t5196t('nan',)tCHEBI:30924t"(2R,3R)-tartrate"
+481t29259t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+484t29263t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+485t29263t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+488t29267t"true"t1223t('nan',)tCHEBI:57762tL-valine
+489t29267t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+492t29275t"true"t2660t('nan',)tCHEBI:58045tL-isoleucine
+493t29275t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+496t29283t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+497t29283t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+500t29287t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+501t29287t"true"t3249t('nan',)tCHEBI:15378tH(+)
+504t29295t"true"t6095t('nan',)tCHEBI:12952t"aldehydo-D-galacturonate"
+505t29295t"true"t3249t('nan',)tCHEBI:15378tH(+)
+508t29303t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+509t29303t"true"t3249t('nan',)tCHEBI:15378tH(+)
+512t29323t"true"t3031t('nan',)tCHEBI:29806t"fumarate"
+513t29323t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+516t29327t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+517t29327t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+520t29331t"true"t3031t('nan',)tCHEBI:29806t"fumarate"
+521t29331t"true"t3249t('nan',)tCHEBI:15378tH(+)
+524t29339t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+525t29339t"true"t3249t('nan',)tCHEBI:15378tH(+)
+528t29343t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+529t29343t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+532t29347t"true"t4916t('nan',)tCHEBI:30839t"orotate"
+533t29347t"true"t3249t('nan',)tCHEBI:15378tH(+)
+536t29351t"true"t1073t('nan',)tCHEBI:29105tZn(2+)
+538t29411t"true"t3455t('nan',)tCHEBI:29805t"glycolate"
+539t29411t"true"t3249t('nan',)tCHEBI:15378tH(+)
+542t29415t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+543t29415t"true"t3249t('nan',)tCHEBI:15378tH(+)
+546t29419t"true"t3249t('nan',)tCHEBI:15378tH(+)
+547t29419t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+550t29427t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+551t29427t"true"t5286t('nan',)tCHEBI:16244t"4-(trimethylamino)butanoate"
+554t29435t"true"t9878t('nan',)tCHEBI:77805t"enterobactin"
+555t29435t"true"t3249t('nan',)tCHEBI:15378tH(+)
+558t29439t"true"t1795t('nan',)tCHEBI:29033tFe(2+)
+559t29439t"true"t3249t('nan',)tCHEBI:15378tH(+)
+562t29443t"true"t3249t('nan',)tCHEBI:15378tH(+)
+563t29443t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+566t29447t"true"t3455t('nan',)tCHEBI:29805t"glycolate"
+568t29455t"true"t2832t('nan',)tCHEBI:35247tD-serine
+570t29459t"true"t2880t('nan',)tCHEBI:57966t"beta-alanine"
+571t29459t"true"t3249t('nan',)tCHEBI:15378tH(+)
+574t29463t"true"t3890t('nan',)tCHEBI:29103tK(+)
+576t29467t"true"t3249t('nan',)tCHEBI:15378tH(+)
+577t29467t"true"t3890t('nan',)tCHEBI:29103tK(+)
+580t29567t"true"t3249t('nan',)tCHEBI:15378tH(+)
+581t29567t"true"t5440t('nan',)tCHEBI:17996tchloride
+584t29571t"true"t3249t('nan',)tCHEBI:15378tH(+)
+585t29571t"true"t6121t('nan',)tCHEBI:17796t"L-idonate"
+588t29575t"true"t4901t('nan',)tCHEBI:33384tL-serine
+589t29575t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+592t29579t"true"t1795t('nan',)tCHEBI:29033tFe(2+)
+593t29579t"true"t3249t('nan',)tCHEBI:15378tH(+)
+596t29583t"true"t1817t('nan',)tCHEBI:16750tguanosine
+597t29583t"true"t3249t('nan',)tCHEBI:15378tH(+)
+600t29651t"true"t3599t('nan',)tCHEBI:58145t"agmatine"
+601t29651t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+604t29655t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+606t29659t"true"t3937t('nan',)tCHEBI:58340t"O-acetyl-L-serine"
+608t29663t"true"t3249t('nan',)tCHEBI:15378tH(+)
+609t29663t"true"t3237t('nan',)tCHEBI:17712t"xanthine"
+612t29667t"true"t1283t('nan',)tCHEBI:15377tH2O
+614t29671t"true"t3017t('nan',)tCHEBI:29108tCa(2+)
+616t29675t"true"t2441t('nan',)tCHEBI:17754tglycerol
+618t29679t"true"t3001t('nan',)tCHEBI:15740t"formate"
+620t29699t"true"t6469t('nan',)tCHEBI:28262t"dimethyl sulfoxide"
+622t29703t"true"t1223t('nan',)tCHEBI:57762tL-valine
+624t29711t"true"t4631t('nan',)tCHEBI:58384tcadaverine
+625t29711t"true"t3249t('nan',)tCHEBI:15378tH(+)
+628t29723t"true"t3124t('nan',)tCHEBI:36655t"glyoxylate"
+630t29731t"true"t1683t('nan',)tCHEBI:18147t"beta-maltose"
+632t29743t"true"t4466t('nan',)tCHEBI:225237t"2-phenylethylamine"
+634t29747t"true"t5401t('nan',)tCHEBI:51057t"3-phenylpropanoate"
+636t29751t"true"t3307t('nan',)tCHEBI:13705t"acetoacetate"
+638t29755t"true"t10469t('nan',)tCHEBI:83088t"(R)-lipoate"
+640t29759t"true"t6319t('nan',)tCHEBI:25646t"octanoate"
+642t29763t"true"t6452t('nan',)tCHEBI:61401t"L-alanyl-gamma-D-glutamyl-meso-diaminoheptanedioate"
+644t29767t"true"t3383t('7.4.2.11',)tCHEBI:57932t"D-methionine"
+646t29771t"true"t5357t('nan',)tCHEBI:48597t"arsenate"
+648t29779t"true"t2530t('7.4.2.11',)tCHEBI:57844t"L-methionine"
+650t29783t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+652t29787t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+654t29791t"true"t4810t('7.4.2.10',)tCHEBI:57925t"glutathione"
+656t29795t"true"t6372t('7.2.2.20',)tCHEBI:30616tATP
+657t29795t"true"t1283t('7.2.2.20',)tCHEBI:15377tH2O
+658t29795t"true"t1073t('7.2.2.20',)tCHEBI:29105tZn(2+)
+659t29795t"true"t2710t('7.2.2.20',)tCHEBI:456216tADP
+660t29795t"true"t3249t('7.2.2.20',)tCHEBI:15378tH(+)
+661t29795t"true"t5518t('7.2.2.20',)tCHEBI:43474t"phosphate"
+663t29799t"true"t11226t('7.5.2.8',)tCHEBI:40822tD-allose
+665t29803t"true"t1223t('nan',)tCHEBI:57762tL-valine
+667t29807t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+669t29811t"true"t4164t('7.6.2.15',)tCHEBI:18385t"thiamine"
+671t29815t"true"t2793t('nan',)tCHEBI:60039tL-proline
+673t29819t"true"t2660t('nan',)tCHEBI:58045tL-isoleucine
+675t29823t"true"t5440t('nan',)tCHEBI:17996tchloride
+677t29827t"true"t5136t('nan',)tCHEBI:18420tMg(2+)
+679t29831t"true"t1427t('nan',)tCHEBI:49786tNi(2+)
+681t29835t"true"t4453t('nan',)tCHEBI:12931t"D-galactonate"
+682t29835t"true"t3249t('nan',)tCHEBI:15378tH(+)
+685t29871t"true"t5659t('7.3.2.3',)tCHEBI:33542t"thiosulfate"
+687t29879t"true"t3912t('7.4.2.1',)tCHEBI:32682tL-arginine
+689t29883t"true"t1826t('7.4.2.1',)tCHEBI:46911t"L-ornithine"
+691t29887t"true"t3235t('7.4.2.1',)tCHEBI:32551tL-lysine
+693t29891t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+695t29895t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+697t29899t"true"t6132t('7.5.2.13', '7.5.2.10')tCHEBI:53455tD-xylose
+699t29903t"true"t6304t('7.5.2.7',)tCHEBI:47013tD-ribose
+701t29927t"true"t2874t('nan',)tCHEBI:29032t"(R)-pantothenate"
+702t29927t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+705t29935t"true"t1660t('nan',)tCHEBI:16040t"cytosine"
+706t29935t"true"t3249t('nan',)tCHEBI:15378tH(+)
+709t29939t"true"t3249t('nan',)tCHEBI:15378tH(+)
+710t29939t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+713t29943t"true"t2127t('nan',)tCHEBI:57990t"2-dehydro-3-deoxy-D-gluconate"
+714t29943t"true"t3249t('nan',)tCHEBI:15378tH(+)
+717t29947t"true"t3249t('nan',)tCHEBI:15378tH(+)
+718t29947t"true"t6717t('nan',)tCHEBI:62346tL-rhamnopyranose
+721t29951t"true"t3249t('nan',)tCHEBI:15378tH(+)
+722t29951t"true"t4178t('nan',)tCHEBI:16704turidine
+725t29955t"true"t3249t('nan',)tCHEBI:15378tH(+)
+726t29955t"true"t4636t('nan',)tCHEBI:17748t"thymidine"
+729t29963t"true"t3249t('nan',)tCHEBI:15378tH(+)
+730t29963t"true"t1231t('nan',)tCHEBI:17596tinosine
+733t29967t"true"t5154t('nan',)tCHEBI:16450t2'-deoxyuridine
+734t29967t"true"t3249t('nan',)tCHEBI:15378tH(+)
+737t29971t"true"t6258t('nan',)tCHEBI:28997t2'-deoxyinosine
+738t29971t"true"t3249t('nan',)tCHEBI:15378tH(+)
+741t29975t"true"t5580t('nan',)tCHEBI:15698t"2'-deoxycytidine"
+742t29975t"true"t3249t('nan',)tCHEBI:15378tH(+)
+745t29979t"true"t1711t('nan',)tCHEBI:17256t2'-deoxyadenosine
+746t29979t"true"t3249t('nan',)tCHEBI:15378tH(+)
+749t29983t"true"t3062t('nan',)tCHEBI:17562t"cytidine"
+750t29983t"true"t3249t('nan',)tCHEBI:15378tH(+)
+753t29987t"true"t2547t('nan',)tCHEBI:16335tadenosine
+754t29987t"true"t3249t('nan',)tCHEBI:15378tH(+)
+757t29991t"true"t3249t('nan',)tCHEBI:15378tH(+)
+758t29991t"true"t17978t('nan',)tCHEBI:62321tL-lyxopyranose
+761t29995t"true"t4665t('7.6.2.16',)tCHEBI:326268t"putrescine"
+763t29999t"true"t2557t('7.6.2.11',)tCHEBI:57834tspermidine
+765t30007t"true"t5487t('7.5.2.13', '7.5.2.12')tCHEBI:17535tL-arabinose
+767t30011t"true"t6519t('nan',)tCHEBI:27667t"beta-D-galactose"
+769t30251t"true"t3249t('7.1.1.3',)tCHEBI:15378tH(+)
+771t30259t"true"t3249t('7.1.1.5',)tCHEBI:15378tH(+)
+773t30259t"true"t1283t('7.1.1.5',)tCHEBI:15377tH2O
+774t30403t"true"t4615t('7.2.1.3',)tCHEBI:29034tFe(3+)
+775t30403t"true"t1411t('7.2.1.3',)tCHEBI:38290t"L-ascorbate"
+776t30403t"true"t1795t('7.2.1.3',)tCHEBI:29033tFe(2+)
+777t30403t"true"t6195t('7.2.1.3',)tCHEBI:59513t"monodehydro-L-ascorbate radical"
+778t32123t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+779t32123t"true"t3249t('nan',)tCHEBI:15378tH(+)
+782t32143t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+784t32747t"true"t2609t('nan',)tCHEBI:57603t"ethanolamine"
+786t32751t"true"t3723t('nan',)tCHEBI:15354tcholine
+788t32775t"true"t4147t('nan',)tCHEBI:57418t"(2-aminoethyl)phosphonate"
+790t32779t"true"t5254t('nan',)tCHEBI:48828tCo(2+)
+792t32783t"true"t5292t('nan',)tCHEBI:17750t"glycine betaine"
+794t32787t"true"t5421t('nan',)tCHEBI:58515t"L-ectoine"
+796t32791t"true"t5421t('nan',)tCHEBI:58515t"L-ectoine"
+798t32795t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+800t32799t"true"t3216t('nan',)tCHEBI:16199turea
+802t32803t"true"t3216t('nan',)tCHEBI:16199turea
+804t32807t"true"t5659t('nan',)tCHEBI:33542t"thiosulfate"
+806t32811t"true"t1366t('nan',)tCHEBI:16150t"benzoate"
+808t32815t"true"t1713t('nan',)tCHEBI:16793tHg(2+)
+810t32819t"true"t7181t('nan',)tCHEBI:35404t"chromate"
+812t32823t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+814t32827t"true"t7182t('nan',)tCHEBI:64558t"methionine"
+816t32831t"true"t14732t('nan',)tCHEBI:140785tan R-cob(III)alamin
+818t32835t"true"t5286t('nan',)tCHEBI:16244t"4-(trimethylamino)butanoate"
+820t32867t"true"t1700t('nan',)tCHEBI:17268t"myo-inositol"
+822t32911t"true"t2820t('nan',)tCHEBI:16870tsn-glycerol 3-phosphocholine
+824t32915t"true"t2439t('nan',)tCHEBI:58444t"sn-glycero-3-phospho-1D-myo-inositol"
+826t33115t"true"t5277t('nan',)tCHEBI:15792t"malonate"
+828t33135t"true"t5277t('nan',)tCHEBI:15792t"malonate"
+829t33135t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+832t33139t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+833t33139t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+836t33143t"true"t1061t('nan',)tCHEBI:16813t"galactitol"
+838t33147t"true"t7227t('7.6.2.2',)tCHEBI:64677tdaunorubicin
+840t33163t"true"t3428t('nan',)tCHEBI:15927t"beta-nicotinamide D-riboside"
+842t33171t"true"t1425t('nan',)tCHEBI:17306t"D-maltose"
+844t33175t"true"t5065t('nan',)tCHEBI:48999t"4-hydroxyphenylacetate"
+846t33183t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+848t33307t"true"t4158t('2.7.1.195',)tCHEBI:57541t"(2R)-2-O-(alpha-D-mannosyl)-glycerate"
+849t33307t"true"t6277t('2.7.1.195',)tCHEBI:60331t"(2R)-2-O-(6-phospho-alpha-D-mannosyl)-glycerate"
+850t33363t"true"t1267t('2.7.1.197',)tCHEBI:16899t"D-mannitol"
+851t33363t"true"t6485t('2.7.1.197',)tCHEBI:61381t"D-mannitol 1-phosphate"
+852t33367t"true"t5529t('2.7.1.199',)tCHEBI:4167tD-glucose
+853t33367t"true"t6501t('2.7.1.199',)tCHEBI:61548t"D-glucose 6-phosphate"
+854t33371t"true"t1443t('2.7.1.201',)tCHEBI:16551t"alpha,alpha-trehalose"
+855t33371t"true"t4651t('2.7.1.201',)tCHEBI:58429t"alpha,alpha-trehalose 6-phosphate"
+856t33399t"true"t7263t('2.7.1.192',)tCHEBI:64848t"N-acetyl-beta-D-muramate"
+857t33399t"true"t5826t('2.7.1.192',)tCHEBI:58721t"N-acetyl-beta-D-muramate 6-phosphate"
+858t33423t"true"t6694t('2.7.1.196',)tCHEBI:28681t"N,N'-diacetylchitobiose"
+859t33423t"true"t7271t('2.7.1.196',)tCHEBI:64883t"diacetylchitobiose-6'-phosphate"
+860t33503t"true"t15974t('nan',)tCHEBI:6076t"itraconazole"
+862t33655t"true"t6056t('nan',)tCHEBI:30823t"(9Z)-octadecenoate"
+864t34759t"true"t1729t('nan',)tCHEBI:58083t"glycerol 2-phosphate"
+866t34763t"true"t7611t('nan',)tCHEBI:30927t"(S,S)-tartrate"
+867t34763t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+870t34871t"true"t3528t('nan',)tCHEBI:17790t"methanol"
+872t34883t"true"t9247t('nan',)tCHEBI:15075t"selenate"
+874t34887t"true"t9247t('nan',)tCHEBI:15075t"selenate"
+876t34891t"true"t9248t('nan',)tCHEBI:18212t"selenite"
+878t34895t"true"t9248t('nan',)tCHEBI:18212t"selenite"
+880t34907t"true"t5442t('nan',)tCHEBI:36264t"molybdate"
+882t34911t"true"t3383t('nan',)tCHEBI:57932t"D-methionine"
+884t34915t"true"t5513t('nan',)tCHEBI:4139t"D-galactose"
+886t34919t"true"t4164t('nan',)tCHEBI:18385t"thiamine"
+888t34923t"true"t5436t('nan',)tCHEBI:17632t"nitrate"
+890t34943t"true"t4928t('nan',)tCHEBI:18305t"hydroquinone O-beta-D-glucopyranoside"
+891t34943t"true"t3582t('nan',)tCHEBI:58702t"phosphoenolpyruvate"
+892t34943t"true"t6472t('nan',)tCHEBI:60929t"arbutin 6-phosphate"
+893t34943t"true"t3719t('nan',)tCHEBI:15361t"pyruvate"
+894t34951t"true"t3378t('nan',)tCHEBI:16510t"3-hydroxypropanoate"
+896t34955t"true"t16431t('nan',)tCHEBI:78440t"5-(methylsulfanyl)-D-ribose"
+898t34959t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+900t34963t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+902t34967t"true"t4431t('nan',)tCHEBI:57597t"sn-glycerol 3-phosphate"
+904t34971t"true"t4615t('nan',)tCHEBI:29034tFe(3+)
+906t34975t"true"t2874t('nan',)tCHEBI:29032t"(R)-pantothenate"
+908t34979t"true"t3249t('nan',)tCHEBI:15378tH(+)
+910t34983t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+912t34987t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+914t34991t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+915t34991t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+918t34995t"true"t3805t('nan',)tCHEBI:16055tL-rhamnose
+920t34999t"true"t2710t('nan',)tCHEBI:456216tADP
+921t34999t"true"t6372t('nan',)tCHEBI:30616tATP
+924t35003t"true"t5593t('nan',)tCHEBI:2181tL-fucose
+926t35007t"true"t7663t('nan',)tCHEBI:2179tD-fucose
+928t35011t"true"t7663t('nan',)tCHEBI:2179tD-fucose
+929t35011t"true"t3249t('nan',)tCHEBI:15378tH(+)
+932t35015t"true"t3357t('nan',)tCHEBI:57986triboflavin
+934t35019t"true"t3255t('nan',)tCHEBI:57926t"L-threonine"
+936t35023t"true"t4928t('nan',)tCHEBI:18305t"hydroquinone O-beta-D-glucopyranoside"
+938t35027t"true"t7183t('7.3.2.6',)tCHEBI:46502t"tungstate"
+940t35031t"true"t4901t('nan',)tCHEBI:33384tL-serine
+942t35035t"true"t6180t('nan',)tCHEBI:59888t"4-aminobutanoate"
+944t35039t"true"t2557t('nan',)tCHEBI:57834tspermidine
+946t35043t"true"t6536t('nan',)tCHEBI:60903t"N-(4-aminobenzoyl)-L-glutamate"
+948t35051t"true"t6694t('nan',)tCHEBI:28681t"N,N'-diacetylchitobiose"
+950t35059t"true"t4584t('nan',)tCHEBI:17698tchloramphenicol
+951t35059t"true"t3249t('nan',)tCHEBI:15378tH(+)
+954t35067t"true"t5828t('nan',)tCHEBI:11060t"(S)-carnitine"
+956t35071t"true"t4232t('nan',)tCHEBI:17847t"4-methylphenol"
+958t35075t"true"t7669t('nan',)tCHEBI:64816tdoxorubicin
+959t35075t"true"t3249t('nan',)tCHEBI:15378tH(+)
+962t35079t"true"t7669t('nan',)tCHEBI:64816tdoxorubicin
+964t35099t"true"t7673t('nan',)tCHEBI:71321t"fusidate"
+965t35099t"true"t3249t('nan',)tCHEBI:15378tH(+)
+968t35103t"true"t7673t('nan',)tCHEBI:71321t"fusidate"
+970t35123t"true"t3249t('nan',)tCHEBI:15378tH(+)
+971t35123t"true"t6451t('nan',)tCHEBI:61395t"L-alanyl-D-glutamate"
+974t35127t"true"t6451t('nan',)tCHEBI:61395t"L-alanyl-D-glutamate"
+976t35131t"true"t3249t('nan',)tCHEBI:15378tH(+)
+977t35131t"true"t6450t('nan',)tCHEBI:61396t"L-alanyl-L-glutamate"
+980t35135t"true"t6450t('nan',)tCHEBI:61396t"L-alanyl-L-glutamate"
+982t35147t"true"t7681t('nan',)tCHEBI:44800t"(2R,4S)-2-methyltetrahydrofuran-2,3,3,4-tetrol"
+984t35163t"true"t3249t('nan',)tCHEBI:15378tH(+)
+985t35163t"true"t9902t('nan',)tCHEBI:77906tminocycline
+988t35167t"true"t9902t('nan',)tCHEBI:77906tminocycline
+990t35171t"true"t3249t('nan',)tCHEBI:15378tH(+)
+991t35171t"true"t7684t('nan',)tCHEBI:71339tnovobiocin
+994t35175t"true"t7684t('nan',)tCHEBI:71339tnovobiocin
+996t35195t"true"t3808t('nan',)tCHEBI:29751t"L-quinate"
+998t35199t"true"t7611t('nan',)tCHEBI:30927t"(S,S)-tartrate"
+1000t35227t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1001t35227t"true"t7695t('nan',)tCHEBI:71365trifampicin
+1004t35231t"true"t7695t('nan',)tCHEBI:71365trifampicin
+1006t35235t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1007t35235t"true"t9880t('nan',)tCHEBI:77932t"tetracycline"
+1010t35239t"true"t9880t('nan',)tCHEBI:77932t"tetracycline"
+1012t35247t"true"t6324t('nan',)tCHEBI:60365talpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA (E. coli)
+1014t35251t"true"t5227t('nan',)tCHEBI:58540talpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid A (E. coli)
+1016t35255t"true"t6604t('nan',)tCHEBI:62004tlipid A-core
+1018t35259t"true"t6212t('nan',)tCHEBI:60085t"7-O-[2-aminoethoxy(hydroxy)phosphoryl]-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid A"
+1020t35267t"true"t1552t('nan',)tCHEBI:16236t"ethanol"
+1022t35287t"true"t4584t('nan',)tCHEBI:17698tchloramphenicol
+1024t35375t"true"t7725t('nan',)tCHEBI:71399t"(beta-L-Ara4N)2-(Kdo)2-lipid A"
+1026t36435t"true"t3236t('nan',)tCHEBI:58608t"a 1,2-diacyl-sn-glycero-3-phosphate"
+1028t36439t"true"t7185t('nan',)tCHEBI:64612t"a 1,2-diacyl-sn-glycero-3-phosphoethanolamine"
+1030t36447t"true"t8009t('nan',)tCHEBI:73779tglycyl-L-proline
+1032t36451t"true"t8010t('nan',)tCHEBI:73784t"glycyl-L-glutamate"
+1034t36455t"true"t8011t('nan',)tCHEBI:73786tL-alanylglycine
+1036t36471t"true"t5178t('nan',)tCHEBI:16918t"3,4,5-trihydroxybenzoate"
+1037t36471t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1040t36831t"true"t3249t('7.1.1.4',)tCHEBI:15378tH(+)
+1042t37043t"true"t6450t('nan',)tCHEBI:61396t"L-alanyl-L-glutamate"
+1044t37047t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1045t37047t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+1048t37263t"true"t8260t('nan',)tCHEBI:74363t"L-alanyl-L-aspartate"
+1050t37271t"true"t8261t('nan',)tCHEBI:74387t"L-alanyl-L-glutamine"
+1052t37279t"true"t8262t('nan',)tCHEBI:74388t"L-alanyl-L-histidine"
+1054t37287t"true"t8263t('nan',)tCHEBI:74389tL-alanyl-L-leucine
+1056t37295t"true"t8264t('nan',)tCHEBI:74390t"L-alanyl-L-threonine"
+1058t37303t"true"t8265t('nan',)tCHEBI:74391tglycyl-L-asparagine
+1060t37311t"true"t8266t('nan',)tCHEBI:74392t"glycyl-L-glutamine"
+1062t37319t"true"t8267t('nan',)tCHEBI:74393t"glycyl-L-methionine"
+1064t37327t"true"t8268t('nan',)tCHEBI:74394t"L-methionyl-L-alanine"
+1066t37359t"true"t5628t('nan',)tCHEBI:58723tD-glucosamine
+1067t37359t"true"t5629t('nan',)tCHEBI:58725t"D-glucosamine 6-phosphate"
+1068t38567t"true"t7198t('nan',)tCHEBI:57262ta 1,2-diacyl-sn-glycero-3-phospho-L-serine
+1070t38571t"true"t4939t('nan',)tCHEBI:57643ta 1,2-diacyl-sn-glycero-3-phosphocholine
+1072t38583t"true"t4939t('nan',)tCHEBI:57643ta 1,2-diacyl-sn-glycero-3-phosphocholine
+1074t38663t"true"t7198t('nan',)tCHEBI:57262ta 1,2-diacyl-sn-glycero-3-phospho-L-serine
+1076t38667t"true"t6227t('nan',)tCHEBI:60119t"sphing-4-enine 1-phosphate"
+1078t38671t"true"t2336t('nan',)tCHEBI:57939t"sphinganine 1-phosphate"
+1080t38679t"true"t4315t('nan',)tCHEBI:57817tsphinganine
+1082t38683t"true"t4273t('nan',)tCHEBI:57756tsphing-4-enine
+1084t38687t"true"t7213t('nan',)tCHEBI:64124t(4R)-hydroxysphinganine
+1086t38691t"true"t2041t('nan',)tCHEBI:57880t"a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol)"
+1088t38695t"true"t6831t('nan',)tCHEBI:62237ta cardiolipin
+1090t38715t"true"t3723t('nan',)tCHEBI:15354tcholine
+1092t38719t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+1094t38879t"true"t6166t('nan',)tCHEBI:28868t"a fatty acid"
+1096t38895t"true"t7185t('nan',)tCHEBI:64612t"a 1,2-diacyl-sn-glycero-3-phosphoethanolamine"
+1098t38899t"true"t6217t('nan',)tCHEBI:18390t"a beta-D-galactosyl-(1<->1')-N-acylsphing-4-enine"
+1100t38903t"true"t7880t('nan',)tCHEBI:17636ta sphingomyelin
+1102t38923t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1104t38943t"true"t6848t('nan',)tCHEBI:22801t"a beta-D-glucosyl-(1<->1')-N-acylsphing-4-enine"
+1106t38951t"true"t6227t('nan',)tCHEBI:60119t"sphing-4-enine 1-phosphate"
+1108t38955t"true"t2636t('nan',)tCHEBI:57674t"an N-acylsphing-4-enine 1-phosphate"
+1110t38963t"true"t1450t('nan',)tCHEBI:57973t"leukotriene C4"
+1112t38967t"true"t5087t('nan',)tCHEBI:52639tan N-acylsphing-4-enine
+1114t39007t"true"t4688t('nan',)tCHEBI:17002t"a cholesterol ester"
+1116t39011t"true"t7184t('nan',)tCHEBI:64615t"a triacyl-sn-glycerol"
+1118t39051t"true"t3083t('nan',)tCHEBI:16113t"cholesterol"
+1120t39103t"true"t8765t('nan',)tCHEBI:27693t"sitosterol"
+1122t39279t"true"t6615t('nan',)tCHEBI:18262t"dodecanoate"
+1124t39283t"true"t7546t('nan',)tCHEBI:57560t"a long-chain fatty acid"
+1126t39707t"true"t10486t('nan',)tCHEBI:83139t"a long-chain fatty acyl-CoA"
+1128t39723t"true"t3927t('nan',)tCHEBI:17815ta 1,2-diacyl-sn-glycerol
+1130t39727t"true"t7880t('nan',)tCHEBI:17636ta sphingomyelin
+1132t39743t"true"t7194t('nan',)tCHEBI:64716t1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol)
+1134t39747t"true"t3083t('nan',)tCHEBI:16113t"cholesterol"
+1136t39795t"true"t8936t('nan',)tCHEBI:42989t"7beta-hydroxycholesterol"
+1138t39807t"true"t6618t('nan',)tCHEBI:25629t"octadecanoate"
+1140t40527t"true"t1198t('7.1.1.7',)tCHEBI:15379tO2
+1141t40527t"true"t3249t('7.1.1.7',)tCHEBI:15378tH(+)
+1142t40527t"true"t1283t('7.1.1.7',)tCHEBI:15377tH2O
+1144t42400t"true"t3030t('2.7.1.207',)tCHEBI:17716t"lactose"
+1145t42400t"true"t10062t('2.7.1.207',)tCHEBI:79080t"lactose 6-phosphate"
+1146t42436t"true"t1411t('2.7.1.194',)tCHEBI:38290t"L-ascorbate"
+1147t42436t"true"t6550t('2.7.1.194',)tCHEBI:61698t"L-ascorbate 6-phosphate"
+1148t42484t"true"t3126t('2.7.1.198',)tCHEBI:17924t"D-sorbitol"
+1149t42484t"true"t3330t('2.7.1.198',)tCHEBI:60084t"D-sorbitol 6-phosphate"
+1150t42608t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1152t42612t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1154t43336t"true"t2426t('7.2.4.1',)tCHEBI:29101tNa(+)
+1156t43348t"true"t7364t('nan',)tCHEBI:46898t"cholesteryl (9Z-octadecenoate)"
+1158t43352t"true"t7375t('nan',)tCHEBI:53753t"1,2,3-tri-(9Z-octadecenoyl)-glycerol"
+1160t43356t"true"t10249t('nan',)tCHEBI:41509t"cholesteryl (9Z,12Z)-octadecadienoate"
+1162t43776t"true"t10690t('nan',)tCHEBI:64583tan N-(acyl)-sphingosylphosphocholine
+1164t43856t"true"t8282t('nan',)tCHEBI:28610t"1-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine"
+1165t43856t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1168t43860t"true"t10734t('nan',)tCHEBI:73873t1-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphocholine
+1169t43860t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1172t43864t"true"t7901t('nan',)tCHEBI:72998t1-hexadecanoyl-sn-glycero-3-phosphocholine
+1173t43864t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1176t43868t"true"t7186t('nan',)tCHEBI:64381t"a 1-acyl-sn-glycero-3-phosphoethanolamine"
+1177t43868t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1180t44376t"true"t1011t('nan',)tCHEBI:58168ta 1-acyl-sn-glycero-3-phosphocholine
+1181t44376t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1184t44544t"true"t6166t('nan',)tCHEBI:28868t"a fatty acid"
+1186t45248t"true"t3396t('nan',)tCHEBI:17968t"butanoate"
+1188t45252t"true"t6616t('nan',)tCHEBI:30807t"tetradecanoate"
+1190t45256t"true"t6261t('nan',)tCHEBI:7896t"hexadecanoate"
+1192t45260t"true"t7318t('nan',)tCHEBI:31014t"tetracosanoate"
+1194t45264t"true"t2422t('nan',)tCHEBI:30245t"(9Z,12Z)-octadecadienoate"
+1196t45680t"true"t11312t('nan',)tCHEBI:72963t"N-(hexadecanoyl)-sphing-4-enine-1-phosphate"
+1198t45684t"true"t11313t('nan',)tCHEBI:72960t"N-dodecanoyl-sphing-4-enine-1-phosphate"
+1200t45688t"true"t11314t('nan',)tCHEBI:85378t"N-(9Z-octadecenoyl)-sphing-4-enine-1-phosphate"
+1202t45692t"true"t11315t('nan',)tCHEBI:85376t"N-(octanoyl)-sphing-4-enine-1-phosphate"
+1204t45696t"true"t11316t('nan',)tCHEBI:85375t"N-(acetyl)-sphing-4-enine-1-phosphate"
+1206t45720t"true"t8083t('nan',)tCHEBI:72959tN-hexadecanoylsphing-4-enine
+1208t45956t"true"t1901t('nan',)tCHEBI:57387t"(9Z)-octadecenoyl-CoA"
+1210t46468t"true"t10690t('nan',)tCHEBI:64583tan N-(acyl)-sphingosylphosphocholine
+1212t46488t"true"t7902t('nan',)tCHEBI:72999t1,2-dihexadecanoyl-sn-glycero-3-phosphocholine
+1214t46492t"true"t7912t('nan',)tCHEBI:73009t"1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphoethanolamine"
+1216t46496t"true"t11303t('nan',)tCHEBI:78646tN-(hexadecanoyl)-sphing-4-enine-1-phosphocholine
+1218t46800t"true"t2426t('7.2.1.2',)tCHEBI:29101tNa(+)
+1220t47748t"true"t2426t('7.2.1.1',)tCHEBI:29101tNa(+)
+1222t47992t"true"t3249t('7.1.1.1',)tCHEBI:15378tH(+)
+1224t48512t"true"t12124t('nan',)tCHEBI:29198t"phosphinate"
+1226t48972t"true"t12280t('nan',)tCHEBI:36361t"phosphite"
+1228t49232t"true"t5591t('2.7.1.191',)tCHEBI:4208tD-mannose
+1229t49232t"true"t5660t('2.7.1.191',)tCHEBI:58735t"D-mannose 6-phosphate"
+1230t49236t"true"t9746t('2.7.1.211',)tGENERIC:9746t"N(pros)-phospho-L-histidyl-[protein]"
+1231t49236t"true"t12342t('2.7.1.211',)tCHEBI:91002t"sucrose 6(G)-phosphate"
+1232t49240t"true"t6437t('2.7.1.193',)tCHEBI:506227t"N-acetyl-D-glucosamine"
+1233t49240t"true"t2084t('2.7.1.193',)tCHEBI:57513t"N-acetyl-D-glucosamine 6-phosphate"
+1234t49248t"true"t1061t('2.7.1.200',)tCHEBI:16813t"galactitol"
+1235t49248t"true"t6213t('2.7.1.200',)tCHEBI:60083t"galactitol 1-phosphate"
+1236t49252t"true"t5632t('2.7.1.202',)tCHEBI:37721t"D-fructose"
+1237t49252t"true"t5633t('2.7.1.202',)tCHEBI:58674t"D-fructose 1-phosphate"
+1238t49256t"true"t1146t('2.7.1.203',)tCHEBI:58269t"2-amino-2-deoxy-D-gluconate"
+1239t49256t"true"t8553t('2.7.1.203',)tCHEBI:75705t"2-amino-2-deoxy-D-gluconate 6-phosphate"
+1240t49260t"true"t5513t('2.7.1.204',)tCHEBI:4139t"D-galactose"
+1241t49260t"true"t12343t('2.7.1.204',)tCHEBI:91004t"D-galactose 6-phosphate"
+1242t49292t"true"t2926t('2.7.1.205',)tCHEBI:17057tD-cellobiose
+1243t49292t"true"t1016t('2.7.1.205',)tCHEBI:58312t"6-phospho-beta-D-glucosyl-(1->4)-D-glucose"
+1244t49296t"true"t13581t('2.7.1.206',)tCHEBI:13172t"keto-L-sorbose"
+1245t49296t"true"t13582t('2.7.1.206',)tCHEBI:137409t"L-sorbose 1-phosphate"
+1246t49300t"true"t1425t('2.7.1.208',)tCHEBI:17306t"D-maltose"
+1247t49300t"true"t4663t('2.7.1.208',)tCHEBI:57478t"alpha-maltose 6'-phosphate"
+1248t49484t"true"t8396t('nan',)tCHEBI:44811t"1-O-hexadecyl-2-acetyl-sn-glycero-3-phosphocholine"
+1250t49908t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+1251t49908t"true"t3938t('nan',)tCHEBI:57589t"O-acetyl-(R)-carnitine"
+1254t49912t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+1255t49912t"true"t11048t('nan',)tCHEBI:53210t"O-propanoyl-(R)-carnitine"
+1258t49916t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+1259t49916t"true"t2321t('nan',)tCHEBI:17490t"O-hexadecanoyl-(R)-carnitine"
+1262t49920t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+1263t49920t"true"t4258t('nan',)tCHEBI:18102t"O-octanoyl-(R)-carnitine"
+1266t49924t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+1267t49924t"true"t8726t('nan',)tCHEBI:75659t"O-acyl-(R)-carnitine"
+1270t50048t"true"t4024t('nan',)tCHEBI:29747t"cholate"
+1272t50052t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+1274t50056t"true"t1215t('nan',)tCHEBI:29746t"glycocholate"
+1276t50060t"true"t6199t('nan',)tCHEBI:36252t"glycochenodeoxycholate"
+1278t50064t"true"t3782t('nan',)tCHEBI:9407t"taurochenodeoxycholate"
+1280t50068t"true"t12534t('nan',)tCHEBI:132030t"glycoursodeoxycholate"
+1282t50072t"true"t12535t('nan',)tCHEBI:132028t"tauroursodeoxycholate"
+1284t50080t"true"t11850t('nan',)tCHEBI:36261t"taurodeoxycholate"
+1286t50084t"true"t4077t('nan',)tCHEBI:58301t"taurolithocholate 3-sulfate"
+1288t50372t"true"t12654t('nan',)tCHEBI:84404t"an N-acylsphingoid base 1-phosphate"
+1290t50376t"true"t8573t('nan',)tCHEBI:17761ta ceramide
+1292t50976t"true"t3073t('nan',)tCHEBI:57406t"prostaglandin D2"
+1294t50980t"true"t2869t('nan',)tCHEBI:57397t"prostaglandin E1"
+1296t50984t"true"t1262t('nan',)tCHEBI:606564t"prostaglandin E2"
+1298t50988t"true"t1807t('nan',)tCHEBI:57404t"prostaglandin F2alpha"
+1300t50992t"true"t12169t('nan',)tCHEBI:90696t"thromboxane B2"
+1302t51196t"true"t5440t('nan',)tCHEBI:17996tchloride
+1303t51196t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1304t51196t"true"t2942t('nan',)tCHEBI:350546t"serotonin"
+1308t51580t"true"t6166t('nan',)tCHEBI:28868t"a fatty acid"
+1309t51580t"true"t6372t('nan',)tCHEBI:30616tATP
+1310t51580t"true"t1264t('nan',)tCHEBI:57287tCoA
+1311t51580t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1312t51580t"true"t10929t('nan',)tCHEBI:77636t"a fatty acyl-CoA"
+1313t51580t"true"t2590t('nan',)tCHEBI:456215tAMP
+1314t51580t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1316t51716t"true"t6372t('nan',)tCHEBI:30616tATP
+1317t51716t"true"t1264t('nan',)tCHEBI:57287tCoA
+1318t51716t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1319t51716t"true"t6261t('nan',)tCHEBI:7896t"hexadecanoate"
+1320t51716t"true"t2590t('nan',)tCHEBI:456215tAMP
+1321t51716t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1323t51716t"true"t5152t('nan',)tCHEBI:57379thexadecanoyl-CoA
+1324t51720t"true"t6372t('nan',)tCHEBI:30616tATP
+1325t51720t"true"t1264t('nan',)tCHEBI:57287tCoA
+1326t51720t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1327t51720t"true"t6618t('nan',)tCHEBI:25629t"octadecanoate"
+1328t51720t"true"t2590t('nan',)tCHEBI:456215tAMP
+1329t51720t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1331t51720t"true"t5023t('nan',)tCHEBI:57394t"octadecanoyl-CoA"
+1332t51808t"true"t6056t('nan',)tCHEBI:30823t"(9Z)-octadecenoate"
+1333t51808t"true"t6372t('nan',)tCHEBI:30616tATP
+1334t51808t"true"t1264t('nan',)tCHEBI:57287tCoA
+1335t51808t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1336t51808t"true"t1901t('nan',)tCHEBI:57387t"(9Z)-octadecenoyl-CoA"
+1337t51808t"true"t2590t('nan',)tCHEBI:456215tAMP
+1338t51808t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1340t51812t"true"t6372t('nan',)tCHEBI:30616tATP
+1341t51812t"true"t1264t('nan',)tCHEBI:57287tCoA
+1342t51812t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1343t51812t"true"t6616t('nan',)tCHEBI:30807t"tetradecanoate"
+1344t51812t"true"t2590t('nan',)tCHEBI:456215tAMP
+1345t51812t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1347t51812t"true"t2385t('nan',)tCHEBI:57385t"tetradecanoyl-CoA"
+1348t51816t"true"t6372t('nan',)tCHEBI:30616tATP
+1349t51816t"true"t1264t('nan',)tCHEBI:57287tCoA
+1350t51816t"true"t6615t('nan',)tCHEBI:18262t"dodecanoate"
+1351t51816t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1352t51816t"true"t2590t('nan',)tCHEBI:456215tAMP
+1353t51816t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1354t51816t"true"t3996t('nan',)tCHEBI:57375tdodecanoyl-CoA
+1356t51820t"true"t6372t('nan',)tCHEBI:30616tATP
+1357t51820t"true"t1264t('nan',)tCHEBI:57287tCoA
+1358t51820t"true"t6614t('nan',)tCHEBI:27689t"decanoate"
+1359t51820t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1360t51820t"true"t2590t('nan',)tCHEBI:456215tAMP
+1361t51820t"true"t6438t('nan',)tCHEBI:61430tdecanoyl-CoA
+1362t51820t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1364t51824t"true"t6372t('nan',)tCHEBI:30616tATP
+1365t51824t"true"t1264t('nan',)tCHEBI:57287tCoA
+1366t51824t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1367t51824t"true"t6319t('nan',)tCHEBI:25646t"octanoate"
+1368t51824t"true"t2590t('nan',)tCHEBI:456215tAMP
+1369t51824t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1371t51824t"true"t3342t('nan',)tCHEBI:57386t"octanoyl-CoA"
+1372t51828t"true"t6372t('nan',)tCHEBI:30616tATP
+1373t51828t"true"t1264t('nan',)tCHEBI:57287tCoA
+1374t51828t"true"t7316t('nan',)tCHEBI:23858t"docosanoate"
+1375t51828t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1376t51828t"true"t2590t('nan',)tCHEBI:456215tAMP
+1377t51828t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1378t51828t"true"t7317t('nan',)tCHEBI:65059tdocosanoyl-CoA
+1380t51832t"true"t6372t('nan',)tCHEBI:30616tATP
+1381t51832t"true"t1264t('nan',)tCHEBI:57287tCoA
+1382t51832t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1383t51832t"true"t7318t('nan',)tCHEBI:31014t"tetracosanoate"
+1384t51832t"true"t2590t('nan',)tCHEBI:456215tAMP
+1385t51832t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1387t51832t"true"t7311t('nan',)tCHEBI:65052t"tetracosanoyl-CoA"
+1388t51836t"true"t7319t('nan',)tCHEBI:32370t"(9Z)-tetradecenoate"
+1389t51836t"true"t6372t('nan',)tCHEBI:30616tATP
+1390t51836t"true"t1264t('nan',)tCHEBI:57287tCoA
+1391t51836t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1392t51836t"true"t7320t('nan',)tCHEBI:65060t"(9Z)-tetradecenoyl-CoA"
+1393t51836t"true"t2590t('nan',)tCHEBI:456215tAMP
+1394t51836t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1396t51840t"true"t18091t('nan',)tCHEBI:191406t"tauroallocholate"
+1397t51840t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1400t51844t"true"t7321t('nan',)tCHEBI:32372t"(9Z)-hexadecenoate"
+1401t51844t"true"t6372t('nan',)tCHEBI:30616tATP
+1402t51844t"true"t1264t('nan',)tCHEBI:57287tCoA
+1403t51844t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1404t51844t"true"t6542t('nan',)tCHEBI:61540t(9Z)-hexadecenoyl-CoA
+1405t51844t"true"t2590t('nan',)tCHEBI:456215tAMP
+1406t51844t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1408t51852t"true"t2422t('nan',)tCHEBI:30245t"(9Z,12Z)-octadecadienoate"
+1409t51852t"true"t6372t('nan',)tCHEBI:30616tATP
+1410t51852t"true"t1264t('nan',)tCHEBI:57287tCoA
+1411t51852t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1412t51852t"true"t1070t('nan',)tCHEBI:57383t"(9Z,12Z)-octadecadienoyl-CoA"
+1413t51852t"true"t2590t('nan',)tCHEBI:456215tAMP
+1414t51852t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1416t51856t"true"t7946t('nan',)tCHEBI:72745t"(E)-hexadec-2-enoate"
+1417t51856t"true"t6372t('nan',)tCHEBI:30616tATP
+1418t51856t"true"t1264t('nan',)tCHEBI:57287tCoA
+1419t51856t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1420t51856t"true"t6541t('nan',)tCHEBI:61526t(2E)-hexadecenoyl-CoA
+1421t51856t"true"t2590t('nan',)tCHEBI:456215tAMP
+1422t51856t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+1424t52580t"true"t13300t('nan',)tCHEBI:49807tPb(2+)
+1426t53492t"true"t2426t('7.2.1.4',)tCHEBI:29101tNa(+)
+1428t54988t"true"t1198t('nan',)tCHEBI:15379tO2
+1429t54988t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1430t54988t"true"t1283t('nan',)tCHEBI:15377tH2O
+1431t57720t"true"t3249t('7.1.2.2',)tCHEBI:15378tH(+)
+1433t57724t"true"t2426t('7.2.4.2',)tCHEBI:29101tNa(+)
+1435t57884t"true"t2426t('7.2.3.1',)tCHEBI:29101tNa(+)
+1437t57888t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1439t57892t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1441t58156t"true"t2426t('7.2.2.1',)tCHEBI:29101tNa(+)
+1443t58492t"true"t6612t('7.2.2.17',)tCHEBI:28199t"Fe(III)-enterobactin"
+1445t58792t"true"t15222t('nan',)tCHEBI:142779t"Fe(III)-petrobactin"
+1447t58820t"true"t2426t('7.2.4.4',)tCHEBI:29101tNa(+)
+1449t58912t"true"t15247t('7.2.2.18',)tCHEBI:4991t"iron(III) dicitrate"
+1451t60128t"true"t13284t('nan',)tCHEBI:82961t"17beta-estradiol 17-O-(beta-D-glucuronate)"
+1453t60156t"true"t5513t('7.5.2.11',)tCHEBI:4139t"D-galactose"
+1455t60160t"true"t15520t('nan',)tCHEBI:143658t"vincristine"
+1457t60180t"true"t5632t('nan',)tCHEBI:37721t"D-fructose"
+1459t60184t"true"t5529t('nan',)tCHEBI:4167tD-glucose
+1461t60364t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1462t60364t"true"t1700t('nan',)tCHEBI:17268t"myo-inositol"
+1465t60368t"true"t6691t('nan',)tCHEBI:17775t"urate"
+1467t60372t"true"t5632t('nan',)tCHEBI:37721t"D-fructose"
+1469t60376t"true"t5529t('nan',)tCHEBI:4167tD-glucose
+1471t60380t"true"t5445t('nan',)tCHEBI:58539t"L-dehydroascorbate"
+1473t60460t"true"t1195t('nan',)tCHEBI:18608t"(6S)-5-methyl-5,6,7,8-tetrahydrofolate"
+1474t60460t"true"t3011t('nan',)tCHEBI:58475t"5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide"
+1477t60464t"true"t15357t('nan',)tCHEBI:143093t2',3'-cGAMP
+1478t60464t"true"t3011t('nan',)tCHEBI:58475t"5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide"
+1481t60468t"true"t7799t('nan',)tCHEBI:71501t3',3'-cGAMP
+1482t60468t"true"t3011t('nan',)tCHEBI:58475t"5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide"
+1485t60472t"true"t2716t('nan',)tCHEBI:57457t"(6S)-5-formyl-5,6,7,8-tetrahydrofolate"
+1486t60472t"true"t3011t('nan',)tCHEBI:58475t"5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide"
+1489t61332t"true"t15809t('nan',)tCHEBI:144643t"indoxyl sulfate"
+1491t61336t"true"t3956t('nan',)tCHEBI:57306t"protoporphyrin IX"
+1493t61348t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+1495t61352t"true"t3357t('nan',)tCHEBI:57986triboflavin
+1497t61356t"true"t15785t('nan',)tCHEBI:50681t"methotrexate"
+1499t61360t"true"t5295t('nan',)tCHEBI:58687tpheophorbide a
+1501t61364t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+1503t61368t"true"t15787t('nan',)tCHEBI:144581t"4-methylumbelliferone sulfate"
+1505t61372t"true"t15788t('nan',)tCHEBI:144582t"4-methylumbelliferone beta-D-glucuronate"
+1507t61376t"true"t15789t('nan',)tCHEBI:144583t"5,7-dimethyl-2-methylamino-4-(3-pyridylmethyl)-1,3-benzothiazol-6-yl sulfate"
+1509t61380t"true"t12934t('nan',)tCHEBI:133977t"2,4-dinitrophenyl-S-glutathione"
+1511t61384t"true"t15790t('nan',)tCHEBI:144584t"5,7-dimethyl-2-methylamino-4-(3-pyridylmethyl)-1,3-benzothiazol-6-yl beta-D-glucuronate"
+1513t61388t"true"t2770t('nan',)tCHEBI:57586t"biotin"
+1515t61716t"true"t15916t('7.5.2.9',)tCHEBI:143624t"D-galactofuranose"
+1517t61912t"true"t15975t('nan',)tCHEBI:10023tvoriconazole
+1519t61916t"true"t15976t('nan',)tCHEBI:46081tfluconazole
+1521t61920t"true"t15977t('nan',)tCHEBI:48336t"(2R,4S)-ketoconazole"
+1523t61924t"true"t15978t('nan',)tCHEBI:47518t"(2S,4R)-ketoconazole"
+1525t61928t"true"t15979t('nan',)tCHEBI:82894t(R)-miconazole
+1527t61932t"true"t15980t('nan',)tCHEBI:82897t(S)-miconazole
+1529t61936t"true"t15981t('nan',)tCHEBI:27641tcycloheximide
+1531t62252t"true"t1073t('nan',)tCHEBI:29105tZn(2+)
+1532t62252t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+1535t62256t"true"t3309t('nan',)tCHEBI:48775tCd(2+)
+1536t62256t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+1539t62260t"true"t4151t('nan',)tCHEBI:29035tMn(2+)
+1540t62260t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+1543t62264t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+1544t62264t"true"t9248t('nan',)tCHEBI:18212t"selenite"
+1545t62264t"true"t1073t('nan',)tCHEBI:29105tZn(2+)
+1549t62368t"true"t1795t('nan',)tCHEBI:29033tFe(2+)
+1550t62368t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+1553t62576t"true"t4592t('7.4.2.12',)tCHEBI:35491t"L-cystine"
+1555t62580t"true"t16130t('7.4.2.12',)tCHEBI:145813t"D-cystine"
+1557t62584t"true"t1046t('7.4.2.13',)tCHEBI:58315t"L-tyrosine"
+1559t62960t"true"t1703t('nan',)tCHEBI:17759t"7-dehydrocholesterol"
+1561t63320t"true"t13425t('nan',)tCHEBI:136912ta glycerophospholipid
+1563t63368t"true"t1171t('nan',)tCHEBI:45725tspermine
+1565t63908t"true"t13038t('nan',)tCHEBI:63660t"pravastatin"
+1567t63932t"true"t16473t('nan',)tCHEBI:62432t"abscisate"
+1569t63960t"true"t16473t('nan',)tCHEBI:62432t"abscisate"
+1571t64392t"true"t12223t('nan',)tCHEBI:90799t"a dipeptide"
+1572t64392t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1575t64396t"true"t16592t('nan',)tCHEBI:155838tglycyl-sarcosine
+1576t64396t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1579t64400t"true"t16593t('nan',)tCHEBI:155837t"an L-amino acid tripeptide"
+1580t64400t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1583t64404t"true"t2193t('nan',)tCHEBI:57485tcarnosine
+1584t64404t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1587t64408t"true"t16594t('nan',)tCHEBI:155830t"N-acetyl-D-muramoyl-L-alanyl-D-isoglutamine"
+1588t64408t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1591t64412t"true"t6452t('nan',)tCHEBI:61401t"L-alanyl-gamma-D-glutamyl-meso-diaminoheptanedioate"
+1592t64412t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1595t64420t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1596t64420t"true"t16596t('nan',)tCHEBI:155848tL-alanyl-L-proline
+1599t64424t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1600t64424t"true"t16597t('nan',)tCHEBI:155847tL-leucyl-L-proline
+1603t64428t"true"t8009t('nan',)tCHEBI:73779tglycyl-L-proline
+1604t64428t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1607t64432t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1608t64432t"true"t16598t('nan',)tCHEBI:155849tL-alanyl-L-prolylglycine
+1611t64436t"true"t16599t('nan',)tCHEBI:155850tglycylglycyl-L-isoleucine
+1612t64436t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1615t64440t"true"t16600t('nan',)tCHEBI:155851tglycylglycyl-L-proline
+1616t64440t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1619t64584t"true"t6581t('nan',)tCHEBI:61904t"2-hydroxyethane-1-sulfonate"
+1620t64584t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1623t64720t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1624t64720t"true"t3719t('nan',)tCHEBI:15361t"pyruvate"
+1627t64816t"true"t4237t('nan',)tCHEBI:356416t"5-aminolevulinate"
+1629t65408t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+1631t65412t"true"t4393t('nan',)tCHEBI:58245tdAMP
+1632t65412t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+1635t65416t"true"t3058t('nan',)tCHEBI:57673tdGMP
+1636t65416t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+1639t65420t"true"t3807t('nan',)tCHEBI:58115tGMP
+1640t65420t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+1643t65424t"true"t2590t('nan',)tCHEBI:456215tAMP
+1644t65424t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+1647t65428t"true"t5245t('nan',)tCHEBI:58437tdeamido-NAD(+)
+1648t65428t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+1651t65664t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+1652t65664t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1655t65840t"true"t6372t('nan',)tCHEBI:30616tATP
+1656t65840t"true"t5136t('nan',)tCHEBI:18420tMg(2+)
+1657t65840t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+1661t65844t"true"t2710t('nan',)tCHEBI:456216tADP
+1662t65844t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1663t65844t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+1667t65956t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+1669t65960t"true"t1450t('nan',)tCHEBI:57973t"leukotriene C4"
+1671t65964t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+1673t65968t"true"t13284t('nan',)tCHEBI:82961t"17beta-estradiol 17-O-(beta-D-glucuronate)"
+1675t66036t"true"t6848t('nan',)tCHEBI:22801t"a beta-D-glucosyl-(1<->1')-N-acylsphing-4-enine"
+1677t66132t"true"t7185t('nan',)tCHEBI:64612t"a 1,2-diacyl-sn-glycero-3-phosphoethanolamine"
+1679t66168t"true"t16963t('nan',)tGENERIC:16963t"[protein]-with a C-terminal TM segment"
+1681t66172t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1682t66172t"true"t4592t('nan',)tCHEBI:35491t"L-cystine"
+1685t66176t"true"t16966t('nan',)tCHEBI:166912t"taurochenodeoxycholate 3-sulfate"
+1687t66180t"true"t19200t('nan',)tCHEBI:229704t"(4Z,15Z)-bilirubin IXalpha C8-beta-D-glucuronoside"
+1689t66184t"true"t1852t('nan',)tCHEBI:58165t3',5'-cyclic AMP
+1691t66188t"true"t1641t('nan',)tCHEBI:57746t3',5'-cyclic GMP
+1693t66192t"true"t19199t('nan',)tCHEBI:229706t"(4Z,15Z)-bilirubin IXalpha C8,C12-beta-D-bisglucuronoside"
+1695t66272t"true"t4939t('nan',)tCHEBI:57643ta 1,2-diacyl-sn-glycero-3-phosphocholine
+1697t66320t"true"t15357t('nan',)tCHEBI:143093t2',3'-cGAMP
+1699t66324t"true"t2219t('nan',)tCHEBI:16382tiodide
+1701t66328t"true"t4338t('nan',)tCHEBI:507393t"taurine"
+1703t66332t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+1705t66336t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+1707t66340t"true"t7902t('nan',)tCHEBI:72999t1,2-dihexadecanoyl-sn-glycero-3-phosphocholine
+1709t66344t"true"t7194t('nan',)tCHEBI:64716t1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol)
+1711t66380t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+1712t66380t"true"t11849t('nan',)tCHEBI:82982t"glycodeoxycholate"
+1715t66388t"true"t1262t('nan',)tCHEBI:606564t"prostaglandin E2"
+1717t66392t"true"t2869t('nan',)tCHEBI:57397t"prostaglandin E1"
+1719t66396t"true"t4024t('nan',)tCHEBI:29747t"cholate"
+1720t66396t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+1723t66400t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+1724t66400t"true"t1215t('nan',)tCHEBI:29746t"glycocholate"
+1727t66404t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+1728t66404t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+1731t66408t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+1732t66408t"true"t6199t('nan',)tCHEBI:36252t"glycochenodeoxycholate"
+1735t66412t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+1736t66412t"true"t3782t('nan',)tCHEBI:9407t"taurochenodeoxycholate"
+1739t66416t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+1740t66416t"true"t12534t('nan',)tCHEBI:132030t"glycoursodeoxycholate"
+1743t66420t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+1744t66420t"true"t12535t('nan',)tCHEBI:132028t"tauroursodeoxycholate"
+1747t66424t"true"t1150t('nan',)tCHEBI:57461t"leukotriene B4"
+1749t66428t"true"t5664t('nan',)tCHEBI:46994tD-arabinose
+1750t66428t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1753t66432t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1754t66432t"true"t5984t('nan',)tCHEBI:37619t"L-galactose"
+1757t66524t"true"t1411t('nan',)tCHEBI:38290t"L-ascorbate"
+1758t66524t"true"t6195t('nan',)tCHEBI:59513t"monodehydro-L-ascorbate radical"
+1761t66616t"true"t5136t('nan',)tCHEBI:18420tMg(2+)
+1762t66616t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1765t66656t"true"t4720t('nan',)tCHEBI:29036tCu(2+)
+1766t66656t"true"t1411t('nan',)tCHEBI:38290t"L-ascorbate"
+1767t66656t"true"t5769t('nan',)tCHEBI:49552tCu(+)
+1768t66656t"true"t6195t('nan',)tCHEBI:59513t"monodehydro-L-ascorbate radical"
+1769t66660t"true"t11988t('nan',)tCHEBI:83264t"beta-D-glucosylceramide"
+1771t66664t"true"t12436t('nan',)tCHEBI:131725tcoproporphyrin III
+1773t66680t"true"t1136t('nan',)tCHEBI:57309tcoproporphyrinogen III
+1775t66720t"true"t17101t('nan',)tCHEBI:167456t"N-[(S)-lactoyl]-L-phenylalanine"
+1777t66728t"true"t8994t('nan',)tCHEBI:76931t"N-acetyl-L-aspartyl-L-glutamate"
+1779t66732t"true"t8995t('nan',)tCHEBI:76935t"N-acetyl-L-aspartyl-L-glutamyl-L-glutamate"
+1781t66736t"true"t8996t('nan',)tCHEBI:76942t"beta-citrylglutamate"
+1783t66740t"true"t5332t('nan',)tCHEBI:44337t"N-acetyl-L-glutamate"
+1785t66744t"true"t5306t('nan',)tCHEBI:16953t"N-acetyl-L-aspartate"
+1787t66752t"true"t17103t('nan',)tCHEBI:167466t"(2S)-2-[5-amino-1-(beta-D-ribosyl)imidazole-4-carboxamido]succinate"
+1789t66756t"true"t17104t('nan',)tCHEBI:167470t"domoate"
+1791t66760t"true"t17105t('nan',)tCHEBI:156548t"kainate"
+1793t66764t"true"t6763t('nan',)tCHEBI:62501t"folate"
+1795t66768t"true"t17106t('nan',)tCHEBI:167478tcoproporphyrin I
+1797t66772t"true"t17107t('nan',)tCHEBI:167480turoporphyrin I
+1799t66776t"true"t17108t('nan',)tCHEBI:167479turoporphyrin III
+1801t66784t"true"t17110t('nan',)tCHEBI:167476t"N-acetyl-beta-D-muramate-(1->4)-N-acetyl-D-glucosamine"
+1802t66784t"true"t17109t('nan',)tCHEBI:167477t"6-phospho-N-acetyl-beta-D-muramate-(1->4)-N-acetyl-D-glucosamine"
+1803t66816t"true"t17124t('nan',)tCHEBI:41132t"tetrahydroxoborate"
+1804t66816t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1807t66820t"true"t4151t('7.2.2.22',)tCHEBI:29035tMn(2+)
+1809t67028t"true"t17172t('nan',)tCHEBI:167627t"(glutathione)4[2Fe(III)-2S] cluster"
+1811t67080t"true"t13403t('nan',)tCHEBI:58950t"a very long-chain fatty acid"
+1813t67084t"true"t7356t('nan',)tCHEBI:31013t"hexacosanoate"
+1815t67088t"true"t7318t('nan',)tCHEBI:31014t"tetracosanoate"
+1817t67092t"true"t7316t('nan',)tCHEBI:23858t"docosanoate"
+1819t67188t"true"t17210t('nan',)tCHEBI:167884t"N-all-trans-retinylidenephosphatidylethanolamine"
+1821t67192t"true"t17211t('nan',)tCHEBI:167887t"N-11-cis-retinylidenephosphatidylethanolamine"
+1823t67632t"true"t3249t('7.1.1.10',)tCHEBI:15378tH(+)
+1825t67684t"true"t7546t('nan',)tCHEBI:57560t"a long-chain fatty acid"
+1827t67688t"true"t9098t('nan',)tCHEBI:77268t"2,6,10,14-tetramethylpentadecanoate"
+1829t67692t"true"t9057t('nan',)tCHEBI:76276t"hexadecanedioate"
+1831t67704t"true"t9021t('nan',)tCHEBI:77016t"(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoate"
+1833t67708t"true"t5221t('nan',)tCHEBI:58562t"(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate"
+1835t67724t"true"t3543t('nan',)tCHEBI:60377tCMP
+1836t67724t"true"t3826t('nan',)tCHEBI:57812t"CMP-N-acetyl-beta-neuraminate"
+1839t67920t"true"t2322t('nan',)tCHEBI:58088t"a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol-3-phosphate)"
+1841t67932t"true"t3656t('nan',)tCHEBI:17737t"desmosterol"
+1843t68228t"true"t4570t('nan',)tCHEBI:57305tglycine
+1844t68228t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1847t68232t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+1848t68232t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1851t68236t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+1852t68236t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1855t68240t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+1856t68240t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1859t68244t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+1860t68244t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1863t68248t"true"t1046t('nan',)tCHEBI:58315t"L-tyrosine"
+1864t68248t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1867t68252t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+1868t68252t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1871t68256t"true"t4592t('nan',)tCHEBI:35491t"L-cystine"
+1872t68256t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1875t68260t"true"t2832t('nan',)tCHEBI:35247tD-serine
+1876t68260t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1879t68572t"true"t1046t('nan',)tCHEBI:58315t"L-tyrosine"
+1881t68576t"true"t3237t('nan',)tCHEBI:17712t"xanthine"
+1883t68580t"true"t2138t('nan',)tCHEBI:57959tL-kynurenine
+1885t68584t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+1887t68592t"true"t4996t('nan',)tCHEBI:57453t"(6S)-5,6,7,8-tetrahydrofolate"
+1889t68632t"true"t3249t('7.1.1.11',)tCHEBI:15378tH(+)
+1891t68940t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1892t68940t"true"t9291t('nan',)tCHEBI:30477t"tellurite"
+1895t69404t"true"t4063t('nan',)tCHEBI:17568turacil
+1897t69556t"true"t5529t('nan',)tCHEBI:4167tD-glucose
+1898t69556t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1901t69560t"true"t5591t('nan',)tCHEBI:4208tD-mannose
+1902t69560t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1905t69883t"true"t1411t('nan',)tCHEBI:38290t"L-ascorbate"
+1906t69883t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1909t69887t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1910t69887t"true"t4178t('nan',)tCHEBI:16704turidine
+1913t69891t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1914t69891t"true"t4636t('nan',)tCHEBI:17748t"thymidine"
+1917t69895t"true"t3062t('nan',)tCHEBI:17562t"cytidine"
+1918t69895t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1921t69899t"true"t4636t('nan',)tCHEBI:17748t"thymidine"
+1922t69899t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1925t69903t"true"t3062t('nan',)tCHEBI:17562t"cytidine"
+1926t69903t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1929t69907t"true"t4178t('nan',)tCHEBI:16704turidine
+1930t69907t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1933t69911t"true"t2547t('nan',)tCHEBI:16335tadenosine
+1934t69911t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1937t69915t"true"t1817t('nan',)tCHEBI:16750tguanosine
+1938t69915t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1941t69919t"true"t1231t('nan',)tCHEBI:17596tinosine
+1942t69919t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1945t69927t"true"t2547t('nan',)tCHEBI:16335tadenosine
+1946t69927t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1949t69931t"true"t1231t('nan',)tCHEBI:17596tinosine
+1950t69931t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1953t69935t"true"t1817t('nan',)tCHEBI:16750tguanosine
+1954t69935t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1957t69955t"true"t3017t('nan',)tCHEBI:29108tCa(2+)
+1958t69955t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1961t69967t"true"t3017t('nan',)tCHEBI:29108tCa(2+)
+1962t69967t"true"t3890t('nan',)tCHEBI:29103tK(+)
+1963t69967t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1967t69999t"true"t3255t('nan',)tCHEBI:57926t"L-threonine"
+1968t69999t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1971t70023t"true"t3632t('nan',)tCHEBI:58419t4-hydroxy-L-proline
+1972t70023t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+1975t70159t"true"t6763t('nan',)tCHEBI:62501t"folate"
+1976t70159t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1979t70163t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1980t70163t"true"t15785t('nan',)tCHEBI:50681t"methotrexate"
+1983t70167t"true"t1195t('nan',)tCHEBI:18608t"(6S)-5-methyl-5,6,7,8-tetrahydrofolate"
+1984t70167t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1987t70171t"true"t3249t('nan',)tCHEBI:15378tH(+)
+1988t70171t"true"t17843t('nan',)tCHEBI:63724t"pemetrexed"
+1991t70207t"true"t16475t('nan',)tCHEBI:149632t"sphinga-4E,14Z-dienine-1-phosphate"
+1993t70259t"true"t2590t('nan',)tCHEBI:456215tAMP
+1994t70259t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+1997t70267t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+1998t70267t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2001t70431t"true"t6552t('nan',)tCHEBI:49713tLi(+)
+2002t70431t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2005t70495t"true"t5529t('nan',)tCHEBI:4167tD-glucose
+2006t70495t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2009t70499t"true"t5513t('nan',)tCHEBI:4139t"D-galactose"
+2010t70499t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2013t70571t"true"t5529t('nan',)tCHEBI:4167tD-glucose
+2014t70571t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2017t70643t"true"t3424t('nan',)tCHEBI:57726tD-proline
+2018t70643t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2021t70647t"true"t2832t('nan',)tCHEBI:35247tD-serine
+2022t70647t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2025t70655t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2026t70655t"true"t4566t('nan',)tCHEBI:57433tsarcosine
+2029t70659t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2030t70659t"true"t2866t('nan',)tCHEBI:58251t"N,N-dimethylglycine"
+2033t70663t"true"t3632t('nan',)tCHEBI:58419t4-hydroxy-L-proline
+2034t70663t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2037t70679t"true"t5292t('nan',)tCHEBI:17750t"glycine betaine"
+2038t70679t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2041t70687t"true"t6180t('nan',)tCHEBI:59888t"4-aminobutanoate"
+2042t70687t"true"t5440t('nan',)tCHEBI:17996tchloride
+2043t70687t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2047t70691t"true"t5440t('nan',)tCHEBI:17996tchloride
+2048t70691t"true"t4570t('nan',)tCHEBI:57305tglycine
+2049t70691t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2053t70695t"true"t5440t('nan',)tCHEBI:17996tchloride
+2054t70695t"true"t4570t('nan',)tCHEBI:57305tglycine
+2055t70695t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2059t70699t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2060t70699t"true"t3890t('nan',)tCHEBI:29103tK(+)
+2061t70699t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+2062t70699t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2067t70703t"true"t8727t('nan',)tCHEBI:75929tD-cycloserine
+2068t70703t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2071t70711t"true"t4985t('nan',)tCHEBI:57416tD-alanine
+2073t70715t"true"t4570t('nan',)tCHEBI:57305tglycine
+2075t70719t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+2077t70723t"true"t8765t('nan',)tCHEBI:27693t"sitosterol"
+2079t70731t"true"t6180t('nan',)tCHEBI:59888t"4-aminobutanoate"
+2080t70731t"true"t5440t('nan',)tCHEBI:17996tchloride
+2081t70731t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2085t70735t"true"t5440t('nan',)tCHEBI:17996tchloride
+2086t70735t"true"t5292t('nan',)tCHEBI:17750t"glycine betaine"
+2087t70735t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2091t70783t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2092t70783t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+2093t70783t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+2097t70787t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2098t70787t"true"t5108t('nan',)tCHEBI:57743t"L-citrulline"
+2099t70787t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+2103t70791t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2104t70791t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+2107t70795t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2108t70795t"true"t3235t('nan',)tCHEBI:32551tL-lysine
+2111t70799t"true"t3235t('nan',)tCHEBI:32551tL-lysine
+2112t70799t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+2115t70815t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2116t70815t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+2117t70815t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+2121t70819t"true"t15324t('nan',)tCHEBI:143006tL-homoarginine
+2122t70819t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+2125t70827t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2126t70827t"true"t3235t('nan',)tCHEBI:32551tL-lysine
+2129t70831t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2130t70831t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+2131t70831t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2135t70835t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2136t70835t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2137t70835t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2141t70839t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2142t70839t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+2143t70839t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2147t70843t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2148t70843t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+2149t70843t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2153t70847t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2154t70847t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+2155t70847t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2159t70851t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2160t70851t"true"t3890t('nan',)tCHEBI:29103tK(+)
+2161t70851t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+2162t70851t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2167t70855t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2168t70855t"true"t4901t('nan',)tCHEBI:33384tL-serine
+2169t70855t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2173t70859t"true"t1960t('nan',)tCHEBI:58048tL-asparagine
+2174t70859t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2175t70859t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2179t70863t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2180t70863t"true"t3255t('nan',)tCHEBI:57926t"L-threonine"
+2181t70863t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2185t70867t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+2186t70867t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2187t70867t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2191t70871t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2192t70871t"true"t1223t('nan',)tCHEBI:57762tL-valine
+2193t70871t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2197t70875t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2198t70875t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+2199t70875t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2203t70879t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2204t70879t"true"t3255t('nan',)tCHEBI:57926t"L-threonine"
+2205t70879t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2209t70883t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2210t70883t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+2211t70883t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2212t70883t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2217t70887t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2218t70887t"true"t4901t('nan',)tCHEBI:33384tL-serine
+2219t70887t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2223t70891t"true"t1960t('nan',)tCHEBI:58048tL-asparagine
+2224t70891t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2225t70891t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2229t70915t"true"t1817t('nan',)tCHEBI:16750tguanosine
+2230t70915t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2233t70919t"true"t5440t('nan',)tCHEBI:17996tchloride
+2234t70919t"true"t6130t('nan',)tCHEBI:59905tdopamine
+2235t70919t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2239t70923t"true"t7803t('nan',)tCHEBI:72587t(R)-noradrenaline
+2240t70923t"true"t5440t('nan',)tCHEBI:17996tchloride
+2241t70923t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2245t70927t"true"t3204t('nan',)tCHEBI:16659t"(R)-glycerate"
+2246t70927t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2249t70931t"true"t5440t('nan',)tCHEBI:17996tchloride
+2250t70931t"true"t6130t('nan',)tCHEBI:59905tdopamine
+2251t70931t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2255t70935t"true"t3235t('nan',)tCHEBI:32551tL-lysine
+2257t70939t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+2259t70943t"true"t2660t('nan',)tCHEBI:58045tL-isoleucine
+2261t70947t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+2263t70955t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2264t70955t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+2267t70967t"true"t6393t('nan',)tCHEBI:61085t3-sulfino-L-alanine
+2268t70967t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2269t70967t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+2273t70975t"true"t6393t('nan',)tCHEBI:61085t3-sulfino-L-alanine
+2274t70975t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+2277t70979t"true"t6180t('nan',)tCHEBI:59888t"4-aminobutanoate"
+2278t70979t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2281t70983t"true"t4570t('nan',)tCHEBI:57305tglycine
+2282t70983t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2285t70987t"true"t2880t('nan',)tCHEBI:57966t"beta-alanine"
+2286t70987t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2289t70991t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2290t70991t"true"t17979t('nan',)tCHEBI:37677tL-mannopyranose
+2293t70995t"true"t4592t('nan',)tCHEBI:35491t"L-cystine"
+2294t70995t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+2297t71003t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+2298t71003t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2301t71007t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2302t71007t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+2305t71011t"true"t2660t('nan',)tCHEBI:58045tL-isoleucine
+2306t71011t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2309t71019t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2310t71019t"true"t1223t('nan',)tCHEBI:57762tL-valine
+2313t71023t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+2314t71023t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2317t71027t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2318t71027t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2321t71031t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+2322t71031t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2325t71035t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2326t71035t"true"t4901t('nan',)tCHEBI:33384tL-serine
+2329t71039t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+2330t71039t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2333t71043t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+2334t71043t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2337t71047t"true"t4570t('nan',)tCHEBI:57305tglycine
+2338t71047t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2341t71051t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+2342t71051t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+2345t71055t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+2346t71055t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+2349t71059t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2350t71059t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+2353t71063t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2354t71063t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+2357t71067t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2358t71067t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2361t71071t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2362t71071t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+2365t71075t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2366t71075t"true"t4592t('nan',)tCHEBI:35491t"L-cystine"
+2369t71083t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+2370t71083t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2373t71087t"true"t13255t('nan',)tCHEBI:136582t"17beta-estradiol 3-sulfate"
+2374t71087t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2377t71091t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+2378t71091t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2381t71095t"true"t13249t('nan',)tCHEBI:133000t"pregnenolone sulfate"
+2382t71095t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2385t71099t"true"t17985t('nan',)tCHEBI:190287t"androst-5-ene-diol 3-sulfate"
+2386t71099t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2389t71103t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+2390t71103t"true"t17986t('nan',)tCHEBI:190186t"S-methylmercury-L-cysteine"
+2393t71107t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+2394t71107t"true"t17986t('nan',)tCHEBI:190186t"S-methylmercury-L-cysteine"
+2397t71111t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2398t71111t"true"t17986t('nan',)tCHEBI:190186t"S-methylmercury-L-cysteine"
+2401t71127t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2402t71127t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2403t71127t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2407t71131t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2408t71131t"true"t1960t('nan',)tCHEBI:58048tL-asparagine
+2409t71131t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2413t71135t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2414t71135t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+2415t71135t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2419t71159t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2420t71159t"true"t4901t('nan',)tCHEBI:33384tL-serine
+2421t71159t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2425t71163t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2426t71163t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+2427t71163t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2431t71167t"true"t4570t('nan',)tCHEBI:57305tglycine
+2432t71167t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2433t71167t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2437t71171t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2438t71171t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+2439t71171t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2443t71175t"true"t5292t('nan',)tCHEBI:17750t"glycine betaine"
+2444t71175t"true"t5440t('nan',)tCHEBI:17996tchloride
+2445t71175t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2449t71179t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+2450t71179t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+2453t71183t"true"t2138t('nan',)tCHEBI:57959tL-kynurenine
+2454t71183t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+2457t71187t"true"t3128t('nan',)tCHEBI:58125t3-hydroxy-L-kynurenine
+2458t71187t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+2461t71191t"true"t6084t('nan',)tCHEBI:59869tan L-alpha-amino acid
+2462t71191t"true"t2138t('nan',)tCHEBI:57959tL-kynurenine
+2465t71195t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2466t71195t"true"t1073t('nan',)tCHEBI:29105tZn(2+)
+2469t71199t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+2471t71203t"true"t15324t('nan',)tCHEBI:143006tL-homoarginine
+2473t71207t"true"t2219t('nan',)tCHEBI:16382tiodide
+2474t71207t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2477t71211t"true"t7652t('nan',)tCHEBI:49709t"chlorate"
+2478t71211t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2481t71215t"true"t4173t('nan',)tCHEBI:18022t"thiocyanate"
+2482t71215t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2485t71219t"true"t5436t('nan',)tCHEBI:17632t"nitrate"
+2486t71219t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2489t71223t"true"t5440t('nan',)tCHEBI:17996tchloride
+2490t71223t"true"t4338t('nan',)tCHEBI:507393t"taurine"
+2491t71223t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2495t71227t"true"t17991t('nan',)tCHEBI:29445t"selenocyanate"
+2496t71227t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2499t71243t"true"t5440t('nan',)tCHEBI:17996tchloride
+2500t71243t"true"t3238t('nan',)tCHEBI:57853t"hypotaurine"
+2501t71243t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2505t71247t"true"t2880t('nan',)tCHEBI:57966t"beta-alanine"
+2506t71247t"true"t5440t('nan',)tCHEBI:17996tchloride
+2507t71247t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2511t71255t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+2512t71255t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2515t71259t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+2516t71259t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2519t71263t"true"t5440t('nan',)tCHEBI:17996tchloride
+2520t71263t"true"t2793t('nan',)tCHEBI:60039tL-proline
+2521t71263t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2525t71267t"true"t5440t('nan',)tCHEBI:17996tchloride
+2526t71267t"true"t6498t('nan',)tCHEBI:61185t"L-pipecolate"
+2527t71267t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2531t71271t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2532t71271t"true"t4164t('nan',)tCHEBI:18385t"thiamine"
+2535t71275t"true"t4077t('nan',)tCHEBI:58301t"taurolithocholate 3-sulfate"
+2536t71275t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2539t71279t"true"t5440t('nan',)tCHEBI:17996tchloride
+2540t71279t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+2541t71279t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2545t71283t"true"t5440t('nan',)tCHEBI:17996tchloride
+2546t71283t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+2547t71283t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2551t71287t"true"t5440t('nan',)tCHEBI:17996tchloride
+2552t71287t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+2553t71287t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2557t71291t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+2558t71291t"true"t5440t('nan',)tCHEBI:17996tchloride
+2559t71291t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2563t71295t"true"t5440t('nan',)tCHEBI:17996tchloride
+2564t71295t"true"t11048t('nan',)tCHEBI:53210t"O-propanoyl-(R)-carnitine"
+2565t71295t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2569t71299t"true"t5440t('nan',)tCHEBI:17996tchloride
+2570t71299t"true"t2660t('nan',)tCHEBI:58045tL-isoleucine
+2571t71299t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2575t71303t"true"t5440t('nan',)tCHEBI:17996tchloride
+2576t71303t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+2577t71303t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2581t71307t"true"t5440t('nan',)tCHEBI:17996tchloride
+2582t71307t"true"t1223t('nan',)tCHEBI:57762tL-valine
+2583t71307t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2587t71311t"true"t5440t('nan',)tCHEBI:17996tchloride
+2588t71311t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+2589t71311t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2593t71315t"true"t5440t('nan',)tCHEBI:17996tchloride
+2594t71315t"true"t4901t('nan',)tCHEBI:33384tL-serine
+2595t71315t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2599t71319t"true"t5440t('nan',)tCHEBI:17996tchloride
+2600t71319t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+2601t71319t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2605t71323t"true"t5440t('nan',)tCHEBI:17996tchloride
+2606t71323t"true"t1960t('nan',)tCHEBI:58048tL-asparagine
+2607t71323t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2611t71327t"true"t5440t('nan',)tCHEBI:17996tchloride
+2612t71327t"true"t3255t('nan',)tCHEBI:57926t"L-threonine"
+2613t71327t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2617t71331t"true"t5440t('nan',)tCHEBI:17996tchloride
+2618t71331t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2619t71331t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2623t71335t"true"t5440t('nan',)tCHEBI:17996tchloride
+2624t71335t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+2625t71335t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2629t71339t"true"t5440t('nan',)tCHEBI:17996tchloride
+2630t71339t"true"t1046t('nan',)tCHEBI:58315t"L-tyrosine"
+2631t71339t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2635t71343t"true"t5440t('nan',)tCHEBI:17996tchloride
+2636t71343t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+2637t71343t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2641t71347t"true"t5440t('nan',)tCHEBI:17996tchloride
+2642t71347t"true"t3235t('nan',)tCHEBI:32551tL-lysine
+2643t71347t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2647t71351t"true"t15635t('nan',)tCHEBI:133003t"androsterone 3alpha-sulfate"
+2648t71351t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2651t71355t"true"t13465t('nan',)tCHEBI:136982t"5alpha-dihydrotestosterone sulfate"
+2652t71355t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2655t71359t"true"t18005t('nan',)tCHEBI:190469t"17beta-estradiol 17-sulfate"
+2656t71359t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2659t71363t"true"t18006t('nan',)tCHEBI:133742t"17alpha-hydroxypregnenolone 3-sulfate"
+2660t71363t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2663t71367t"true"t18007t('nan',)tCHEBI:133729t"epiandrosterone 3-sulfate"
+2664t71367t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2667t71371t"true"t18008t('nan',)tCHEBI:190485t"epitestosterone 17-sulfate"
+2668t71371t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2671t71375t"true"t18009t('nan',)tCHEBI:190489t"testosterone 17-sulfate"
+2672t71375t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2675t71379t"true"t1336t('nan',)tCHEBI:29990t"D-aspartate"
+2676t71379t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2677t71379t"true"t3890t('nan',)tCHEBI:29103tK(+)
+2678t71379t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2683t71383t"true"t1960t('nan',)tCHEBI:58048tL-asparagine
+2684t71383t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2687t71387t"true"t6498t('nan',)tCHEBI:61185t"L-pipecolate"
+2688t71387t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2691t71391t"true"t11775t('nan',)tCHEBI:87538t"16alpha-hydroxydehydroepiandrosterone 3-sulfate"
+2692t71391t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2695t71395t"true"t6063t('nan',)tCHEBI:32395t"(5Z,8Z,11Z,14Z)-eicosatetraenoate"
+2697t71411t"true"t1834t('nan',)tCHEBI:533015t"3,3',5-triiodo-L-thyronine"
+2698t71411t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+2701t71415t"true"t1834t('nan',)tCHEBI:533015t"3,3',5-triiodo-L-thyronine"
+2702t71415t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2705t71419t"true"t1834t('nan',)tCHEBI:533015t"3,3',5-triiodo-L-thyronine"
+2706t71419t"true"t1046t('nan',)tCHEBI:58315t"L-tyrosine"
+2709t71423t"true"t1834t('nan',)tCHEBI:533015t"3,3',5-triiodo-L-thyronine"
+2710t71423t"true"t11921t('nan',)tCHEBI:84824t"an aromatic L-alpha-amino acid"
+2713t71427t"true"t17383t('nan',)tCHEBI:176514t"3,3'-diiodo-L-thyronine"
+2714t71427t"true"t11921t('nan',)tCHEBI:84824t"an aromatic L-alpha-amino acid"
+2717t71431t"true"t4059t('nan',)tCHEBI:57261t"3,3',5'-triiodo-L-thyronine"
+2718t71431t"true"t11921t('nan',)tCHEBI:84824t"an aromatic L-alpha-amino acid"
+2721t71435t"true"t11921t('nan',)tCHEBI:84824t"an aromatic L-alpha-amino acid"
+2722t71435t"true"t1122t('nan',)tCHEBI:58448t"L-thyroxine"
+2725t71439t"true"t1556t('nan',)tCHEBI:57504tL-dopa
+2726t71439t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2729t71443t"true"t18012t('nan',)tCHEBI:133668t"3-O-methyl-L-dopa"
+2730t71443t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+2733t71447t"true"t4985t('nan',)tCHEBI:57416tD-alanine
+2734t71447t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2737t71491t"true"t2273t('nan',)tCHEBI:57997t"an alpha-D-GlcN-(1->6)-(1,2-diacyl-sn-glycero-3-phospho)-1D-myo-inositol"
+2739t71495t"true"t18035t('nan',)tCHEBI:190691t"6-(alpha-D-glucosaminyl)-(1-octadecanoyl,2-(9Z)-octadecenoyl-sn-glycero-3-phospho)-1D-myo-inositol"
+2741t71499t"true"t18036t('nan',)tCHEBI:190690t"6-(N-acetyl-alpha-D-glucosaminyl)-(1-octadecanoyl,2-(9Z)-octadecenoyl-sn-glycero-3-phospho)-1D-myo-inositol"
+2743t71503t"true"t3971t('nan',)tCHEBI:57265t"a 6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol"
+2745t71507t"true"t4102t('nan',)tCHEBI:18145t"(+)-alpha-tocopherol"
+2747t71511t"true"t4826t('nan',)tCHEBI:18067tphylloquinone
+2749t71515t"true"t3881t('nan',)tCHEBI:17368t"hypoxanthine"
+2751t71519t"true"t4178t('nan',)tCHEBI:16704turidine
+2753t71523t"true"t4174t('nan',)tCHEBI:16708tadenine
+2755t71527t"true"t2794t('nan',)tCHEBI:17821t"thymine"
+2757t71531t"true"t2523t('nan',)tCHEBI:16235tguanine
+2759t71535t"true"t6501t('nan',)tCHEBI:61548t"D-glucose 6-phosphate"
+2760t71535t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+2763t71539t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2764t71539t"true"t5436t('nan',)tCHEBI:17632t"nitrate"
+2767t71579t"true"t1585t('nan',)tCHEBI:58069tCDP
+2768t71579t"true"t5145t('nan',)tCHEBI:57608t"CDP-L-ribitol"
+2771t71583t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+2772t71583t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2775t71587t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+2776t71587t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2779t71591t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2780t71591t"true"t5277t('nan',)tCHEBI:15792t"malonate"
+2783t71595t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2784t71595t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+2787t71599t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2788t71599t"true"t2303t('nan',)tCHEBI:30780t"maleate"
+2791t71603t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2792t71603t"true"t5219t('nan',)tCHEBI:16452t"oxaloacetate"
+2795t71607t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+2796t71607t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+2799t71611t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+2800t71611t"true"t5277t('nan',)tCHEBI:15792t"malonate"
+2803t71615t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+2804t71615t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+2807t71619t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+2808t71619t"true"t5659t('nan',)tCHEBI:33542t"thiosulfate"
+2811t71623t"true"t5277t('nan',)tCHEBI:15792t"malonate"
+2812t71623t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+2815t71627t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+2816t71627t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+2819t71631t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+2820t71631t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+2823t71635t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+2824t71635t"true"t5659t('nan',)tCHEBI:33542t"thiosulfate"
+2827t71639t"true"t3890t('nan',)tCHEBI:29103tK(+)
+2828t71639t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2831t71663t"true"t3249t('7.1.1.12',)tCHEBI:15378tH(+)
+2833t71667t"true"t5277t('nan',)tCHEBI:15792t"malonate"
+2834t71667t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+2837t71671t"true"t8266t('nan',)tCHEBI:74392t"glycyl-L-glutamine"
+2838t71671t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2841t71675t"true"t15396t('nan',)tCHEBI:143163tglycyl-L-leucine
+2842t71675t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2845t71679t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2846t71679t"true"t18053t('nan',)tCHEBI:191202tL-lysyl-glycine
+2849t71683t"true"t18054t('nan',)tCHEBI:191203t"L-aspartyl-glycine"
+2850t71683t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2853t71687t"true"t18055t('nan',)tCHEBI:191204t"glycyl-L-aspartate"
+2854t71687t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2857t71691t"true"t8010t('nan',)tCHEBI:73784t"glycyl-L-glutamate"
+2858t71691t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2861t71695t"true"t8260t('nan',)tCHEBI:74363t"L-alanyl-L-aspartate"
+2862t71695t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2865t71699t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2866t71699t"true"t18034t('nan',)tCHEBI:190710tL-phenylalanyl-L-leucine
+2869t71703t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+2871t71707t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2872t71707t"true"t18056t('nan',)tCHEBI:191205tL-phenylalanyl-L-phenylalanine
+2875t71711t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2876t71711t"true"t18057t('nan',)tCHEBI:191210t"L-tyrosylglycine"
+2879t71715t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2880t71715t"true"t18058t('nan',)tCHEBI:191208tL-leucyl-L-leucine
+2883t71719t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2884t71719t"true"t18059t('nan',)tCHEBI:191211t"L-methionyl-L-phenylalanyl-L-methionine"
+2887t71723t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2888t71723t"true"t18060t('nan',)tCHEBI:191212tL-alanyl-L-leucyl-L-alanine
+2891t71727t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+2892t71727t"true"t3031t('nan',)tCHEBI:29806t"fumarate"
+2895t71731t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+2896t71731t"true"t5303t('nan',)tCHEBI:30929t"tartrate"
+2899t71739t"true"t4512t('nan',)tCHEBI:57499t"2-oxoadipate"
+2900t71739t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2903t71743t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2904t71743t"true"t3092t('nan',)tCHEBI:17128t"hexanedioate"
+2907t71747t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2908t71747t"true"t4399t('nan',)tCHEBI:58672t"L-2-aminoadipate"
+2911t71751t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2912t71751t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+2915t71755t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2916t71755t"true"t11042t('nan',)tCHEBI:72701t"2-oxoheptanedioate"
+2919t71759t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2920t71759t"true"t4285t('nan',)tCHEBI:36165t"heptanedioate"
+2923t71763t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+2924t71763t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+2927t71775t"true"t3307t('nan',)tCHEBI:13705t"acetoacetate"
+2928t71775t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2931t71779t"true"t5331t('nan',)tCHEBI:17865t"4-methyl-2-oxopentanoate"
+2932t71779t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2935t71783t"true"t1346t('nan',)tCHEBI:11851t"3-methyl-2-oxobutanoate"
+2936t71783t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2939t71791t"true"t2842t('nan',)tCHEBI:16004t"(R)-lactate"
+2940t71791t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2943t71795t"true"t4506t('nan',)tCHEBI:10983t"(R)-3-hydroxybutanoate"
+2944t71795t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2947t71799t"true"t3017t('nan',)tCHEBI:29108tCa(2+)
+2948t71799t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2951t71803t"true"t6051t('nan',)tCHEBI:30089t"acetate"
+2952t71803t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2955t71811t"true"t1834t('nan',)tCHEBI:533015t"3,3',5-triiodo-L-thyronine"
+2957t71815t"true"t4059t('nan',)tCHEBI:57261t"3,3',5'-triiodo-L-thyronine"
+2959t71819t"true"t1122t('nan',)tCHEBI:58448t"L-thyroxine"
+2961t71823t"true"t17383t('nan',)tCHEBI:176514t"3,3'-diiodo-L-thyronine"
+2963t71827t"true"t5357t('nan',)tCHEBI:48597t"arsenate"
+2964t71827t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2967t71831t"true"t5440t('nan',)tCHEBI:17996tchloride
+2968t71831t"true"t4039t('nan',)tCHEBI:57947t"creatine"
+2969t71831t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2973t71835t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+2975t71839t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+2977t71843t"true"t12535t('nan',)tCHEBI:132028t"tauroursodeoxycholate"
+2979t71847t"true"t12534t('nan',)tCHEBI:132030t"glycoursodeoxycholate"
+2981t71851t"true"t1215t('nan',)tCHEBI:29746t"glycocholate"
+2983t71855t"true"t3782t('nan',)tCHEBI:9407t"taurochenodeoxycholate"
+2985t71859t"true"t6199t('nan',)tCHEBI:36252t"glycochenodeoxycholate"
+2987t71863t"true"t11850t('nan',)tCHEBI:36261t"taurodeoxycholate"
+2989t71867t"true"t11849t('nan',)tCHEBI:82982t"glycodeoxycholate"
+2991t71871t"true"t4100t('nan',)tCHEBI:11047t"(S)-3-hydroxybutanoate"
+2992t71871t"true"t3249t('nan',)tCHEBI:15378tH(+)
+2995t71875t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+2996t71875t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+2999t71911t"true"t4024t('nan',)tCHEBI:29747t"cholate"
+3000t71911t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3003t71915t"true"t18090t('nan',)tCHEBI:191405t"tauronorcholate"
+3004t71915t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3007t71919t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+3008t71919t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3011t71923t"true"t3782t('nan',)tCHEBI:9407t"taurochenodeoxycholate"
+3012t71923t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3015t71927t"true"t12535t('nan',)tCHEBI:132028t"tauroursodeoxycholate"
+3016t71927t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3019t71931t"true"t3031t('nan',)tCHEBI:29806t"fumarate"
+3020t71931t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3023t71935t"true"t1215t('nan',)tCHEBI:29746t"glycocholate"
+3024t71935t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3027t71939t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+3028t71939t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3031t71943t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+3032t71943t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3035t71947t"true"t5306t('nan',)tCHEBI:16953t"N-acetyl-L-aspartate"
+3036t71947t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3039t71951t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3040t71951t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3043t71955t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3044t71955t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3047t71959t"true"t5219t('nan',)tCHEBI:16452t"oxaloacetate"
+3048t71959t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3051t71963t"true"t5279t('nan',)tCHEBI:15801t"(R)-2-hydroxyglutarate"
+3052t71963t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3055t71967t"true"t5497t('nan',)tCHEBI:16782t"(S)-2-hydroxyglutarate"
+3056t71967t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3059t71971t"true"t18072t('nan',)tCHEBI:191379t"3-hydroxyglutarate"
+3060t71971t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3063t71975t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+3064t71975t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3067t72003t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+3068t72003t"true"t6691t('nan',)tCHEBI:17775t"urate"
+3071t72007t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+3072t72007t"true"t6691t('nan',)tCHEBI:17775t"urate"
+3075t72011t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+3076t72011t"true"t6691t('nan',)tCHEBI:17775t"urate"
+3079t72023t"true"t2096t('nan',)tCHEBI:32544t"nicotinate"
+3080t72023t"true"t6691t('nan',)tCHEBI:17775t"urate"
+3083t72035t"true"t6372t('nan',)tCHEBI:30616tATP
+3084t72035t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+3085t72035t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3089t72039t"true"t2096t('nan',)tCHEBI:32544t"nicotinate"
+3090t72039t"true"t4916t('nan',)tCHEBI:30839t"orotate"
+3093t72043t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+3094t72043t"true"t4916t('nan',)tCHEBI:30839t"orotate"
+3097t72051t"true"t3396t('nan',)tCHEBI:17968t"butanoate"
+3098t72051t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3101t72055t"true"t11849t('nan',)tCHEBI:82982t"glycodeoxycholate"
+3102t72055t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3105t72059t"true"t6199t('nan',)tCHEBI:36252t"glycochenodeoxycholate"
+3106t72059t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3109t72063t"true"t12534t('nan',)tCHEBI:132030t"glycoursodeoxycholate"
+3110t72063t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3113t72079t"true"t9247t('nan',)tCHEBI:15075t"selenate"
+3114t72079t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3117t72087t"true"t11850t('nan',)tCHEBI:36261t"taurodeoxycholate"
+3118t72087t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3121t72091t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+3122t72091t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3125t72095t"true"t5828t('nan',)tCHEBI:11060t"(S)-carnitine"
+3126t72095t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3129t72099t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3130t72099t"true"t3938t('nan',)tCHEBI:57589t"O-acetyl-(R)-carnitine"
+3133t72103t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3134t72103t"true"t11048t('nan',)tCHEBI:53210t"O-propanoyl-(R)-carnitine"
+3137t72107t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3138t72107t"true"t8726t('nan',)tCHEBI:75659t"O-acyl-(R)-carnitine"
+3141t72111t"true"t18087t('nan',)tCHEBI:191852t"L-glutamyl-L-arginyl-glycyl-L-methionyl-L-threonine"
+3142t72111t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3145t72115t"true"t5292t('nan',)tCHEBI:17750t"glycine betaine"
+3146t72115t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3149t72119t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+3150t72119t"true"t5292t('nan',)tCHEBI:17750t"glycine betaine"
+3153t72123t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3154t72123t"true"t11049t('nan',)tCHEBI:21949t"O-butanoyl-(R)-carnitine"
+3157t72127t"true"t3599t('nan',)tCHEBI:58145t"agmatine"
+3158t72127t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3161t72131t"true"t3599t('nan',)tCHEBI:58145t"agmatine"
+3163t72135t"true"t4665t('nan',)tCHEBI:326268t"putrescine"
+3165t72139t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3166t72139t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3169t72151t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3170t72151t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3173t72155t"true"t13284t('nan',)tCHEBI:82961t"17beta-estradiol 17-O-(beta-D-glucuronate)"
+3174t72155t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3177t72159t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3178t72159t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+3181t72163t"true"t5440t('nan',)tCHEBI:17996tchloride
+3182t72163t"true"t11049t('nan',)tCHEBI:21949t"O-butanoyl-(R)-carnitine"
+3183t72163t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3187t72167t"true"t18092t('nan',)tCHEBI:191407t"taurohyodeoxycholate"
+3188t72167t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3191t72171t"true"t5846t('nan',)tCHEBI:58874t"taurohyocholate"
+3192t72171t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3195t72175t"true"t18093t('nan',)tCHEBI:191859t"5alpha-androstane-3alpha,17beta-diol 3-O-(beta-D-glucuronate)"
+3196t72175t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3199t72179t"true"t18094t('nan',)tCHEBI:133064t"tauro-beta-muricholate"
+3200t72179t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3203t72183t"true"t3555t('nan',)tCHEBI:16737t"creatinine"
+3204t72183t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3207t72187t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3208t72187t"true"t2459t('nan',)tCHEBI:17992tsucrose
+3211t72199t"true"t3017t('nan',)tCHEBI:29108tCa(2+)
+3212t72199t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3215t72203t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3216t72203t"true"t5440t('nan',)tCHEBI:17996tchloride
+3219t72207t"true"t5440t('nan',)tCHEBI:17996tchloride
+3220t72207t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3223t72215t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3224t72215t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3227t72219t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3228t72219t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3231t72223t"true"t3632t('nan',)tCHEBI:58419t4-hydroxy-L-proline
+3232t72223t"true"t5440t('nan',)tCHEBI:17996tchloride
+3233t72223t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3236t72227t"true"t5440t('nan',)tCHEBI:17996tchloride
+3237t72227t"true"t4566t('nan',)tCHEBI:57433tsarcosine
+3238t72227t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3242t72231t"true"t5440t('nan',)tCHEBI:17996tchloride
+3243t72231t"true"t15893t('nan',)tCHEBI:133743t"N-methyl-L-proline"
+3244t72231t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3248t72235t"true"t18098t('nan',)tCHEBI:192077t"2-methyl-2-(methylamino)propanoate"
+3249t72235t"true"t5440t('nan',)tCHEBI:17996tchloride
+3250t72235t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3254t72239t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3255t72239t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+3258t72263t"true"t5440t('nan',)tCHEBI:17996tchloride
+3259t72263t"true"t1295t('nan',)tCHEBI:30623t"oxalate"
+3262t72267t"true"t5440t('nan',)tCHEBI:17996tchloride
+3263t72267t"true"t3001t('nan',)tCHEBI:15740t"formate"
+3266t72271t"true"t3001t('nan',)tCHEBI:15740t"formate"
+3267t72271t"true"t1295t('nan',)tCHEBI:30623t"oxalate"
+3270t72275t"true"t1295t('nan',)tCHEBI:30623t"oxalate"
+3271t72275t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3274t72287t"true"t18105t('nan',)tCHEBI:191383t"2,2-dimethylsuccinate"
+3275t72287t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3278t72291t"true"t18106t('nan',)tCHEBI:191384t"2,3-dimethylsuccinate"
+3279t72291t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3282t72295t"true"t6455t('nan',)tCHEBI:15595t"malate"
+3283t72295t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3286t72299t"true"t1834t('nan',)tCHEBI:533015t"3,3',5-triiodo-L-thyronine"
+3287t72299t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+3290t72303t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+3291t72303t"true"t1122t('nan',)tCHEBI:58448t"L-thyroxine"
+3294t72307t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+3295t72307t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+3298t72311t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+3299t72311t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+3302t72315t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+3303t72315t"true"t1450t('nan',)tCHEBI:57973t"leukotriene C4"
+3306t72319t"true"t6691t('nan',)tCHEBI:17775t"urate"
+3307t72319t"true"t5440t('nan',)tCHEBI:17996tchloride
+3310t72323t"true"t5659t('nan',)tCHEBI:33542t"thiosulfate"
+3311t72323t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3314t72351t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3315t72351t"true"t1215t('nan',)tCHEBI:29746t"glycocholate"
+3318t72355t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+3319t72355t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3322t72359t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3323t72359t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+3326t72363t"true"t5440t('nan',)tCHEBI:17996tchloride
+3327t72363t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3330t72367t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3331t72367t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+3334t72371t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+3335t72371t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+3338t72375t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3339t72375t"true"t2219t('nan',)tCHEBI:16382tiodide
+3342t72379t"true"t5440t('nan',)tCHEBI:17996tchloride
+3343t72379t"true"t2219t('nan',)tCHEBI:16382tiodide
+3346t72383t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3347t72383t"true"t6691t('nan',)tCHEBI:17775t"urate"
+3350t72387t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3351t72387t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3354t72391t"true"t1295t('nan',)tCHEBI:30623t"oxalate"
+3355t72391t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3358t72395t"true"t3890t('nan',)tCHEBI:29103tK(+)
+3359t72395t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3360t72395t"true"t5440t('nan',)tCHEBI:17996tchloride
+3364t72399t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+3365t72399t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3368t72403t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+3369t72403t"true"t6691t('nan',)tCHEBI:17775t"urate"
+3372t72407t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3373t72407t"true"t6552t('nan',)tCHEBI:49713tLi(+)
+3376t72415t"true"t6552t('nan',)tCHEBI:49713tLi(+)
+3377t72415t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3380t72427t"true"t5440t('nan',)tCHEBI:17996tchloride
+3381t72427t"true"t3890t('nan',)tCHEBI:29103tK(+)
+3384t72447t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+3385t72447t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3388t72451t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+3389t72451t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+3392t72455t"true"t3031t('nan',)tCHEBI:29806t"fumarate"
+3393t72455t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3396t72459t"true"t3031t('nan',)tCHEBI:29806t"fumarate"
+3397t72459t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+3400t72471t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+3401t72471t"true"t5209t('nan',)tCHEBI:15562t"D-threo-isocitrate"
+3404t72475t"true"t5223t('nan',)tCHEBI:16383t"cis-aconitate"
+3405t72475t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+3408t72479t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+3409t72479t"true"t2067t('nan',)tCHEBI:15708t"trans-aconitate"
+3412t72483t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+3413t72483t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+3416t72487t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+3417t72487t"true"t3582t('nan',)tCHEBI:58702t"phosphoenolpyruvate"
+3420t72491t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+3421t72491t"true"t2303t('nan',)tCHEBI:30780t"maleate"
+3424t72495t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3425t72495t"true"t1262t('nan',)tCHEBI:606564t"prostaglandin E2"
+3428t72499t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+3429t72499t"true"t1262t('nan',)tCHEBI:606564t"prostaglandin E2"
+3432t72503t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3433t72503t"true"t1807t('nan',)tCHEBI:57404t"prostaglandin F2alpha"
+3436t72507t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+3437t72507t"true"t1807t('nan',)tCHEBI:57404t"prostaglandin F2alpha"
+3440t72511t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+3441t72511t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+3444t72515t"true"t4231t('nan',)tCHEBI:16347t"(R)-carnitine"
+3445t72515t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3448t72531t"true"t4514t('nan',)tCHEBI:17540t"methyl beta-D-galactoside"
+3450t72543t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+3451t72543t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+3454t72547t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+3455t72547t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+3458t72551t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+3459t72551t"true"t6691t('nan',)tCHEBI:17775t"urate"
+3462t72555t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3463t72555t"true"t4801t('nan',)tCHEBI:17272t"propanoate"
+3466t72559t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3467t72559t"true"t4412t('nan',)tCHEBI:31011t"pentanoate"
+3470t72563t"true"t3396t('nan',)tCHEBI:17968t"butanoate"
+3471t72563t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+3474t72567t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+3475t72567t"true"t4801t('nan',)tCHEBI:17272t"propanoate"
+3478t72571t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+3479t72571t"true"t4412t('nan',)tCHEBI:31011t"pentanoate"
+3482t72591t"true"t5594t('nan',)tCHEBI:58720t"D-glucuronate"
+3483t72591t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3486t72595t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3487t72595t"true"t8994t('nan',)tCHEBI:76931t"N-acetyl-L-aspartyl-L-glutamate"
+3490t72599t"true"t8994t('nan',)tCHEBI:76931t"N-acetyl-L-aspartyl-L-glutamate"
+3492t72611t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3493t72611t"true"t18121t('nan',)tCHEBI:192470tL-alanyl-L-lysine
+3496t72615t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3497t72615t"true"t18122t('nan',)tCHEBI:192471tL-alanyl-L-valine
+3500t72627t"true"t1073t('nan',)tCHEBI:29105tZn(2+)
+3501t72627t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3504t72631t"true"t3017t('nan',)tCHEBI:29108tCa(2+)
+3505t72631t"true"t6552t('nan',)tCHEBI:49713tLi(+)
+3508t72683t"true"t4024t('nan',)tCHEBI:29747t"cholate"
+3510t72687t"true"t3005t('nan',)tCHEBI:17336t"all-trans-retinol"
+3512t72691t"true"t13284t('nan',)tCHEBI:82961t"17beta-estradiol 17-O-(beta-D-glucuronate)"
+3514t72695t"true"t2790t('nan',)tCHEBI:57705t"UDP-N-acetyl-alpha-D-glucosamine"
+3515t72695t"true"t2283t('nan',)tCHEBI:57865tUMP
+3518t72703t"true"t7492t('nan',)tCHEBI:66914t"UDP-alpha-D-galactose"
+3519t72703t"true"t2283t('nan',)tCHEBI:57865tUMP
+3522t72707t"true"t1394t('nan',)tCHEBI:57273t"GDP-beta-L-fucose"
+3523t72707t"true"t3807t('nan',)tCHEBI:58115tGMP
+3526t72723t"true"t3358t('nan',)tCHEBI:57632tUDP-alpha-D-xylose
+3527t72723t"true"t2283t('nan',)tCHEBI:57865tUMP
+3530t72727t"true"t3253t('nan',)tCHEBI:58052t"UDP-alpha-D-glucuronate"
+3531t72727t"true"t2283t('nan',)tCHEBI:57865tUMP
+3534t72731t"true"t2309t('nan',)tCHEBI:58885tUDP-alpha-D-glucose
+3535t72731t"true"t2283t('nan',)tCHEBI:57865tUMP
+3538t72735t"true"t7495t('nan',)tCHEBI:67138t"UDP-N-acetyl-alpha-D-galactosamine"
+3539t72735t"true"t2283t('nan',)tCHEBI:57865tUMP
+3542t72739t"true"t5440t('nan',)tCHEBI:17996tchloride
+3543t72739t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3544t72739t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3548t72743t"true"t1450t('nan',)tCHEBI:57973t"leukotriene C4"
+3550t72747t"true"t2366t('nan',)tCHEBI:57462t"leukotriene E4"
+3552t72791t"true"t4201t('nan',)tCHEBI:57767t"(4E,15E)-bilirubin IXalpha C8-beta-D-glucuronoside"
+3554t72795t"true"t1732t('nan',)tCHEBI:58471t"bilirubin IXalpha bis-beta-D-glucuronoside"
+3556t72799t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+3557t72799t"true"t15324t('nan',)tCHEBI:143006tL-homoarginine
+3560t72803t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+3561t72803t"true"t5476t('nan',)tCHEBI:114953t"N(omega)-methyl-L-arginine"
+3564t72807t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+3566t72811t"true"t3912t('nan',)tCHEBI:32682tL-arginine
+3567t72811t"true"t5366t('nan',)tCHEBI:58326t"N(omega),N(omega)-dimethyl-L-arginine"
+3570t72815t"true"t3235t('nan',)tCHEBI:32551tL-lysine
+3571t72815t"true"t5366t('nan',)tCHEBI:58326t"N(omega),N(omega)-dimethyl-L-arginine"
+3574t72819t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+3575t72819t"true"t5366t('nan',)tCHEBI:58326t"N(omega),N(omega)-dimethyl-L-arginine"
+3578t72839t"true"t2710t('nan',)tCHEBI:456216tADP
+3579t72839t"true"t1264t('nan',)tCHEBI:57287tCoA
+3582t72843t"true"t1509t('nan',)tCHEBI:57328t3'-dephospho-CoA
+3583t72843t"true"t2710t('nan',)tCHEBI:456216tADP
+3586t72847t"true"t1731t('nan',)tCHEBI:58343t"adenosine 3',5'-bisphosphate"
+3587t72847t"true"t2710t('nan',)tCHEBI:456216tADP
+3590t72851t"true"t2710t('nan',)tCHEBI:456216tADP
+3591t72851t"true"t2590t('nan',)tCHEBI:456215tAMP
+3594t72855t"true"t2710t('nan',)tCHEBI:456216tADP
+3595t72855t"true"t4870t('nan',)tCHEBI:57667tdADP
+3598t72891t"true"t3271t('nan',)tCHEBI:15355t"acetylcholine"
+3599t72891t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3602t72907t"true"t5591t('nan',)tCHEBI:4208tD-mannose
+3603t72907t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3606t72915t"true"t18171t('nan',)tCHEBI:37714t"D-fructopyranose"
+3607t72915t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3610t72935t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+3611t72935t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3614t72939t"true"t4801t('nan',)tCHEBI:17272t"propanoate"
+3615t72939t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3618t72943t"true"t3719t('nan',)tCHEBI:15361t"pyruvate"
+3619t72943t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3622t72947t"true"t6051t('nan',)tCHEBI:30089t"acetate"
+3623t72947t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3626t72951t"true"t3396t('nan',)tCHEBI:17968t"butanoate"
+3627t72951t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3630t72955t"true"t2096t('nan',)tCHEBI:32544t"nicotinate"
+3631t72955t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3634t72959t"true"t4506t('nan',)tCHEBI:10983t"(R)-3-hydroxybutanoate"
+3635t72959t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3638t72963t"true"t3307t('nan',)tCHEBI:13705t"acetoacetate"
+3639t72963t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3642t72967t"true"t5331t('nan',)tCHEBI:17865t"4-methyl-2-oxopentanoate"
+3643t72967t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3646t72971t"true"t1805t('nan',)tCHEBI:58402t5-oxo-L-proline
+3647t72971t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3650t72987t"true"t1700t('nan',)tCHEBI:17268t"myo-inositol"
+3651t72987t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3654t72991t"true"t8752t('nan',)tCHEBI:10642t"scyllo-inositol"
+3655t72991t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3658t72995t"true"t5593t('nan',)tCHEBI:2181tL-fucose
+3659t72995t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3662t73011t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+3664t73015t"true"t15353t('nan',)tCHEBI:143079tD-leucine
+3666t73023t"true"t13249t('nan',)tCHEBI:133000t"pregnenolone sulfate"
+3668t73031t"true"t3309t('nan',)tCHEBI:48775tCd(2+)
+3669t73031t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3672t73035t"true"t5254t('nan',)tCHEBI:48828tCo(2+)
+3673t73035t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3676t73039t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3677t73039t"true"t1427t('nan',)tCHEBI:49786tNi(2+)
+3680t73043t"true"t4039t('nan',)tCHEBI:57947t"creatine"
+3682t73047t"true"t2020t('nan',)tCHEBI:57742t"guanidinoacetate"
+3684t73051t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3685t73051t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+3688t73055t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+3689t73055t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3692t73059t"true"t3017t('nan',)tCHEBI:29108tCa(2+)
+3693t73059t"true"t4151t('nan',)tCHEBI:29035tMn(2+)
+3696t73063t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3697t73063t"true"t4151t('nan',)tCHEBI:29035tMn(2+)
+3700t73087t"true"t2590t('nan',)tCHEBI:456215tAMP
+3701t73087t"true"t1692t('nan',)tCHEBI:57692tFAD
+3704t73091t"true"t2590t('nan',)tCHEBI:456215tAMP
+3705t73091t"true"t2613t('nan',)tCHEBI:58210tFMN
+3708t73095t"true"t2590t('nan',)tCHEBI:456215tAMP
+3709t73095t"true"t1264t('nan',)tCHEBI:57287tCoA
+3712t73099t"true"t1509t('nan',)tCHEBI:57328t3'-dephospho-CoA
+3713t73099t"true"t2590t('nan',)tCHEBI:456215tAMP
+3716t73139t"true"t2381t('nan',)tCHEBI:29744t"lithocholate"
+3718t73143t"true"t1264t('nan',)tCHEBI:57287tCoA
+3719t73143t"true"t1692t('nan',)tCHEBI:57692tFAD
+3722t73147t"true"t1731t('nan',)tCHEBI:58343t"adenosine 3',5'-bisphosphate"
+3723t73147t"true"t1692t('nan',)tCHEBI:57692tFAD
+3726t73151t"true"t1264t('nan',)tCHEBI:57287tCoA
+3727t73151t"true"t2613t('nan',)tCHEBI:58210tFMN
+3730t73155t"true"t1731t('nan',)tCHEBI:58343t"adenosine 3',5'-bisphosphate"
+3731t73155t"true"t2613t('nan',)tCHEBI:58210tFMN
+3734t73159t"true"t2613t('nan',)tCHEBI:58210tFMN
+3735t73159t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+3738t73163t"true"t1692t('nan',)tCHEBI:57692tFAD
+3739t73163t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+3742t73167t"true"t1264t('nan',)tCHEBI:57287tCoA
+3743t73167t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+3746t73171t"true"t1731t('nan',)tCHEBI:58343t"adenosine 3',5'-bisphosphate"
+3747t73171t"true"t3484t('nan',)tCHEBI:57540tNAD(+)
+3750t73175t"true"t2710t('nan',)tCHEBI:456216tADP
+3751t73175t"true"t2613t('nan',)tCHEBI:58210tFMN
+3754t73183t"true"t2710t('nan',)tCHEBI:456216tADP
+3755t73183t"true"t1692t('nan',)tCHEBI:57692tFAD
+3758t73195t"true"t5277t('nan',)tCHEBI:15792t"malonate"
+3759t73195t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3762t73199t"true"t2303t('nan',)tCHEBI:30780t"maleate"
+3763t73199t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3766t73203t"true"t5529t('nan',)tCHEBI:4167tD-glucose
+3767t73203t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3770t73207t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3771t73207t"true"t7913t('nan',)tCHEBI:17359t"sulfite"
+3774t73211t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3775t73211t"true"t2459t('nan',)tCHEBI:17992tsucrose
+3778t73215t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3779t73215t"true"t5659t('nan',)tCHEBI:33542t"thiosulfate"
+3782t73219t"true"t18004t('nan',)tCHEBI:59275tL-xylopyranose
+3783t73219t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3786t73223t"true"t5364t('nan',)tCHEBI:30936t"(3S)-citramalate"
+3787t73223t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3790t73227t"true"t2117t('nan',)tCHEBI:30934t"(3R)-citramalate"
+3791t73227t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3794t73267t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3795t73267t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+3798t73283t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3799t73283t"true"t2660t('nan',)tCHEBI:58045tL-isoleucine
+3802t73291t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3803t73291t"true"t1223t('nan',)tCHEBI:57762tL-valine
+3806t73299t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+3807t73299t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3808t73299t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+3812t73303t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3813t73303t"true"t5219t('nan',)tCHEBI:16452t"oxaloacetate"
+3814t73303t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+3818t73307t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3819t73307t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+3820t73307t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+3824t73311t"true"t18211t('nan',)tCHEBI:176512t"L-thyroxine sulfate"
+3826t73315t"true"t5766t('nan',)tCHEBI:27372t"1D-chiro-inositol"
+3827t73315t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3830t73367t"true"t6132t('nan',)tCHEBI:53455tD-xylose
+3831t73367t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3834t73371t"true"t2874t('nan',)tCHEBI:29032t"(R)-pantothenate"
+3835t73371t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3838t73375t"true"t2770t('nan',)tCHEBI:57586t"biotin"
+3839t73375t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3842t73379t"true"t10469t('nan',)tCHEBI:83088t"(R)-lipoate"
+3843t73379t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+3846t73383t"true"t5328t('nan',)tCHEBI:58937t"thiamine diphosphate"
+3847t73383t"true"t5658t('nan',)tCHEBI:37575t"thiamine phosphate"
+3850t73387t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3851t73387t"true"t5277t('nan',)tCHEBI:15792t"malonate"
+3852t73387t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+3856t73391t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3857t73391t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+3858t73391t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3862t73395t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+3863t73395t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3866t73399t"true"t1336t('nan',)tCHEBI:29990t"D-aspartate"
+3867t73399t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3870t73403t"true"t5196t('nan',)tCHEBI:30924t"(2R,3R)-tartrate"
+3871t73403t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3874t73407t"true"t7611t('nan',)tCHEBI:30927t"(S,S)-tartrate"
+3875t73407t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3878t73411t"true"t2501t('nan',)tCHEBI:30031t"succinate"
+3879t73411t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+3882t73419t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+3884t73423t"true"t1960t('nan',)tCHEBI:58048tL-asparagine
+3886t73447t"true"t4271t('nan',)tCHEBI:57288t"acetyl-CoA"
+3887t73447t"true"t2590t('nan',)tCHEBI:456215tAMP
+3890t73451t"true"t1731t('nan',)tCHEBI:58343t"adenosine 3',5'-bisphosphate"
+3891t73451t"true"t2590t('nan',)tCHEBI:456215tAMP
+3894t73471t"true"t5090t('nan',)tCHEBI:57668t"D-ornithine"
+3895t73471t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+3898t73475t"true"t1591t('nan',)tCHEBI:32689tD-arginine
+3899t73475t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+3902t73479t"true"t15294t('nan',)tCHEBI:142967t"D-histidine"
+3903t73479t"true"t3249t('nan',)tCHEBI:15378tH(+)
+3904t73479t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+3908t73483t"true"t3020t('nan',)tCHEBI:32557tD-lysine
+3909t73483t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+3912t73487t"true"t6075t('nan',)tCHEBI:29067t"a carboxylate"
+3913t73487t"true"t4916t('nan',)tCHEBI:30839t"orotate"
+3916t73491t"true"t5254t('nan',)tCHEBI:48828tCo(2+)
+3917t73491t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+3920t73515t"true"t2692t('nan',)tCHEBI:58223tUDP
+3921t73515t"true"t6435t('nan',)tCHEBI:46398tUTP
+3924t73519t"true"t6490t('nan',)tCHEBI:61555tdUTP
+3925t73519t"true"t6435t('nan',)tCHEBI:46398tUTP
+3928t73523t"true"t15202t('nan',)tCHEBI:63527tTTP
+3929t73523t"true"t6435t('nan',)tCHEBI:46398tUTP
+3932t73527t"true"t10530t('nan',)tCHEBI:61417tTDP
+3933t73527t"true"t6435t('nan',)tCHEBI:46398tUTP
+3936t73531t"true"t6434t('nan',)tCHEBI:37563tCTP
+3937t73531t"true"t6435t('nan',)tCHEBI:46398tUTP
+3940t73535t"true"t1585t('nan',)tCHEBI:58069tCDP
+3941t73535t"true"t6435t('nan',)tCHEBI:46398tUTP
+3944t73539t"true"t6489t('nan',)tCHEBI:61481tdCTP
+3945t73539t"true"t6435t('nan',)tCHEBI:46398tUTP
+3948t73543t"true"t5448t('nan',)tCHEBI:58593tdCDP
+3949t73543t"true"t6435t('nan',)tCHEBI:46398tUTP
+3952t73547t"true"t6355t('nan',)tCHEBI:37565tGTP
+3953t73547t"true"t6435t('nan',)tCHEBI:46398tUTP
+3956t73551t"true"t4973t('nan',)tCHEBI:58189tGDP
+3957t73551t"true"t6435t('nan',)tCHEBI:46398tUTP
+3960t73559t"true"t6442t('nan',)tCHEBI:61429tdGTP
+3961t73559t"true"t6435t('nan',)tCHEBI:46398tUTP
+3964t73563t"true"t2747t('nan',)tCHEBI:58595tdGDP
+3965t73563t"true"t6435t('nan',)tCHEBI:46398tUTP
+3968t73567t"true"t6423t('nan',)tCHEBI:61402tITP
+3969t73567t"true"t6435t('nan',)tCHEBI:46398tUTP
+3972t73583t"true"t6434t('nan',)tCHEBI:37563tCTP
+3973t73583t"true"t2692t('nan',)tCHEBI:58223tUDP
+3976t73587t"true"t6434t('nan',)tCHEBI:37563tCTP
+3977t73587t"true"t2283t('nan',)tCHEBI:57865tUMP
+3980t73591t"true"t6434t('nan',)tCHEBI:37563tCTP
+3981t73591t"true"t6490t('nan',)tCHEBI:61555tdUTP
+3984t73595t"true"t6434t('nan',)tCHEBI:37563tCTP
+3985t73595t"true"t4655t('nan',)tCHEBI:246422tdUMP
+3988t73599t"true"t1585t('nan',)tCHEBI:58069tCDP
+3989t73599t"true"t6434t('nan',)tCHEBI:37563tCTP
+3992t73603t"true"t3543t('nan',)tCHEBI:60377tCMP
+3993t73603t"true"t6434t('nan',)tCHEBI:37563tCTP
+3996t73607t"true"t6434t('nan',)tCHEBI:37563tCTP
+3997t73607t"true"t6489t('nan',)tCHEBI:61481tdCTP
+4000t73611t"true"t6434t('nan',)tCHEBI:37563tCTP
+4001t73611t"true"t5448t('nan',)tCHEBI:58593tdCDP
+4004t73615t"true"t6434t('nan',)tCHEBI:37563tCTP
+4005t73615t"true"t5071t('nan',)tCHEBI:57566tdCMP
+4008t73619t"true"t6434t('nan',)tCHEBI:37563tCTP
+4009t73619t"true"t6355t('nan',)tCHEBI:37565tGTP
+4012t73623t"true"t6434t('nan',)tCHEBI:37563tCTP
+4013t73623t"true"t4973t('nan',)tCHEBI:58189tGDP
+4016t73627t"true"t6434t('nan',)tCHEBI:37563tCTP
+4017t73627t"true"t3807t('nan',)tCHEBI:58115tGMP
+4020t73631t"true"t6434t('nan',)tCHEBI:37563tCTP
+4021t73631t"true"t6442t('nan',)tCHEBI:61429tdGTP
+4024t73635t"true"t6434t('nan',)tCHEBI:37563tCTP
+4025t73635t"true"t3058t('nan',)tCHEBI:57673tdGMP
+4028t73639t"true"t6434t('nan',)tCHEBI:37563tCTP
+4029t73639t"true"t6423t('nan',)tCHEBI:61402tITP
+4032t73643t"true"t6434t('nan',)tCHEBI:37563tCTP
+4033t73643t"true"t2878t('nan',)tCHEBI:58280tIDP
+4036t73647t"true"t6434t('nan',)tCHEBI:37563tCTP
+4037t73647t"true"t1663t('nan',)tCHEBI:58053tIMP
+4040t73651t"true"t6434t('nan',)tCHEBI:37563tCTP
+4042t73659t"true"t2710t('nan',)tCHEBI:456216tADP
+4043t73659t"true"t6372t('nan',)tCHEBI:30616tATP
+4044t73659t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4045t73659t"true"t5136t('nan',)tCHEBI:18420tMg(2+)
+4050t73671t"true"t2710t('nan',)tCHEBI:456216tADP
+4051t73671t"true"t2106t('nan',)tCHEBI:33019t"diphosphate"
+4054t73675t"true"t2710t('nan',)tCHEBI:456216tADP
+4055t73675t"true"t4393t('nan',)tCHEBI:58245tdAMP
+4056t73675t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4060t73679t"true"t6285t('nan',)tCHEBI:60880t3'-AMP
+4061t73679t"true"t2710t('nan',)tCHEBI:456216tADP
+4062t73679t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4066t73687t"true"t4393t('nan',)tCHEBI:58245tdAMP
+4067t73687t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+4070t73691t"true"t6285t('nan',)tCHEBI:60880t3'-AMP
+4071t73691t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+4074t73695t"true"t4870t('nan',)tCHEBI:57667tdADP
+4075t73695t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4076t73695t"true"t5518t('nan',)tCHEBI:43474t"phosphate"
+4080t73699t"true"t2710t('nan',)tCHEBI:456216tADP
+4081t73699t"true"t6424t('nan',)tCHEBI:61404tdATP
+4084t73703t"true"t3253t('nan',)tCHEBI:58052t"UDP-alpha-D-glucuronate"
+4085t73703t"true"t2790t('nan',)tCHEBI:57705t"UDP-N-acetyl-alpha-D-glucosamine"
+4088t73707t"true"t6372t('nan',)tCHEBI:30616tATP
+4089t73707t"true"t2692t('nan',)tCHEBI:58223tUDP
+4092t73711t"true"t6372t('nan',)tCHEBI:30616tATP
+4093t73711t"true"t6435t('nan',)tCHEBI:46398tUTP
+4096t73715t"true"t6372t('nan',)tCHEBI:30616tATP
+4097t73715t"true"t6424t('nan',)tCHEBI:61404tdATP
+4100t73739t"true"t6130t('nan',)tCHEBI:59905tdopamine
+4101t73739t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4104t73743t"true"t2942t('nan',)tCHEBI:350546t"serotonin"
+4105t73743t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4108t73747t"true"t7803t('nan',)tCHEBI:72587t(R)-noradrenaline
+4109t73747t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4112t73751t"true"t7804t('nan',)tCHEBI:71406t(R)-adrenaline
+4113t73751t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4116t73755t"true"t2569t('nan',)tCHEBI:58432t"histamine"
+4117t73755t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4120t73811t"true"t2793t('nan',)tCHEBI:60039tL-proline
+4122t73819t"true"t3723t('nan',)tCHEBI:15354tcholine
+4123t73819t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4126t73859t"true"t5075t('nan',)tCHEBI:16797t"1-methylnicotinamide"
+4128t73863t"true"t6130t('nan',)tCHEBI:59905tdopamine
+4130t73867t"true"t2942t('nan',)tCHEBI:350546t"serotonin"
+4132t73871t"true"t7803t('nan',)tCHEBI:72587t(R)-noradrenaline
+4134t73875t"true"t7804t('nan',)tCHEBI:71406t(R)-adrenaline
+4136t73879t"true"t2569t('nan',)tCHEBI:58432t"histamine"
+4138t73883t"true"t6861t('nan',)tCHEBI:30087tguanidine
+4140t73887t"true"t5440t('nan',)tCHEBI:17996tchloride
+4141t73887t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4144t74019t"true"t4570t('nan',)tCHEBI:57305tglycine
+4145t74019t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4148t74023t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4149t74023t"true"t4901t('nan',)tCHEBI:33384tL-serine
+4152t74027t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4153t74027t"true"t3255t('nan',)tCHEBI:57926t"L-threonine"
+4156t74031t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4157t74031t"true"t2467t('nan',)tCHEBI:35235t"L-cysteine"
+4160t74035t"true"t2832t('nan',)tCHEBI:35247tD-serine
+4161t74035t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4164t74039t"true"t4985t('nan',)tCHEBI:57416tD-alanine
+4165t74039t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4168t74043t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4169t74043t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+4172t74047t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4173t74047t"true"t1223t('nan',)tCHEBI:57762tL-valine
+4176t74051t"true"t3797t('nan',)tCHEBI:57757t"D-threonine"
+4177t74051t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4180t74055t"true"t1567t('nan',)tCHEBI:35236t"D-cysteine"
+4181t74055t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4184t74059t"true"t2880t('nan',)tCHEBI:57966t"beta-alanine"
+4185t74059t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4188t74063t"true"t18311t('nan',)tCHEBI:193090t"2-aminoisobutanoate"
+4189t74063t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4192t74263t"true"t1171t('nan',)tCHEBI:45725tspermine
+4193t74263t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4196t74267t"true"t2557t('nan',)tCHEBI:57834tspermidine
+4197t74267t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4200t74295t"true"t2942t('nan',)tCHEBI:350546t"serotonin"
+4201t74295t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4204t74299t"true"t18365t('nan',)tCHEBI:193151tD-isoleucine
+4205t74299t"true"t2832t('nan',)tCHEBI:35247tD-serine
+4208t74315t"true"t11052t('nan',)tCHEBI:84838t"O-isobutanoyl-(R)-carnitine"
+4210t74319t"true"t3938t('nan',)tCHEBI:57589t"O-acetyl-(R)-carnitine"
+4212t74323t"true"t11055t('nan',)tCHEBI:84842t"O-3-hydroxybutanoyl-(R)-carnitine"
+4214t74327t"true"t11048t('nan',)tCHEBI:53210t"O-propanoyl-(R)-carnitine"
+4216t74331t"true"t11049t('nan',)tCHEBI:21949t"O-butanoyl-(R)-carnitine"
+4218t74335t"true"t11053t('nan',)tCHEBI:84840t"O-2-methylbutanoyl-(R)-carnitine"
+4220t74339t"true"t11051t('nan',)tCHEBI:70819t"O-3-methylbutanoyl-(R)-carnitine"
+4222t74343t"true"t11047t('nan',)tCHEBI:84834t"O-hexanoyl-(R)-carnitine"
+4224t74347t"true"t8726t('nan',)tCHEBI:75659t"O-acyl-(R)-carnitine"
+4226t74351t"true"t12679t('nan',)tCHEBI:133132t"prostaglandin E3"
+4227t74351t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+4230t74359t"true"t17106t('nan',)tCHEBI:167478tcoproporphyrin I
+4232t74363t"true"t12436t('nan',)tCHEBI:131725tcoproporphyrin III
+4234t74367t"true"t18018t('nan',)tCHEBI:190692t"substance P"
+4236t74371t"true"t6075t('nan',)tCHEBI:29067t"a carboxylate"
+4237t74371t"true"t2096t('nan',)tCHEBI:32544t"nicotinate"
+4240t74375t"true"t3075t('nan',)tCHEBI:16240tH2O2
+4242t74379t"true"t4642t('nan',)tCHEBI:57405t"prostaglandin H2"
+4243t74379t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+4246t74383t"true"t1262t('nan',)tCHEBI:606564t"prostaglandin E2"
+4247t74383t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+4250t74387t"true"t3353t('nan',)tCHEBI:16397tformamide
+4252t74391t"true"t4446t('nan',)tCHEBI:59338t"methylamine"
+4254t74395t"true"t2869t('nan',)tCHEBI:57397t"prostaglandin E1"
+4255t74395t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+4258t74399t"true"t1807t('nan',)tCHEBI:57404t"prostaglandin F2alpha"
+4259t74399t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+4262t74403t"true"t3073t('nan',)tCHEBI:57406t"prostaglandin D2"
+4263t74403t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+4266t74407t"true"t12169t('nan',)tCHEBI:90696t"thromboxane B2"
+4267t74407t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+4270t74411t"true"t8282t('nan',)tCHEBI:28610t"1-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine"
+4271t74411t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4274t74415t"true"t8317t('nan',)tCHEBI:74971t"1-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine"
+4275t74415t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4278t74419t"true"t7864t('nan',)tCHEBI:72828t"1-(9Z-octadecenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol)"
+4279t74419t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4282t74423t"true"t10734t('nan',)tCHEBI:73873t1-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphocholine
+4283t74423t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4286t74427t"true"t7901t('nan',)tCHEBI:72998t1-hexadecanoyl-sn-glycero-3-phosphocholine
+4287t74427t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4290t74431t"true"t9137t('nan',)tCHEBI:73850t1-(1Z-hexadecenyl)-sn-glycero-3-phosphocholine
+4291t74431t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4294t74435t"true"t1011t('nan',)tCHEBI:58168ta 1-acyl-sn-glycero-3-phosphocholine
+4295t74435t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4298t74439t"true"t7186t('nan',)tCHEBI:64381t"a 1-acyl-sn-glycero-3-phosphoethanolamine"
+4299t74439t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4302t74443t"true"t7234t('nan',)tCHEBI:64840t1-acyl-sn-glycero-3-phospho-(1'-sn-glycerol)
+4303t74443t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4306t74447t"true"t9237t('nan',)tCHEBI:77287t1-O-(1Z-alkenyl)-sn-glycero-3-phosphocholine
+4307t74447t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4310t74451t"true"t9199t('nan',)tCHEBI:74344t"1-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine"
+4311t74451t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4314t74455t"true"t9239t('nan',)tCHEBI:77288t"1-O-(1Z-alkenyl)-sn-glycero-3-phosphoethanolamine"
+4315t74455t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4318t74459t"true"t18367t('nan',)tCHEBI:133139t"1-O-(1Z-hexadecenyl)-sn-glycero-3-phosphoethanolamine"
+4319t74459t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4322t74539t"true"t3555t('nan',)tCHEBI:16737t"creatinine"
+4324t74555t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+4326t74567t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+4327t74567t"true"t9392t('nan',)tCHEBI:78236t"N-acetyl-L-cysteine"
+4330t74599t"true"t2590t('nan',)tCHEBI:456215tAMP
+4331t74599t"true"t7492t('nan',)tCHEBI:66914t"UDP-alpha-D-galactose"
+4334t74603t"true"t3543t('nan',)tCHEBI:60377tCMP
+4335t74603t"true"t7492t('nan',)tCHEBI:66914t"UDP-alpha-D-galactose"
+4338t74607t"true"t7492t('nan',)tCHEBI:66914t"UDP-alpha-D-galactose"
+4339t74607t"true"t7495t('nan',)tCHEBI:67138t"UDP-N-acetyl-alpha-D-galactosamine"
+4342t74611t"true"t7492t('nan',)tCHEBI:66914t"UDP-alpha-D-galactose"
+4343t74611t"true"t2790t('nan',)tCHEBI:57705t"UDP-N-acetyl-alpha-D-glucosamine"
+4346t74615t"true"t7492t('nan',)tCHEBI:66914t"UDP-alpha-D-galactose"
+4347t74615t"true"t2309t('nan',)tCHEBI:58885tUDP-alpha-D-glucose
+4350t74619t"true"t3543t('nan',)tCHEBI:60377tCMP
+4351t74619t"true"t2283t('nan',)tCHEBI:57865tUMP
+4354t74623t"true"t2590t('nan',)tCHEBI:456215tAMP
+4355t74623t"true"t2283t('nan',)tCHEBI:57865tUMP
+4358t74639t"true"t2590t('nan',)tCHEBI:456215tAMP
+4359t74639t"true"t3826t('nan',)tCHEBI:57812t"CMP-N-acetyl-beta-neuraminate"
+4362t74643t"true"t3826t('nan',)tCHEBI:57812t"CMP-N-acetyl-beta-neuraminate"
+4363t74643t"true"t2283t('nan',)tCHEBI:57865tUMP
+4366t74663t"true"t3271t('nan',)tCHEBI:15355t"acetylcholine"
+4368t74671t"true"t6433t('nan',)tCHEBI:61457t"UDP-beta-L-arabinopyranose"
+4369t74671t"true"t2283t('nan',)tCHEBI:57865tUMP
+4372t74679t"true"t6432t('nan',)tCHEBI:61463t"UDP-beta-L-arabinofuranose"
+4373t74679t"true"t2283t('nan',)tCHEBI:57865tUMP
+4376t74783t"true"t2699t('nan',)tCHEBI:327995t"tyramine"
+4378t74787t"true"t18434t('nan',)tCHEBI:90039t"L-histidyl-L-proline diketopiperazine"
+4380t74791t"true"t18435t('nan',)tCHEBI:194082t(R)-salsolinol
+4382t74795t"true"t18436t('nan',)tCHEBI:194083t"N-methyl-(R)-salsolinol"
+4384t74819t"true"t4810t('nan',)tCHEBI:57925t"glutathione"
+4386t74827t"true"t3972t('nan',)tCHEBI:57635t"UDP-alpha-D-galacturonate"
+4387t74827t"true"t2283t('nan',)tCHEBI:57865tUMP
+4390t74831t"true"t3253t('nan',)tCHEBI:58052t"UDP-alpha-D-glucuronate"
+4391t74831t"true"t3358t('nan',)tCHEBI:57632tUDP-alpha-D-xylose
+4394t74835t"true"t3253t('nan',)tCHEBI:58052t"UDP-alpha-D-glucuronate"
+4395t74835t"true"t7495t('nan',)tCHEBI:67138t"UDP-N-acetyl-alpha-D-galactosamine"
+4398t74839t"true"t2692t('nan',)tCHEBI:58223tUDP
+4399t74839t"true"t3253t('nan',)tCHEBI:58052t"UDP-alpha-D-glucuronate"
+4402t74887t"true"t15357t('nan',)tCHEBI:143093t2',3'-cGAMP
+4404t74891t"true"t4391t('nan',)tCHEBI:16526tCO2
+4406t74895t"true"t4048t('nan',)tCHEBI:16480t"nitric oxide"
+4408t74963t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+4409t74963t"true"t1826t('nan',)tCHEBI:46911t"L-ornithine"
+4410t74963t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4414t74971t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+4415t74971t"true"t3235t('nan',)tCHEBI:32551tL-lysine
+4416t74971t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4420t74987t"true"t18459t('nan',)tCHEBI:194114t"erythrostominone"
+4422t74991t"true"t18460t('nan',)tCHEBI:194115t"deoxyerythrostominone"
+4424t74995t"true"t18461t('nan',)tCHEBI:194116t"epierythrostominol"
+4426t74999t"true"t18462t('nan',)tCHEBI:194117t"deoxyerythrostominol"
+4428t75007t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4429t75007t"true"t18463t('nan',)tCHEBI:30046tVO(2+)
+4432t75039t"true"t4271t('nan',)tCHEBI:57288t"acetyl-CoA"
+4434t75043t"true"t4592t('nan',)tCHEBI:35491t"L-cystine"
+4435t75043t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+4438t75047t"true"t5366t('nan',)tCHEBI:58326t"N(omega),N(omega)-dimethyl-L-arginine"
+4440t75051t"true"t1032t('nan',)tCHEBI:36234t"chenodeoxycholate"
+4442t75059t"true"t5440t('nan',)tCHEBI:17996tchloride
+4443t75059t"true"t3890t('nan',)tCHEBI:29103tK(+)
+4444t75059t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+4448t75063t"true"t5440t('nan',)tCHEBI:17996tchloride
+4449t75063t"true"t6552t('nan',)tCHEBI:49713tLi(+)
+4450t75063t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+4454t75067t"true"t5440t('nan',)tCHEBI:17996tchloride
+4455t75067t"true"t18471t('nan',)tCHEBI:49847tRb(+)
+4456t75067t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+4460t75071t"true"t5440t('nan',)tCHEBI:17996tchloride
+4461t75071t"true"t18472t('nan',)tCHEBI:49547tCs(+)
+4462t75071t"true"t1123t('nan',)tCHEBI:17544t"hydrogencarbonate"
+4466t75091t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+4467t75091t"true"t5440t('nan',)tCHEBI:17996tchloride
+4470t75095t"true"t1295t('nan',)tCHEBI:30623t"oxalate"
+4471t75095t"true"t5440t('nan',)tCHEBI:17996tchloride
+4474t75203t"true"t1443t('nan',)tCHEBI:16551t"alpha,alpha-trehalose"
+4476t75207t"true"t4602t('nan',)tCHEBI:49468tAg(+)
+4478t75211t"true"t5769t('nan',)tCHEBI:49552tCu(+)
+4480t75287t"true"t3124t('nan',)tCHEBI:36655t"glyoxylate"
+4481t75287t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+4484t75291t"true"t3124t('nan',)tCHEBI:36655t"glyoxylate"
+4485t75291t"true"t1295t('nan',)tCHEBI:30623t"oxalate"
+4488t75295t"true"t5440t('nan',)tCHEBI:17996tchloride
+4489t75295t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+4492t75307t"true"t2832t('nan',)tCHEBI:35247tD-serine
+4493t75307t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+4494t75307t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4498t75311t"true"t2832t('nan',)tCHEBI:35247tD-serine
+4499t75311t"true"t3361t('nan',)tCHEBI:57972tL-alanine
+4500t75311t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4504t75315t"true"t5440t('nan',)tCHEBI:17996tchloride
+4505t75315t"true"t2832t('nan',)tCHEBI:35247tD-serine
+4506t75315t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4510t75319t"true"t5440t('nan',)tCHEBI:17996tchloride
+4511t75319t"true"t4985t('nan',)tCHEBI:57416tD-alanine
+4512t75319t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4516t75323t"true"t5440t('nan',)tCHEBI:17996tchloride
+4517t75323t"true"t15353t('nan',)tCHEBI:143079tD-leucine
+4518t75323t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4522t75327t"true"t5440t('nan',)tCHEBI:17996tchloride
+4523t75327t"true"t1774t('nan',)tCHEBI:57719t"D-tryptophan"
+4524t75327t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4528t75331t"true"t5440t('nan',)tCHEBI:17996tchloride
+4529t75331t"true"t3383t('nan',)tCHEBI:57932t"D-methionine"
+4530t75331t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4534t75335t"true"t5437t('nan',)tCHEBI:15858tbromide
+4535t75335t"true"t5440t('nan',)tCHEBI:17996tchloride
+4538t75339t"true"t5440t('nan',)tCHEBI:17996tchloride
+4539t75339t"true"t5436t('nan',)tCHEBI:17632t"nitrate"
+4542t75343t"true"t2547t('nan',)tCHEBI:16335tadenosine
+4544t75347t"true"t4173t('nan',)tCHEBI:18022t"thiocyanate"
+4546t75363t"true"t4636t('nan',)tCHEBI:17748t"thymidine"
+4548t75367t"true"t3062t('nan',)tCHEBI:17562t"cytidine"
+4550t75371t"true"t1817t('nan',)tCHEBI:16750tguanosine
+4552t75375t"true"t1231t('nan',)tCHEBI:17596tinosine
+4554t75383t"true"t5437t('nan',)tCHEBI:15858tbromide
+4556t75399t"true"t18514t('nan',)tCHEBI:194314t"N-formyl-L-methionyl-L-leucyl-L-phenylalanine"
+4557t75399t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4560t75443t"true"t6629t('nan',)tCHEBI:60344theme b
+4562t75463t"true"t3723t('nan',)tCHEBI:15354tcholine
+4563t75463t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4566t75467t"true"t2609t('nan',)tCHEBI:57603t"ethanolamine"
+4567t75467t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4570t75471t"true"t5328t('nan',)tCHEBI:58937t"thiamine diphosphate"
+4572t75475t"true"t5591t('nan',)tCHEBI:4208tD-mannose
+4573t75475t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4576t75479t"true"t4281t('nan',)tCHEBI:57856t"S-adenosyl-L-homocysteine"
+4577t75479t"true"t6127t('nan',)tCHEBI:59789t"S-adenosyl-L-methionine"
+4580t75483t"true"t6508t('nan',)tCHEBI:60050t"estrone 3-sulfate"
+4581t75483t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4584t75487t"true"t5182t('nan',)tCHEBI:57905t"dehydroepiandrosterone 3-sulfate"
+4585t75487t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4588t75491t"true"t18523t('nan',)tCHEBI:194336t"25-hydroxyvitamin D3 sulfate"
+4589t75491t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4592t75495t"true"t13249t('nan',)tCHEBI:133000t"pregnenolone sulfate"
+4593t75495t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4596t75499t"true"t4024t('nan',)tCHEBI:29747t"cholate"
+4597t75499t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4600t75503t"true"t1215t('nan',)tCHEBI:29746t"glycocholate"
+4601t75503t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4604t75507t"true"t11749t('nan',)tCHEBI:36257t"taurocholate"
+4605t75507t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4608t75687t"true"t6372t('nan',)tCHEBI:30616tATP
+4610t75691t"true"t1711t('nan',)tCHEBI:17256t2'-deoxyadenosine
+4612t75695t"true"t5580t('nan',)tCHEBI:15698t"2'-deoxycytidine"
+4614t75783t"true"t2710t('nan',)tCHEBI:456216tADP
+4616t75787t"true"t6355t('nan',)tCHEBI:37565tGTP
+4618t75791t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+4619t75791t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4622t75795t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4623t75795t"true"t2096t('nan',)tCHEBI:32544t"nicotinate"
+4626t75799t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4627t75799t"true"t3719t('nan',)tCHEBI:15361t"pyruvate"
+4630t75803t"true"t3396t('nan',)tCHEBI:17968t"butanoate"
+4631t75803t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4634t75807t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4635t75807t"true"t4801t('nan',)tCHEBI:17272t"propanoate"
+4638t75811t"true"t3307t('nan',)tCHEBI:13705t"acetoacetate"
+4639t75811t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4642t75815t"true"t3890t('nan',)tCHEBI:29103tK(+)
+4644t75839t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4645t75839t"true"t3890t('nan',)tCHEBI:29103tK(+)
+4646t75839t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4647t75839t"true"t2942t('nan',)tCHEBI:350546t"serotonin"
+4652t75843t"true"t13050t('nan',)tCHEBI:134344t"ergothioneine"
+4653t75843t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4656t75979t"true"t18615t('nan',)tCHEBI:194507targipressin
+4658t75983t"true"t2453t('nan',)tCHEBI:30854t"(indol-3-yl)acetate"
+4659t75983t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4662t75987t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4663t75987t"true"t15809t('nan',)tCHEBI:144643t"indoxyl sulfate"
+4666t75991t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4667t75991t"true"t4750t('nan',)tCHEBI:606565tN-benzoylglycine
+4670t75995t"true"t18616t('nan',)tCHEBI:194524t"3-carboxy-4-methyl-5-propyl-2-furanpropanoate"
+4671t75995t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4674t75999t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+4675t75999t"true"t1321t('nan',)tCHEBI:58454t"kynurenate"
+4678t76003t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+4679t76003t"true"t16931t('nan',)tCHEBI:71201t"xanthurenate"
+4682t76063t"true"t1354t('nan',)tCHEBI:58339t"3'-phosphoadenylyl sulfate"
+4683t76063t"true"t1731t('nan',)tCHEBI:58343t"adenosine 3',5'-bisphosphate"
+4686t76071t"true"t7132t('nan',)tCHEBI:59560t"(6R)-L-erythro-5,6,7,8-tetrahydrobiopterin"
+4687t76071t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4690t76075t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4691t76075t"true"t7140t('nan',)tCHEBI:43029t"L-erythro-7,8-dihydrobiopterin"
+4694t76079t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4695t76079t"true"t18635t('nan',)tCHEBI:194527t"L-sepiapterin"
+4698t76087t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4699t76087t"true"t1321t('nan',)tCHEBI:58454t"kynurenate"
+4702t76099t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4703t76099t"true"t16931t('nan',)tCHEBI:71201t"xanthurenate"
+4706t76119t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4707t76119t"true"t1807t('nan',)tCHEBI:57404t"prostaglandin F2alpha"
+4710t76123t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4711t76123t"true"t1262t('nan',)tCHEBI:606564t"prostaglandin E2"
+4714t76127t"true"t1852t('nan',)tCHEBI:58165t3',5'-cyclic AMP
+4715t76127t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4718t76131t"true"t1641t('nan',)tCHEBI:57746t3',5'-cyclic GMP
+4719t76131t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4722t76135t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4723t76135t"true"t6691t('nan',)tCHEBI:17775t"urate"
+4726t76139t"true"t2952t('nan',)tCHEBI:18391t"D-gluconate"
+4728t76159t"true"t5602t('nan',)tCHEBI:17051tfluoride
+4730t76167t"true"t15396t('nan',)tCHEBI:143163tglycyl-L-leucine
+4731t76167t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4733t76171t"true"t18652t('nan',)tCHEBI:194323tglycyl-L-lysine
+4734t76171t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4737t76175t"true"t8010t('nan',)tCHEBI:73784t"glycyl-L-glutamate"
+4738t76175t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4741t76179t"true"t12223t('nan',)tCHEBI:90799t"a dipeptide"
+4742t76179t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4745t76183t"true"t18653t('nan',)tCHEBI:195181tL-alanyl-L-alanine
+4746t76183t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4749t76187t"true"t16593t('nan',)tCHEBI:155837t"an L-amino acid tripeptide"
+4750t76187t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4753t76191t"true"t2193t('nan',)tCHEBI:57485tcarnosine
+4754t76191t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4757t76195t"true"t2309t('nan',)tCHEBI:58885tUDP-alpha-D-glucose
+4759t76199t"true"t1295t('nan',)tCHEBI:30623t"oxalate"
+4761t76203t"true"t3533t('nan',)tCHEBI:16709tpyridoxine
+4762t76203t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4765t76207t"true"t1641t('nan',)tCHEBI:57746t3',5'-cyclic GMP
+4767t76211t"true"t3807t('nan',)tCHEBI:58115tGMP
+4769t76215t"true"t3664t('nan',)tCHEBI:17172t2'-deoxyguanosine
+4771t76219t"true"t4973t('nan',)tCHEBI:58189tGDP
+4773t76223t"true"t1852t('nan',)tCHEBI:58165t3',5'-cyclic AMP
+4775t76231t"true"t2975t('nan',)tCHEBI:16810t"2-oxoglutarate"
+4777t76247t"true"t13050t('7.6.2.9',)tCHEBI:134344t"ergothioneine"
+4779t76251t"true"t4722t('nan',)tCHEBI:30921t"glutarate"
+4781t76259t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4782t76259t"true"t4338t('nan',)tCHEBI:507393t"taurine"
+4785t76263t"true"t13050t('nan',)tCHEBI:134344t"ergothioneine"
+4787t76267t"true"t2193t('nan',)tCHEBI:57485tcarnosine
+4789t76271t"true"t2866t('nan',)tCHEBI:58251t"N,N-dimethylglycine"
+4791t76275t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4792t76275t"true"t4063t('nan',)tCHEBI:17568turacil
+4795t76279t"true"t3881t('nan',)tCHEBI:17368t"hypoxanthine"
+4796t76279t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4799t76283t"true"t2523t('nan',)tCHEBI:16235tguanine
+4800t76283t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4803t76287t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4804t76287t"true"t2794t('nan',)tCHEBI:17821t"thymine"
+4807t76291t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4808t76291t"true"t3237t('nan',)tCHEBI:17712t"xanthine"
+4811t76299t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+4812t76299t"true"t4592t('nan',)tCHEBI:35491t"L-cystine"
+4815t76303t"true"t4592t('nan',)tCHEBI:35491t"L-cystine"
+4817t76307t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+4818t76307t"true"t2079t('nan',)tCHEBI:29985t"L-glutamate"
+4821t76311t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+4822t76311t"true"t4893t('nan',)tCHEBI:58359t"L-glutamine"
+4825t76315t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+4826t76315t"true"t2530t('nan',)tCHEBI:57844t"L-methionine"
+4829t76319t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+4830t76319t"true"t5115t('nan',)tCHEBI:57427tL-leucine
+4833t76323t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+4834t76323t"true"t1223t('nan',)tCHEBI:57762tL-valine
+4837t76327t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+4838t76327t"true"t4845t('nan',)tCHEBI:58095tL-phenylalanine
+4841t76331t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+4842t76331t"true"t1046t('nan',)tCHEBI:58315t"L-tyrosine"
+4845t76335t"true"t2047t('nan',)tCHEBI:29991t"L-aspartate"
+4846t76335t"true"t4647t('nan',)tCHEBI:57912t"L-tryptophan"
+4849t76339t"true"t6691t('nan',)tCHEBI:17775t"urate"
+4850t76339t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4853t76343t"true"t1024t('nan',)tCHEBI:1178t"(2S)-2-isopropylmalate"
+4854t76343t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+4857t76347t"true"t5200t('nan',)tCHEBI:35121t"(2R,3S)-3-isopropylmalate"
+4858t76347t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+4861t76351t"true"t5219t('nan',)tCHEBI:16452t"oxaloacetate"
+4862t76351t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+4865t76355t"true"t18665t('nan',)tCHEBI:195208t"N-acetyl-beta-D-glucosaminyl-(1->4)-1,6-anhydro-N-acetyl-beta-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-diaminoheptanedioate-D-alanine"
+4866t76355t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4869t76359t"true"t18666t('nan',)tCHEBI:195210t"N-acetyl-beta-D-glucosaminyl-(1->4)-1,6-anhydro-N-acetyl-beta-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-diaminoheptanedioate"
+4870t76359t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4873t76363t"true"t18667t('nan',)tCHEBI:195211t"N-acetyl-beta-D-glucosaminyl-(1->4)-1,6-anhydro-N-acetyl-beta-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-diaminoheptanedioyl-D-alanyl-D-alanine"
+4874t76363t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4877t76367t"true"t18668t('nan',)tCHEBI:195209t"N-acetyl-beta-D-glucosaminyl-(1->4)-1,6-anhydro-N-acetyl-beta-D-muramate"
+4878t76367t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4881t76371t"true"t16594t('nan',)tCHEBI:155830t"N-acetyl-D-muramoyl-L-alanyl-D-isoglutamine"
+4882t76371t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4885t76375t"true"t16594t('nan',)tCHEBI:155830t"N-acetyl-D-muramoyl-L-alanyl-D-isoglutamine"
+4886t76375t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4889t76379t"true"t3613t('nan',)tCHEBI:57595t"L-histidine"
+4890t76379t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4893t76383t"true"t2193t('nan',)tCHEBI:57485tcarnosine
+4894t76383t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4897t76391t"true"t18670t('nan',)tCHEBI:195214tglycylglycylglycine
+4898t76391t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4901t76411t"true"t15357t('nan',)tCHEBI:143093t2',3'-cGAMP
+4902t76411t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4905t76415t"true"t7799t('nan',)tCHEBI:71501t3',3'-cGAMP
+4906t76415t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4909t76431t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4910t76431t"true"t1012t('nan',)tCHEBI:28938tNH4(+)
+4913t76443t"true"t3723t('nan',)tCHEBI:15354tcholine
+4914t76443t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4917t76535t"true"t1692t('nan',)tCHEBI:57692tFAD
+4919t76591t"true"t2866t('nan',)tCHEBI:58251t"N,N-dimethylglycine"
+4920t76591t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4923t76595t"true"t9019t('nan',)tCHEBI:28965t"a dicarboxylate"
+4924t76595t"true"t5441t('nan',)tCHEBI:16189t"sulfate"
+4927t76631t"true"t3017t('nan',)tCHEBI:29108tCa(2+)
+4928t76631t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4931t76635t"true"t4151t('nan',)tCHEBI:29035tMn(2+)
+4932t76635t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4935t76639t"true"t1660t('nan',)tCHEBI:16040t"cytosine"
+4937t76643t"true"t3237t('nan',)tCHEBI:17712t"xanthine"
+4939t76987t"true"t5087t('nan',)tCHEBI:52639tan N-acylsphing-4-enine
+4941t77255t"true"t11988t('nan',)tCHEBI:83264t"beta-D-glucosylceramide"
+4943t77259t"true"t6848t('nan',)tCHEBI:22801t"a beta-D-glucosyl-(1<->1')-N-acylsphing-4-enine"
+4945t77263t"true"t15102t('nan',)tCHEBI:84719t"beta-D-glucosyl-(1<->1)-N-octadecanoylsphing-4-enine"
+4947t78391t"true"t5591t('nan',)tCHEBI:4208tD-mannose
+4949t78423t"true"t5628t('nan',)tCHEBI:58723tD-glucosamine
+4951t78427t"true"t6132t('nan',)tCHEBI:53455tD-xylose
+4953t78459t"true"t19083t('7.4.2.6',)tGENERIC:19083t"a [peptide]"
+4955t78535t"true"t5491t('nan',)tCHEBI:58770t"N-acetyl-alpha-neuraminate"
+4956t78535t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4959t78547t"true"t18471t('nan',)tCHEBI:49847tRb(+)
+4961t78551t"true"t6552t('nan',)tCHEBI:49713tLi(+)
+4963t78555t"true"t18472t('nan',)tCHEBI:49547tCs(+)
+4965t78679t"true"t19125t('nan',)tCHEBI:35104tSr(2+)
+4967t78843t"true"t6166t('nan',)tCHEBI:28868t"a fatty acid"
+4969t79015t"true"tP_132515t('nan',)tPOLYMER:12627t"alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol(P)"
+4971t79155t"true"t19201t('nan',)tCHEBI:229705t"(4Z,15Z)-bilirubin IXalpha C12-beta-D-glucuronoside"
+4973t79307t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+4974t79307t"true"t3249t('nan',)tCHEBI:15378tH(+)
+4977t79311t"true"t14399t('nan',)tGENERIC:14399t"Fe(III)-[cytochrome c]"
+4979t79363t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+4981t79367t"true"t19237t('nan',)tCHEBI:229968tL-alpha-aminoacyl-L-arginine
+4983t79371t"true"t10899t('nan',)tCHEBI:84315tL-arginyl-L-alpha-amino acid
+4985t79375t"true"t19238t('nan',)tCHEBI:229967t"L-alpha-aminoacyl-L-histidine"
+4987t79379t"true"t19239t('nan',)tCHEBI:229964t"L-histidyl-L-alpha-amino acid"
+4989t79383t"true"t19240t('nan',)tCHEBI:229966tL-alpha-aminoacyl-L-lysine
+4991t79387t"true"t19241t('nan',)tCHEBI:229965tL-lysyl-L-alpha-amino acid
+4993t79391t"true"t19243t('nan',)tCHEBI:229955tL-arginyl-glycine
+4995t79395t"true"t19244t('nan',)tCHEBI:229957t"L-histidyl-glycine"
+4997t79399t"true"t19242t('nan',)tCHEBI:229954tL-lysyl-L-alanine
+4999t79403t"true"t19245t('nan',)tCHEBI:229956tL-lysyl-L-lysine
+5001t79407t"true"t18053t('nan',)tCHEBI:191202tL-lysyl-glycine
+5003t79411t"true"t19246t('nan',)tCHEBI:229953t"L-aspartyl-L-lysine"
+5005t79415t"true"t18121t('nan',)tCHEBI:192470tL-alanyl-L-lysine
+5007t79471t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+5008t79471t"true"t2426t('nan',)tCHEBI:29101tNa(+)
+5011t79475t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+5012t79475t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+5015t79479t"true"t2842t('nan',)tCHEBI:16004t"(R)-lactate"
+5016t79479t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+5019t79483t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
+5020t79483t"true"t3455t('nan',)tCHEBI:29805t"glycolate"
+5023t79487t"true"t1898t('nan',)tCHEBI:16651t"(S)-lactate"
+5024t79487t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+5027t79491t"true"t2842t('nan',)tCHEBI:16004t"(R)-lactate"
+5028t79491t"true"t5244t('nan',)tCHEBI:16947t"citrate"
+5031t79543t"true"t5497t('nan',)tCHEBI:16782t"(S)-2-hydroxyglutarate"
+5032t79543t"true"t3953t('nan',)tCHEBI:15589t"(S)-malate"
