@@ -1,100 +1,100 @@
 EC number	Neighbors
-EC:7.2.4.5	CO2, Na(+)(out), (2E)-butenoyl-CoA
-EC:7.3.2.1	H(+), ADP, 2 phosphate(in)
-EC:7.2.2.8	Cu(+)(out), ADP, phosphate, H(+)
-EC:7.1.1.2	4 H(+)(out), NAD(+), a ubiquinol
-EC:7.4.2.11	H(+), ADP, phosphate, L-methionine(in)
-EC:7.4.2.10	H(+), ADP, glutathione(in), phosphate
-EC:7.2.2.20	phosphate(in), ADP(in), Zn(2+)(in), H(+)(in)
-EC:7.5.2.8	H(+), ADP, phosphate, D-allose(in)
-EC:7.6.2.15	H(+), ADP, phosphate, thiamine(in)
-EC:7.3.2.3	H(+), ADP, phosphate, sulfate(in)
-EC:7.4.2.1	a polar amino acid(in), ADP, phosphate, H(+)
-EC:7.5.2.10;EC:7.5.2.13	H(+), ADP, D-xylose(in), phosphate
-EC:7.5.2.7	H(+), ADP, phosphate, D-ribose(in)
-EC:7.6.2.16	H(+), ADP, putrescine(in), phosphate
-EC:7.6.2.11	H(+), ADP, phosphate, spermidine(in)
-EC:7.5.2.12;EC:7.5.2.13	H(+), ADP, phosphate, L-arabinose(in)
-EC:7.1.1.3	2 a ubiquinone, n H(+)(out), 2 H2O
-EC:7.1.1.5	2 H2O(in), 2 a menaquinone, n H(+)(out)
-EC:7.2.1.3	H(+), monodehydro-L-ascorbate radical(in), Fe(2+)(out)
-EC:7.6.2.2	H(+), ADP, phosphate, daunorubicin(out)
-EC:2.7.1.195	(2R)-2-O-(6-phospho-alpha-D-mannosyl)-glycerate(in), L-histidyl-[protein]
-EC:2.7.1.197	D-mannitol 1-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.199	D-glucose 6-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.201	alpha,alpha-trehalose 6-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.192	L-histidyl-[protein], N-acetyl-beta-D-muramate 6-phosphate(in)
-EC:2.7.1.196	diacetylchitobiose-6'-phosphate(in), L-histidyl-[protein]
-EC:7.3.2.6	H(+), ADP, phosphate, tungstate(out)
-EC:7.1.1.4	2 caldariellaquinone, n H(+)(out), 2 H2O
-EC:7.1.1.7	2 a ubiquinone, 2 H2O(in), 4 H(+)(out)
-EC:2.7.1.207	lactose 6-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.194	L-ascorbate 6-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.198	D-sorbitol 6-phosphate(in), L-histidyl-[protein]
-EC:7.2.4.1	CO2, n Na(+)(out), N(6)-biotinyl-L-lysyl-[protein]
-EC:7.2.1.2	Na(+)(out), NADH, 2 oxidized [2Fe-2S]-[ferredoxin]
-EC:7.2.1.1	n Na(+)(out), NAD(+), a ubiquinol
-EC:7.1.1.1	H(+)(out), NADH, NADP(+)
-EC:2.7.1.191	D-mannose 6-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.211	sucrose 6(G)-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.193	L-histidyl-[protein], N-acetyl-D-glucosamine 6-phosphate(in)
-EC:2.7.1.200	L-histidyl-[protein], galactitol 1-phosphate(in)
-EC:2.7.1.202	D-fructose 1-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.203	2-amino-2-deoxy-D-gluconate 6-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.204	D-galactose 6-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.205	L-histidyl-[protein], 6-phospho-beta-D-glucosyl-(1->4)-D-glucose(in)
-EC:2.7.1.206	L-sorbose 1-phosphate(in), L-histidyl-[protein]
-EC:2.7.1.208	L-histidyl-[protein], alpha-maltose 6'-phosphate(in)
-EC:7.2.1.4	5,6,7,8-tetrahydromethanopterin, methyl-coenzyme M, 2 Na(+)(out)
-EC:7.1.2.2	ADP, phosphate, 5 H(+)(out)
-EC:7.2.4.2	CO2, 2 Na(+)(out), pyruvate
-EC:7.2.3.1	H(+), Na(+)(out), 2 phosphate
-EC:7.2.2.1	H(+), ADP, phosphate, 4 Na(+)(out)
-EC:7.2.2.17	H(+), ADP, phosphate, Fe(III)-enterobactin(in)
-EC:7.2.4.4	CO2, Na(+)(out), acetate
-EC:7.2.2.18	H(+), ADP, phosphate, iron(III) dicitrate(in)
-EC:7.5.2.11	H(+), ADP, phosphate, D-galactose(in)
-EC:7.5.2.9	H(+), ADP, phosphate, D-galactofuranose(in)
-EC:7.4.2.12	H(+), ADP, D-cystine(in), phosphate
-EC:7.4.2.13	H(+), ADP, phosphate, L-tyrosine(in)
-EC:7.4.2.14	H(+), ADP, phosphate, a peptide antigen(out)
-EC:7.2.2.22	H(+), ADP, phosphate, Mn(2+)(out)
-EC:7.1.1.10	a plastoquinol, 4 H(+)(out), 2 oxidized [2Fe-2S]-[ferredoxin]
-EC:7.1.1.11	NADH, 2 oxidized [2Fe-2S]-[ferredoxin], 2 H(+)(out)
-EC:7.1.1.12	2 H(+)(in), fumarate, a menaquinol
-EC:7.6.2.9	a quaternary ammonium(in), ADP, phosphate, H(+)
-EC:7.4.2.6	H(+), ADP, a [oligopeptide](out), phosphate
-EC:7.2.2.14	H(+), ADP, Mg(2+)(in), phosphate
-EC:7.2.2.9	H(+), ADP, Cu(2+)(out), phosphate
-EC:7.4.2.7	H(+), ADP, an [alpha-factor](out), phosphate
-EC:7.3.2.7	H(+), ADP, phosphate, arsenite(out)
-EC:7.1.1.9	4 Fe(III)-[cytochrome c], 4 H(+)(out), 2 H2O
-EC:7.1.1.8	a quinone, 2 H(+)(out), 2 Fe(II)-[cytochrome c](out)
-EC:7.2.2.2;EC:7.2.2.21	H(+), ADP, phosphate, Cd(2+)(out)
-EC:7.2.2.7	H(+), ADP, phosphate, Fe(3+)(in)
-EC:7.3.2.4	H(+), ADP, phosphate, nitrate(in)
-EC:7.1.3.1	2 phosphate, 2 H(+)(out)
-EC:7.6.2.7	H(+), ADP, phosphate, taurine(in)
-EC:7.2.2.3;EC:7.2.2.4	H(+), ADP, Na(+)(out), phosphate
-EC:7.2.2.15	H(+), ADP, Ag(+)(out), phosphate
-EC:7.6.2.4	H(+), ADP, phosphate, an acyl-CoA(in)
-EC:7.2.2.11	H(+), ADP, Ni(2+)(in), phosphate
-EC:7.2.2.6	H(+), ADP, phosphate, K(+)(in)
-EC:7.2.2.5	H(+), ADP, Mn(2+)(in), phosphate
-EC:7.6.2.8	H(+), ADP, phosphate, an R-cob(III)alamin(in)
-EC:7.3.2.2	H(+), ADP, phosphate, phosphonate(in)
-EC:7.2.2.10	H(+), ADP, Ca(2+)(out), phosphate
-EC:7.2.2.13	phosphate, K(+)(in), Na(+)(out), ADP, H(+)
-EC:7.5.2.3	H(+), ADP, phosphate, [(1->2)-beta-D-glucosyl](n)(out)
-EC:7.6.2.3	H(+), ADP, an S-substituted glutathione(out), phosphate
-EC:7.6.2.5	H(+), ADP, heme b(out), phosphate
-EC:7.2.2.12	H(+), ADP, phosphate, Zn(2+)(out)
-EC:7.6.2.6	H(+), ADP, phosphate, guanine(in)
-EC:7.1.2.1	ADP, phosphate, 2 H(+)(out)
-EC:7.2.4.3	propanoyl-CoA, Na(+)(out), CO2
-EC:7.6.2.10	H(+), ADP, sn-glycerol 3-phosphate(in), phosphate
-EC:7.3.2.5	H(+), ADP, molybdate(in), phosphate
-EC:7.2.2.19	ADP, phosphate, K(+)(in), 2 H(+)(out)
-EC:7.5.2.1	H(+), ADP, D-maltose(in), phosphate
-EC:7.1.1.6	2 reduced [plastocyanin], 4 H(+)(out), a plastoquinone
-EC:7.4.2.9	a dipeptide(in), ADP, phosphate, H(+)
+EC:7.4.2.9	phosphate, ADP, a dipeptide, H(+)
+EC:7.2.4.5	Na(+), (2E)-butenoyl-CoA, CO2
+EC:7.3.2.1	phosphate, ADP, H(+)
+EC:7.2.2.8	phosphate, ADP, Cu(+), H(+)
+EC:7.1.1.2	a ubiquinol, NAD(+), H(+)
+EC:7.4.2.11	L-methionine, phosphate, ADP, H(+)
+EC:7.4.2.10	phosphate, ADP, glutathione, H(+)
+EC:7.2.2.20	Zn(2+), ADP, phosphate, H(+)
+EC:7.5.2.8	phosphate, ADP, D-allose, H(+)
+EC:7.6.2.15	phosphate, thiamine, ADP, H(+)
+EC:7.3.2.3	sulfate, phosphate, ADP, H(+)
+EC:7.4.2.1	phosphate, a polar amino acid, ADP, H(+)
+EC:7.5.2.10;EC:7.5.2.13	phosphate, ADP, D-xylose, H(+)
+EC:7.5.2.7	phosphate, ADP, H(+), D-ribose
+EC:7.6.2.16	phosphate, ADP, putrescine, H(+)
+EC:7.6.2.11	phosphate, ADP, spermidine, H(+)
+EC:7.5.2.12;EC:7.5.2.13	phosphate, ADP, L-arabinose, H(+)
+EC:7.1.1.3	a ubiquinone, H2O, H(+)
+EC:7.1.1.5	a menaquinone, H(+), H2O
+EC:7.2.1.3	H(+), Fe(2+), monodehydro-L-ascorbate radical
+EC:7.6.2.2	phosphate, ADP, daunorubicin, H(+)
+EC:2.7.1.195	L-histidyl-[protein], (2R)-2-O-(6-phospho-alpha-D-mannosyl)-glycerate
+EC:2.7.1.197	L-histidyl-[protein], D-mannitol 1-phosphate
+EC:2.7.1.199	L-histidyl-[protein], D-glucose 6-phosphate
+EC:2.7.1.201	L-histidyl-[protein], alpha,alpha-trehalose 6-phosphate
+EC:2.7.1.192	N-acetyl-beta-D-muramate 6-phosphate, L-histidyl-[protein]
+EC:2.7.1.196	L-histidyl-[protein], diacetylchitobiose-6'-phosphate
+EC:7.3.2.6	phosphate, tungstate, ADP, H(+)
+EC:7.1.1.4	H(+), caldariellaquinone, H2O
+EC:7.1.1.7	a ubiquinone, H2O, H(+)
+EC:2.7.1.207	L-histidyl-[protein], lactose 6-phosphate
+EC:2.7.1.194	L-histidyl-[protein], L-ascorbate 6-phosphate
+EC:2.7.1.198	D-sorbitol 6-phosphate, L-histidyl-[protein]
+EC:7.2.4.1	Na(+), CO2, N(6)-biotinyl-L-lysyl-[protein]
+EC:7.2.1.2	Na(+), NADH, oxidized [2Fe-2S]-[ferredoxin]
+EC:7.2.1.1	Na(+), a ubiquinol, NAD(+)
+EC:7.1.1.1	NADP(+), NADH, H(+)
+EC:2.7.1.191	L-histidyl-[protein], D-mannose 6-phosphate
+EC:2.7.1.211	sucrose 6(G)-phosphate, L-histidyl-[protein]
+EC:2.7.1.193	L-histidyl-[protein], N-acetyl-D-glucosamine 6-phosphate
+EC:2.7.1.200	L-histidyl-[protein], galactitol 1-phosphate
+EC:2.7.1.202	L-histidyl-[protein], D-fructose 1-phosphate
+EC:2.7.1.203	L-histidyl-[protein], 2-amino-2-deoxy-D-gluconate 6-phosphate
+EC:2.7.1.204	D-galactose 6-phosphate, L-histidyl-[protein]
+EC:2.7.1.205	L-histidyl-[protein], 6-phospho-beta-D-glucosyl-(1->4)-D-glucose
+EC:2.7.1.206	L-histidyl-[protein], L-sorbose 1-phosphate
+EC:2.7.1.208	alpha-maltose 6'-phosphate, L-histidyl-[protein]
+EC:7.2.1.4	methyl-coenzyme M, 5,6,7,8-tetrahydromethanopterin, Na(+)
+EC:7.1.2.2	phosphate, ADP, H(+)
+EC:7.2.4.2	Na(+), CO2, pyruvate
+EC:7.2.3.1	Na(+), phosphate, H(+)
+EC:7.2.2.1	Na(+), phosphate, ADP, H(+)
+EC:7.2.2.17	Fe(III)-enterobactin, phosphate, ADP, H(+)
+EC:7.2.4.4	Na(+), acetate, CO2
+EC:7.2.2.18	iron(III) dicitrate, ADP, phosphate, H(+)
+EC:7.5.2.11	D-galactose, ADP, phosphate, H(+)
+EC:7.5.2.9	phosphate, ADP, H(+), D-galactofuranose
+EC:7.4.2.12	D-cystine, phosphate, ADP, H(+)
+EC:7.4.2.13	phosphate, L-tyrosine, ADP, H(+)
+EC:7.4.2.14	phosphate, ADP, a peptide antigen, H(+)
+EC:7.2.2.22	phosphate, ADP, Mn(2+), H(+)
+EC:7.1.1.10	H(+), a plastoquinol, oxidized [2Fe-2S]-[ferredoxin]
+EC:7.1.1.11	H(+), NADH, oxidized [2Fe-2S]-[ferredoxin]
+EC:7.1.1.12	fumarate, a menaquinol, H(+)
+EC:7.6.2.9	a quaternary ammonium, phosphate, ADP, H(+)
+EC:7.4.2.6	phosphate, ADP, a [oligopeptide], H(+)
+EC:7.2.2.14	phosphate, ADP, Mg(2+), H(+)
+EC:7.2.2.9	phosphate, ADP, Cu(2+), H(+)
+EC:7.4.2.7	phosphate, an [alpha-factor], ADP, H(+)
+EC:7.3.2.7	phosphate, ADP, arsenite, H(+)
+EC:7.1.1.9	H(+), Fe(III)-[cytochrome c], H2O
+EC:7.1.1.8	H(+), Fe(II)-[cytochrome c], a quinone
+EC:7.2.2.2;EC:7.2.2.21	phosphate, ADP, Cd(2+), H(+)
+EC:7.2.2.7	phosphate, ADP, Fe(3+), H(+)
+EC:7.3.2.4	phosphate, ADP, nitrate, H(+)
+EC:7.1.3.1	phosphate, H(+)
+EC:7.6.2.7	taurine, phosphate, ADP, H(+)
+EC:7.2.2.3;EC:7.2.2.4	Na(+), phosphate, ADP, H(+)
+EC:7.2.2.15	Ag(+), ADP, phosphate, H(+)
+EC:7.6.2.4	phosphate, ADP, an acyl-CoA, H(+)
+EC:7.2.2.11	phosphate, ADP, Ni(2+), H(+)
+EC:7.2.2.6	phosphate, ADP, H(+), K(+)
+EC:7.2.2.5	phosphate, ADP, Mn(2+), H(+)
+EC:7.6.2.8	phosphate, ADP, an R-cob(III)alamin, H(+)
+EC:7.3.2.2	phosphate, ADP, phosphonate, H(+)
+EC:7.2.2.10	phosphate, ADP, Ca(2+), H(+)
+EC:7.2.2.13	phosphate, H(+), ADP, K(+), Na(+)
+EC:7.5.2.3	phosphate, [(1->2)-beta-D-glucosyl](n), ADP, H(+)
+EC:7.6.2.3	phosphate, ADP, H(+), an S-substituted glutathione
+EC:7.6.2.5	phosphate, ADP, H(+), heme b
+EC:7.2.2.12	Zn(2+), ADP, phosphate, H(+)
+EC:7.6.2.6	phosphate, guanine, ADP, H(+)
+EC:7.1.2.1	phosphate, ADP, H(+)
+EC:7.2.4.3	Na(+), propanoyl-CoA, CO2
+EC:7.6.2.10	sn-glycerol 3-phosphate, ADP, phosphate, H(+)
+EC:7.3.2.5	phosphate, ADP, molybdate, H(+)
+EC:7.2.2.19	phosphate, ADP, H(+), K(+)
+EC:7.5.2.1	D-maltose, ADP, phosphate, H(+)
+EC:7.1.1.6	a plastoquinone, H(+), reduced [plastocyanin]
