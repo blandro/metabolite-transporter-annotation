@@ -5,3 +5,9 @@ chebi_data/ChEBI_complete_3star.sdf
 SMILES_INCHI/chebiDf.tsv
 tcdb_data_combined.csv
 tcdb_data_chebi.csv
+uniprot/*.tsv
+bigg_rhea/*.pickle
+go/*.owl
+bigg_rhea/substrate_to_transporter_neighbors.tsv
+bigg_rhea/transporter_to_substrate_neighbors.tsv
+bigg_rhea/Intersections_4.txt
