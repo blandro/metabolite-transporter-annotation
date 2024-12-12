@@ -14,3 +14,5 @@ bigg_rhea/transporter_to_substrate_neighbors.tsv
 bigg_rhea/Intersections_4.txt
 chebi_data/*.pkl
 tcdb_df.csv
+go/go_term_label.csv
+tcdb_excerpt.csv
