@@ -5,16 +5,14 @@ The transporter can use H+, Na+ or K+.
 
 
 Complete DeepTMHMM
-Filter out transporters that have substrates with children in Chebi
-Extract MW, charge, polarity, InChI, SMILES
+Filter out transporters that have substrates with children in Chebi x
+Extract MW, charge, polarity, InChI, SMILES (not InChi) x
 Dive into ontology of the transporters
 
-Find the final children with no other children
-SMILES and InChI are probably smart to dive into
+Find the final children with no other children x
+SMILES and InChI are probably smart to dive into -> Only use SMILES x
 Maybe use as they are, or extract some data from them to my pipeline
 UNDERSTAND THEM
-
-Go from leaf children to TCDB number, either through Chebi, UniProt or GOterms.
 
 SMILES:
 Examples of stereochemistry that cannot be encoded into a SMILES include:
