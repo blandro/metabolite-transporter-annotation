@@ -5,6 +5,7 @@ chebi_data/ChEBI_complete_3star.sdf
 SMILES_INCHI/chebiDf.tsv
 tcdb_data_combined.csv
 tcdb_data_chebi.csv
+tcdb_chebis.csv
 uniprot/*.tsv
 bigg_rhea/*.pickle
 go/*.owl
