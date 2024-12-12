@@ -12,3 +12,5 @@ go/*.owl
 bigg_rhea/substrate_to_transporter_neighbors.tsv
 bigg_rhea/transporter_to_substrate_neighbors.tsv
 bigg_rhea/Intersections_4.txt
+chebi_data/*.pkl
+tcdb_df.csv
