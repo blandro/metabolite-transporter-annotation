@@ -5,3 +5,6 @@ A project trying to annotate metabolite transporters and their respective substr
 Primarily, the repo this far, investigates the overlap between databases, as well as the construction of a dataframe compiled on data from TCDB, ChEBI and Rhea. 
 
 If succesful, an ML based classification system might predict transport reactions based on protein features, and might suggest other, similar substrates transportable by the proteins. Eventually, a pipeline validation will be done on the genomes of well-studied microorganisms to test and compare.
+
+The current version of the dataframe is under the name DF.
+This does not correspond directly to what can be seen in the code, this is only due to various tests and analysis.
